@@ -1,0 +1,1037 @@
+{
+  "source_id": "cijian",
+  "title": "此间的少年",
+  "author": "江南",
+  "edition": "Local EPUB; publisher, ISBN and correspondence to a print edition not verified",
+  "repacked_epub_sha256": "6105ab26d5a145702524a76fd4d1110394219d9d22e67824770254fce7170838",
+  "reading_status": {
+    "full_text_read": true,
+    "main_chapters": 10,
+    "afterword_read": true,
+    "navigation_entries": 76,
+    "text_entries": 75,
+    "cover_art_read": false,
+    "extraction_source_characters": 151302,
+    "reader_body_characters_including_headings_watermarks": 147933
+  },
+  "anchor_contract": "cijian:chNN:Pxxxx-Pyyyy -> OEBPS/chNN.html -> matching local paragraph reader; not print pages",
+  "source_files": [
+    {
+      "path": "META-INF/container.xml",
+      "bytes": 261,
+      "sha256": "d21cb2acc38f790a8b09a4ed0cb2df6037c6a06d99d98216d5597670225c595e"
+    },
+    {
+      "path": "OEBPS/ch1.html",
+      "bytes": 506,
+      "sha256": "bf612d03067123e05675302d0672451ba520cf35bb7ff13319de364e59c3dfd9"
+    },
+    {
+      "path": "OEBPS/ch10.html",
+      "bytes": 6686,
+      "sha256": "42d4e42e9f604a28a5da29b0c15c828bc43823cf63353958acf945f9e776dc6b"
+    },
+    {
+      "path": "OEBPS/ch11.html",
+      "bytes": 5037,
+      "sha256": "9f9c52c6e9a92aa58006226fc5a32a0a7a32db88eb0107af43f6ccee86a557f0"
+    },
+    {
+      "path": "OEBPS/ch12.html",
+      "bytes": 5457,
+      "sha256": "e86e8531f8ee144686e353a1179cd15f6dfb5704f5b844512ad5784502bbdcfe"
+    },
+    {
+      "path": "OEBPS/ch13.html",
+      "bytes": 5481,
+      "sha256": "1e9ed93c357e1071c7597c2f17515f142a78e80a36d45d75f250922c51935eea"
+    },
+    {
+      "path": "OEBPS/ch14.html",
+      "bytes": 4753,
+      "sha256": "91b62f4ab9104842409d47892a802640f02ce3d1decba78929c9a55562ae01fb"
+    },
+    {
+      "path": "OEBPS/ch15.html",
+      "bytes": 8871,
+      "sha256": "4539c464e108f5ece56072e8ce935d975500ad46f065761de4dd65da0bcc286d"
+    },
+    {
+      "path": "OEBPS/ch16.html",
+      "bytes": 7176,
+      "sha256": "b6d4beb2b9552c57954489ecbf82ba24407beb0457ce400800ec70a9a8af346a"
+    },
+    {
+      "path": "OEBPS/ch17.html",
+      "bytes": 4754,
+      "sha256": "6ce071ad88104712ff6d8e3ce28d76334d3b48627049e3147de59f80320678b0"
+    },
+    {
+      "path": "OEBPS/ch18.html",
+      "bytes": 7478,
+      "sha256": "ede3602d439c07286f4600bd3a9af2958253cd91f3bd7ed827daf59bfea8eeb3"
+    },
+    {
+      "path": "OEBPS/ch19.html",
+      "bytes": 7817,
+      "sha256": "6ec179f2b973263586f99716a3fa7508909cd3259cfcccef5ba830464ea176c1"
+    },
+    {
+      "path": "OEBPS/ch2.html",
+      "bytes": 2999,
+      "sha256": "9a8d472c20c585db5c70d2769a46f16d1d6963d4237d56ee0d0109c19065af17"
+    },
+    {
+      "path": "OEBPS/ch20.html",
+      "bytes": 7524,
+      "sha256": "84a1917d929d6cfc9ae4b631b23de22afd03bcfebeb3ff8023468f2afa2ff620"
+    },
+    {
+      "path": "OEBPS/ch21.html",
+      "bytes": 4317,
+      "sha256": "e9a8b56201728794179da536c5786d8f664512738236adc441dc4d1e4b637c2e"
+    },
+    {
+      "path": "OEBPS/ch22.html",
+      "bytes": 4649,
+      "sha256": "acb8495e6742d887c264e436452f0921468639e2b006a38c34e08b00656a4249"
+    },
+    {
+      "path": "OEBPS/ch23.html",
+      "bytes": 6791,
+      "sha256": "a16c03f14e03f60151adccf39e3c289cce749f40eca9540979f79a3a796aea37"
+    },
+    {
+      "path": "OEBPS/ch24.html",
+      "bytes": 9267,
+      "sha256": "ffe402f0a4cd47daeb2896cd5bb9f41094f695ece1330a1b6dc16ba9d7355306"
+    },
+    {
+      "path": "OEBPS/ch25.html",
+      "bytes": 7257,
+      "sha256": "6580a6a7bfca01c8199fc81510d8db93c6f95474d7e38da981eaa384d48259a8"
+    },
+    {
+      "path": "OEBPS/ch26.html",
+      "bytes": 9435,
+      "sha256": "c758e0d81d9e1992f720147817a6eac0155f67277426e9888f1a27a8bd294a4b"
+    },
+    {
+      "path": "OEBPS/ch27.html",
+      "bytes": 6936,
+      "sha256": "7fe5305b43e1a3ba35736069e133c6317d031e3baeacf2a303c743d8875a2ade"
+    },
+    {
+      "path": "OEBPS/ch28.html",
+      "bytes": 4920,
+      "sha256": "7f61b406c1cc2987d8b0d71e052e82c6b9b85c450eb4a7b3416578d7c983e8ca"
+    },
+    {
+      "path": "OEBPS/ch29.html",
+      "bytes": 7893,
+      "sha256": "0cef832fb07eb7a67636128d95c3c1cc58a2ad8fb74c2a35ae62a796ade7ab53"
+    },
+    {
+      "path": "OEBPS/ch3.html",
+      "bytes": 7781,
+      "sha256": "71f892b59b50762e65cb772282323d8a01d81b787b771954c397724c386fe6f0"
+    },
+    {
+      "path": "OEBPS/ch30.html",
+      "bytes": 7616,
+      "sha256": "bd8a92a714ff4ef8494d063edbe8b4597e228098d8652baec4cf753563a4e0d0"
+    },
+    {
+      "path": "OEBPS/ch31.html",
+      "bytes": 7848,
+      "sha256": "fe019df7730e9081b369d2a1a4e7cb9018ebc5ba308df4be1f09028a66e70614"
+    },
+    {
+      "path": "OEBPS/ch32.html",
+      "bytes": 8382,
+      "sha256": "d7f6dd15d598cdf4390b8d201bf6212818bd500261651ace41552fcf2569d659"
+    },
+    {
+      "path": "OEBPS/ch33.html",
+      "bytes": 5378,
+      "sha256": "92fcdf74dec3a93360c55d547cefbb04d8a08026e982f48230be8203fd1d0521"
+    },
+    {
+      "path": "OEBPS/ch34.html",
+      "bytes": 6007,
+      "sha256": "eff69fb705a7eb268042d94828827984b64039774cfc0aedd726bed45c54ed95"
+    },
+    {
+      "path": "OEBPS/ch35.html",
+      "bytes": 4437,
+      "sha256": "6e4e7bce5b303760979a5ecb1d4e129d047814c56994efe0fadda08f87e39718"
+    },
+    {
+      "path": "OEBPS/ch36.html",
+      "bytes": 6267,
+      "sha256": "4c1f5c2b9b1f79eeca4e218d7cfdb360de4c60362b65819fc2cdda7587f8717b"
+    },
+    {
+      "path": "OEBPS/ch37.html",
+      "bytes": 6090,
+      "sha256": "89676be6e4d898bedd037c4160286c0093ec09511b3b62539e614a22ce45dc64"
+    },
+    {
+      "path": "OEBPS/ch38.html",
+      "bytes": 5207,
+      "sha256": "aba02c8e85dacc771a97176f93d1a61ef8d0894d2ba68e577a9b0d614b499c8b"
+    },
+    {
+      "path": "OEBPS/ch39.html",
+      "bytes": 7320,
+      "sha256": "80fed25948d26ecb228978f53f3f318b9d85fa9b4c335229af04cc045ed4914b"
+    },
+    {
+      "path": "OEBPS/ch4.html",
+      "bytes": 8781,
+      "sha256": "3704fa87c04fe7517604b2e7acb1ddb0e2ddc02405bcc08ddb950f0b5d2135a6"
+    },
+    {
+      "path": "OEBPS/ch40.html",
+      "bytes": 9072,
+      "sha256": "9383869ec25687f2b18d2f67b3639b46d1459e22b28e8daacc04cd1087b0411f"
+    },
+    {
+      "path": "OEBPS/ch41.html",
+      "bytes": 7130,
+      "sha256": "102c02d9274403d075928b177c135ae6e47b6377d6cd9df3744f8a5891b2638b"
+    },
+    {
+      "path": "OEBPS/ch42.html",
+      "bytes": 6948,
+      "sha256": "6033abcb1283a568f8b3a7a0220be0b2170deff0b57b2d21280a7d1d68916621"
+    },
+    {
+      "path": "OEBPS/ch43.html",
+      "bytes": 9401,
+      "sha256": "58a384697133ccfa17b5a3b37efe82e0d5583dfcba50f7e9e778c877b1c4c6cf"
+    },
+    {
+      "path": "OEBPS/ch44.html",
+      "bytes": 3993,
+      "sha256": "3598949b2283f6a1c24511c876a5f3f66651eea0ad26e95f7f508c57006969f8"
+    },
+    {
+      "path": "OEBPS/ch45.html",
+      "bytes": 6138,
+      "sha256": "ea1eb0ca41d3625e52cd9d84b513ad6d59a9e38dc36d9cbe983f3ddec9af919d"
+    },
+    {
+      "path": "OEBPS/ch46.html",
+      "bytes": 8006,
+      "sha256": "73a73ebb2afeee2e6cce2b715af9639eaacef188eb12038616d7d4bdf3ef1a7c"
+    },
+    {
+      "path": "OEBPS/ch47.html",
+      "bytes": 5865,
+      "sha256": "3a469bcd03c5a290b01167f7cbbdbe3987ed69302100393d37f312eb7b422e53"
+    },
+    {
+      "path": "OEBPS/ch48.html",
+      "bytes": 6850,
+      "sha256": "44afe8c5db04134c943fce378ee8834bea176345cdd75fc151a35a8e95240893"
+    },
+    {
+      "path": "OEBPS/ch49.html",
+      "bytes": 4080,
+      "sha256": "699bf63f8e492f144717f16950392ebbf9f6846b3d8fa7da808f0af406722395"
+    },
+    {
+      "path": "OEBPS/ch5.html",
+      "bytes": 4456,
+      "sha256": "585915f6e15ac323bf6a7bfd0e75074c50b999a701bf21f2a37a65a3f0ad61a0"
+    },
+    {
+      "path": "OEBPS/ch50.html",
+      "bytes": 5387,
+      "sha256": "7c8a2a7f43faaac432ba2519388f2f4a953893a837efc9345b6239c1b49419e1"
+    },
+    {
+      "path": "OEBPS/ch51.html",
+      "bytes": 8587,
+      "sha256": "8857dff1836151061e6f017bd44012fc09aacf8f2162456f8b116336b47183be"
+    },
+    {
+      "path": "OEBPS/ch52.html",
+      "bytes": 5162,
+      "sha256": "ffed5ccc48d2977cc5decb51fcd72739bf0e9fac9f13fd9a5cf29c9eb718278a"
+    },
+    {
+      "path": "OEBPS/ch53.html",
+      "bytes": 5673,
+      "sha256": "18246ea823ef51f05fd1aacdf67cabeb02e81e95f117c8e51560bdf908050006"
+    },
+    {
+      "path": "OEBPS/ch54.html",
+      "bytes": 5322,
+      "sha256": "aafe136850dc1eb2848eeb85089db1f4d2853668fe97d7e0a68d63a3fc275a62"
+    },
+    {
+      "path": "OEBPS/ch55.html",
+      "bytes": 6735,
+      "sha256": "5e6bf42fbfba6a958557aa0d789babd37326863b478c076bae5f7c29d4187d78"
+    },
+    {
+      "path": "OEBPS/ch56.html",
+      "bytes": 8718,
+      "sha256": "c7445b6b7d00259c366c9d48f332f0e8423c3b2a0c0d485bd4dbeb6713996635"
+    },
+    {
+      "path": "OEBPS/ch57.html",
+      "bytes": 9498,
+      "sha256": "8263814b5d62a55de6d781c39e2e55a53a7033451b6522a589f2841057f84cff"
+    },
+    {
+      "path": "OEBPS/ch58.html",
+      "bytes": 5401,
+      "sha256": "52e67c833333172175283ea64eb0f07d0a2a6bda1a638d828b219211161308e0"
+    },
+    {
+      "path": "OEBPS/ch59.html",
+      "bytes": 4269,
+      "sha256": "b1d2d3570dce5fa1c6245e792dea3f1b13bcda6f2414d0db8294706b7638e0a4"
+    },
+    {
+      "path": "OEBPS/ch6.html",
+      "bytes": 7391,
+      "sha256": "8c154b6e0221585caa6957b05261df65721fc0822ef954dce5fa23944dc29209"
+    },
+    {
+      "path": "OEBPS/ch60.html",
+      "bytes": 6478,
+      "sha256": "9f85eff46f552fe9bb000d77547b0ba3b24ba1d3800680c151f9592638746ab1"
+    },
+    {
+      "path": "OEBPS/ch61.html",
+      "bytes": 5679,
+      "sha256": "4604593899675b277e96501cbdd94afc0fa160a868ed0735c70763529bacd7c1"
+    },
+    {
+      "path": "OEBPS/ch62.html",
+      "bytes": 4866,
+      "sha256": "e1da83bd15cadbadb927d9813b9c4b8d093e9f44271da3fb5c586e3c61d13e5c"
+    },
+    {
+      "path": "OEBPS/ch63.html",
+      "bytes": 3975,
+      "sha256": "3b647440d5eca8425ed8482da860f4e4702c5c870fd4195f1e61e02c101e7ee6"
+    },
+    {
+      "path": "OEBPS/ch64.html",
+      "bytes": 8333,
+      "sha256": "1482f7bde4e51e7f597bb5deebd6a9584ecb7d99a95ab11444608d57d6ce2329"
+    },
+    {
+      "path": "OEBPS/ch65.html",
+      "bytes": 6639,
+      "sha256": "4a7fd8e099e42f07525bc7f0401c06d5a64ac7a4a6921fae44bd2d0fdad9dd56"
+    },
+    {
+      "path": "OEBPS/ch66.html",
+      "bytes": 8997,
+      "sha256": "4c5ea2a0be9dcc358cc019be2563e2f9178b1a78bf2ef4f2494eda89ccb9ee6e"
+    },
+    {
+      "path": "OEBPS/ch67.html",
+      "bytes": 6393,
+      "sha256": "796071c4bf4c6d6a395c09da6df1bb7f2176180dabc50082d07f70d5000874ae"
+    },
+    {
+      "path": "OEBPS/ch68.html",
+      "bytes": 4653,
+      "sha256": "9785991814cf2f3f194ee94b48d013d9baa4ea8a6ffb2ed5dfea91c7901b4cfb"
+    },
+    {
+      "path": "OEBPS/ch69.html",
+      "bytes": 6126,
+      "sha256": "8cc3492a5101bade45f7752025ae3deddf2b54b5ebbf313ec2fbcd425a318c06"
+    },
+    {
+      "path": "OEBPS/ch7.html",
+      "bytes": 3750,
+      "sha256": "1c964f07a2fd7403cbe6ef99ef413eadd15f16c67a72a6862ea84459385b85c4"
+    },
+    {
+      "path": "OEBPS/ch70.html",
+      "bytes": 6542,
+      "sha256": "d1703e8cad669444b239425850ed5803cedf158720dc3e362a45d455de4c2f0e"
+    },
+    {
+      "path": "OEBPS/ch71.html",
+      "bytes": 5845,
+      "sha256": "798bea9a8e7923172a1c4563d97c43a7084ef58681d222900a78b07fa2c27aa5"
+    },
+    {
+      "path": "OEBPS/ch72.html",
+      "bytes": 5299,
+      "sha256": "7db7ff71439ccff1a06acafed272ddc3d3041de4c676940b6c40ee6c4c7e8794"
+    },
+    {
+      "path": "OEBPS/ch73.html",
+      "bytes": 6986,
+      "sha256": "0d5d65dedb6801ba83925db1bbb685be082bd6dcb62afde0b60e68c1fc0a88de"
+    },
+    {
+      "path": "OEBPS/ch74.html",
+      "bytes": 6234,
+      "sha256": "bb5e42af3771d65632badfab48cb39463310aecbd99ed67a659b8b17c95ba755"
+    },
+    {
+      "path": "OEBPS/ch75.html",
+      "bytes": 9893,
+      "sha256": "f6aeeb3d7d01cc8290d33d00f0150a11f68eb8e9887fd44456f2373941276817"
+    },
+    {
+      "path": "OEBPS/ch8.html",
+      "bytes": 7263,
+      "sha256": "25c4b065f1a8c73aae63f415e938d363ac8a21efe79b6b3cd7591ea0e5756da6"
+    },
+    {
+      "path": "OEBPS/ch9.html",
+      "bytes": 4482,
+      "sha256": "8ece63973a7d0ae185124bbc07de03e0ab9ca0c0a0f95ce6c2038bef555c731b"
+    },
+    {
+      "path": "OEBPS/content.opf",
+      "bytes": 8188,
+      "sha256": "02ec8a44b1bf916733b2efed513e65c940e84b68e151487e2b735e6da4812312"
+    },
+    {
+      "path": "OEBPS/cover.bmp",
+      "bytes": 68814,
+      "sha256": "3eb2c5b3b7eaa8b0b92785035bead0e056442e2765ff9156b5d859e0d308c76e"
+    },
+    {
+      "path": "OEBPS/coverpage.xhtml",
+      "bytes": 267,
+      "sha256": "3a1a19a346a1dc7fdc5a9557ac92e12a54b8253d42f66a394b08253f877abbde"
+    },
+    {
+      "path": "OEBPS/toc.ncx",
+      "bytes": 10632,
+      "sha256": "cf63d37d910ad4b5f61222c5345ab76ca14794b70033aecf17e3853c9b3bcfba"
+    },
+    {
+      "path": "mimetype",
+      "bytes": 20,
+      "sha256": "e468e350d1143eb648f60c7b0bd6031101ec0544a361ca74ecef256ac901f48b"
+    }
+  ],
+  "navigation": [
+    {
+      "title": "封面",
+      "chapter": null,
+      "source": "coverpage.xhtml",
+      "reader_file": "coverpage.txt",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "title": "《此间的少年》",
+      "chapter": null,
+      "source": "ch1.html",
+      "reader_file": "ch1.txt",
+      "paragraphs": 4,
+      "characters": 114
+    },
+    {
+      "title": "第一章 相逢 楔子",
+      "chapter": "第一章 相逢 楔子",
+      "source": "ch2.html",
+      "reader_file": "ch2.txt",
+      "paragraphs": 12,
+      "characters": 907
+    },
+    {
+      "title": "第一节 校园开学",
+      "chapter": "第一章 相逢 楔子",
+      "source": "ch3.html",
+      "reader_file": "ch3.txt",
+      "paragraphs": 46,
+      "characters": 2400
+    },
+    {
+      "title": "第二节 此男和彼女相遇",
+      "chapter": "第一章 相逢 楔子",
+      "source": "ch4.html",
+      "reader_file": "ch4.txt",
+      "paragraphs": 33,
+      "characters": 2768
+    },
+    {
+      "title": "第三节 路遇",
+      "chapter": "第一章 相逢 楔子",
+      "source": "ch5.html",
+      "reader_file": "ch5.txt",
+      "paragraphs": 25,
+      "characters": 1360
+    },
+    {
+      "title": "第四节 汴京大学报到",
+      "chapter": "第一章 相逢 楔子",
+      "source": "ch6.html",
+      "reader_file": "ch6.txt",
+      "paragraphs": 33,
+      "characters": 2333
+    },
+    {
+      "title": "第五节 杨穆相遇",
+      "chapter": "第一章 相逢 楔子",
+      "source": "ch7.html",
+      "reader_file": "ch7.txt",
+      "paragraphs": 20,
+      "characters": 1133
+    },
+    {
+      "title": "第六节 令狐冲登场",
+      "chapter": "第一章 相逢 楔子",
+      "source": "ch8.html",
+      "reader_file": "ch8.txt",
+      "paragraphs": 36,
+      "characters": 2257
+    },
+    {
+      "title": "第二章 郭靖（I） 第一节 宿舍成员",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch9.html",
+      "reader_file": "ch9.txt",
+      "paragraphs": 27,
+      "characters": 1352
+    },
+    {
+      "title": "第二节 自行车的事故",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch10.html",
+      "reader_file": "ch10.txt",
+      "paragraphs": 36,
+      "characters": 2063
+    },
+    {
+      "title": "第三节 一个月的苦力劳动",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch11.html",
+      "reader_file": "ch11.txt",
+      "paragraphs": 19,
+      "characters": 1561
+    },
+    {
+      "title": "第四节 自己的孤独",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch12.html",
+      "reader_file": "ch12.txt",
+      "paragraphs": 30,
+      "characters": 1671
+    },
+    {
+      "title": "第五节 久违的温暖",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch13.html",
+      "reader_file": "ch13.txt",
+      "paragraphs": 32,
+      "characters": 1673
+    },
+    {
+      "title": "第六节 宿舍",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch14.html",
+      "reader_file": "ch14.txt",
+      "paragraphs": 29,
+      "characters": 1443
+    },
+    {
+      "title": "第七节 朋友",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch15.html",
+      "reader_file": "ch15.txt",
+      "paragraphs": 41,
+      "characters": 2787
+    },
+    {
+      "title": "第八节 图书馆",
+      "chapter": "第二章 郭靖（I）",
+      "source": "ch16.html",
+      "reader_file": "ch16.txt",
+      "paragraphs": 41,
+      "characters": 2215
+    },
+    {
+      "title": "第三章 乔峰（I） 第一节 关系铁",
+      "chapter": "第三章 乔峰（I）",
+      "source": "ch17.html",
+      "reader_file": "ch17.txt",
+      "paragraphs": 18,
+      "characters": 1476
+    },
+    {
+      "title": "第二节 一次篮球赛",
+      "chapter": "第三章 乔峰（I）",
+      "source": "ch18.html",
+      "reader_file": "ch18.txt",
+      "paragraphs": 30,
+      "characters": 2352
+    },
+    {
+      "title": "第三节 喝酒",
+      "chapter": "第三章 乔峰（I）",
+      "source": "ch19.html",
+      "reader_file": "ch19.txt",
+      "paragraphs": 58,
+      "characters": 2378
+    },
+    {
+      "title": "第四节 散伙饭",
+      "chapter": "第三章 乔峰（I）",
+      "source": "ch20.html",
+      "reader_file": "ch20.txt",
+      "paragraphs": 44,
+      "characters": 2326
+    },
+    {
+      "title": "第五节 滑稽的转变",
+      "chapter": "第三章 乔峰（I）",
+      "source": "ch21.html",
+      "reader_file": "ch21.txt",
+      "paragraphs": 29,
+      "characters": 1294
+    },
+    {
+      "title": "第四章 郭靖（II） 第一节 约会",
+      "chapter": "第四章 郭靖（II）",
+      "source": "ch22.html",
+      "reader_file": "ch22.txt",
+      "paragraphs": 28,
+      "characters": 1409
+    },
+    {
+      "title": "第二节 爱情生活研讨会",
+      "chapter": "第四章 郭靖（II）",
+      "source": "ch23.html",
+      "reader_file": "ch23.txt",
+      "paragraphs": 39,
+      "characters": 2094
+    },
+    {
+      "title": "第五章 令狐冲（I）第一节 愤青",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch24.html",
+      "reader_file": "ch24.txt",
+      "paragraphs": 35,
+      "characters": 2925
+    },
+    {
+      "title": "第二节 人物",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch25.html",
+      "reader_file": "ch25.txt",
+      "paragraphs": 56,
+      "characters": 2196
+    },
+    {
+      "title": "第三节 第一个大计划",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch26.html",
+      "reader_file": "ch26.txt",
+      "paragraphs": 61,
+      "characters": 2903
+    },
+    {
+      "title": "第四节 舞会的开始",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch27.html",
+      "reader_file": "ch27.txt",
+      "paragraphs": 38,
+      "characters": 2170
+    },
+    {
+      "title": "第五节 第一个高峰",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch28.html",
+      "reader_file": "ch28.txt",
+      "paragraphs": 38,
+      "characters": 1468
+    },
+    {
+      "title": "第六节 跳舞",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch29.html",
+      "reader_file": "ch29.txt",
+      "paragraphs": 41,
+      "characters": 2453
+    },
+    {
+      "title": "第七节 舞伴",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch30.html",
+      "reader_file": "ch30.txt",
+      "paragraphs": 40,
+      "characters": 2365
+    },
+    {
+      "title": "第八节 舞会结束",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch31.html",
+      "reader_file": "ch31.txt",
+      "paragraphs": 46,
+      "characters": 2421
+    },
+    {
+      "title": "第九节 乔峰",
+      "chapter": "第五章 令狐冲（I）",
+      "source": "ch32.html",
+      "reader_file": "ch32.txt",
+      "paragraphs": 62,
+      "characters": 2555
+    },
+    {
+      "title": "第六章 令狐冲（II） 第一节 领补助",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch33.html",
+      "reader_file": "ch33.txt",
+      "paragraphs": 30,
+      "characters": 1640
+    },
+    {
+      "title": "第二节 苦力合同",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch34.html",
+      "reader_file": "ch34.txt",
+      "paragraphs": 32,
+      "characters": 1854
+    },
+    {
+      "title": "第三节 独孤求败",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch35.html",
+      "reader_file": "ch35.txt",
+      "paragraphs": 19,
+      "characters": 1367
+    },
+    {
+      "title": "第四节 百年校庆",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch36.html",
+      "reader_file": "ch36.txt",
+      "paragraphs": 21,
+      "characters": 1969
+    },
+    {
+      "title": "第五节 公平永远是个大问题",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch37.html",
+      "reader_file": "ch37.txt",
+      "paragraphs": 24,
+      "characters": 1898
+    },
+    {
+      "title": "第六节 男生宿舍",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch38.html",
+      "reader_file": "ch38.txt",
+      "paragraphs": 26,
+      "characters": 1606
+    },
+    {
+      "title": "第七节 三张票",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch39.html",
+      "reader_file": "ch39.txt",
+      "paragraphs": 56,
+      "characters": 2224
+    },
+    {
+      "title": "第八节 分票风波",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch40.html",
+      "reader_file": "ch40.txt",
+      "paragraphs": 54,
+      "characters": 2805
+    },
+    {
+      "title": "第九节 朱聪",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch41.html",
+      "reader_file": "ch41.txt",
+      "paragraphs": 27,
+      "characters": 2246
+    },
+    {
+      "title": "第十节 师徒散步",
+      "chapter": "第六章 令狐冲（II）",
+      "source": "ch42.html",
+      "reader_file": "ch42.txt",
+      "paragraphs": 42,
+      "characters": 2137
+    },
+    {
+      "title": "第七章 令狐冲（III） 第一节 校庆的夜晚",
+      "chapter": "第七章 令狐冲（III）",
+      "source": "ch43.html",
+      "reader_file": "ch43.txt",
+      "paragraphs": 46,
+      "characters": 2934
+    },
+    {
+      "title": "第二节 校庆的最后一夜",
+      "chapter": "第七章 令狐冲（III）",
+      "source": "ch44.html",
+      "reader_file": "ch44.txt",
+      "paragraphs": 20,
+      "characters": 1211
+    },
+    {
+      "title": "第三节 留下的记忆",
+      "chapter": "第七章 令狐冲（III）",
+      "source": "ch45.html",
+      "reader_file": "ch45.txt",
+      "paragraphs": 45,
+      "characters": 1853
+    },
+    {
+      "title": "第八章 段誉 第一节 花痴",
+      "chapter": "第八章 段誉",
+      "source": "ch46.html",
+      "reader_file": "ch46.txt",
+      "paragraphs": 42,
+      "characters": 2648
+    },
+    {
+      "title": "第二节 花痴成情圣",
+      "chapter": "第八章 段誉",
+      "source": "ch47.html",
+      "reader_file": "ch47.txt",
+      "paragraphs": 27,
+      "characters": 1816
+    },
+    {
+      "title": "第三节 痴迷",
+      "chapter": "第八章 段誉",
+      "source": "ch48.html",
+      "reader_file": "ch48.txt",
+      "paragraphs": 42,
+      "characters": 2105
+    },
+    {
+      "title": "第四节 爱情作战",
+      "chapter": "第八章 段誉",
+      "source": "ch49.html",
+      "reader_file": "ch49.txt",
+      "paragraphs": 25,
+      "characters": 1228
+    },
+    {
+      "title": "第五节 谁的女友",
+      "chapter": "第八章 段誉",
+      "source": "ch50.html",
+      "reader_file": "ch50.txt",
+      "paragraphs": 36,
+      "characters": 1644
+    },
+    {
+      "title": "第六节 追王语嫣",
+      "chapter": "第八章 段誉",
+      "source": "ch51.html",
+      "reader_file": "ch51.txt",
+      "paragraphs": 55,
+      "characters": 2644
+    },
+    {
+      "title": "第七节 情为何物",
+      "chapter": "第八章 段誉",
+      "source": "ch52.html",
+      "reader_file": "ch52.txt",
+      "paragraphs": 29,
+      "characters": 1578
+    },
+    {
+      "title": "第八节 湖边相遇",
+      "chapter": "第八章 段誉",
+      "source": "ch53.html",
+      "reader_file": "ch53.txt",
+      "paragraphs": 20,
+      "characters": 1774
+    },
+    {
+      "title": "第九节 山重水复",
+      "chapter": "第八章 段誉",
+      "source": "ch54.html",
+      "reader_file": "ch54.txt",
+      "paragraphs": 32,
+      "characters": 1621
+    },
+    {
+      "title": "第十节 爱情进行",
+      "chapter": "第八章 段誉",
+      "source": "ch55.html",
+      "reader_file": "ch55.txt",
+      "paragraphs": 34,
+      "characters": 2122
+    },
+    {
+      "title": "第十一节 我们的王语嫣",
+      "chapter": "第八章 段誉",
+      "source": "ch56.html",
+      "reader_file": "ch56.txt",
+      "paragraphs": 36,
+      "characters": 2746
+    },
+    {
+      "title": "第十二节 完全不同的世界",
+      "chapter": "第八章 段誉",
+      "source": "ch57.html",
+      "reader_file": "ch57.txt",
+      "paragraphs": 55,
+      "characters": 2946
+    },
+    {
+      "title": "第十三节 十八岁的慕容复",
+      "chapter": "第八章 段誉",
+      "source": "ch58.html",
+      "reader_file": "ch58.txt",
+      "paragraphs": 23,
+      "characters": 1681
+    },
+    {
+      "title": "第十四节 惟一的真实",
+      "chapter": "第八章 段誉",
+      "source": "ch59.html",
+      "reader_file": "ch59.txt",
+      "paragraphs": 26,
+      "characters": 1286
+    },
+    {
+      "title": "第十五节 一生守候",
+      "chapter": "第八章 段誉",
+      "source": "ch60.html",
+      "reader_file": "ch60.txt",
+      "paragraphs": 57,
+      "characters": 1936
+    },
+    {
+      "title": "第九章 杨康 第一节 一种错觉",
+      "chapter": "第九章 杨康",
+      "source": "ch61.html",
+      "reader_file": "ch61.txt",
+      "paragraphs": 22,
+      "characters": 1775
+    },
+    {
+      "title": "第二节 第一次为穆念慈出头",
+      "chapter": "第九章 杨康",
+      "source": "ch62.html",
+      "reader_file": "ch62.txt",
+      "paragraphs": 23,
+      "characters": 1491
+    },
+    {
+      "title": "第三节 选择",
+      "chapter": "第九章 杨康",
+      "source": "ch63.html",
+      "reader_file": "ch63.txt",
+      "paragraphs": 21,
+      "characters": 1207
+    },
+    {
+      "title": "第四节 真的寂寞",
+      "chapter": "第九章 杨康",
+      "source": "ch64.html",
+      "reader_file": "ch64.txt",
+      "paragraphs": 46,
+      "characters": 2584
+    },
+    {
+      "title": "第五节 感情白痴",
+      "chapter": "第九章 杨康",
+      "source": "ch65.html",
+      "reader_file": "ch65.txt",
+      "paragraphs": 35,
+      "characters": 2051
+    },
+    {
+      "title": "第六节 “穆念慈”和“女朋友”",
+      "chapter": "第九章 杨康",
+      "source": "ch66.html",
+      "reader_file": "ch66.txt",
+      "paragraphs": 67,
+      "characters": 2734
+    },
+    {
+      "title": "第七节 第一封情书",
+      "chapter": "第九章 杨康",
+      "source": "ch67.html",
+      "reader_file": "ch67.txt",
+      "paragraphs": 42,
+      "characters": 1947
+    },
+    {
+      "title": "第八节 失望的约会",
+      "chapter": "第九章 杨康",
+      "source": "ch68.html",
+      "reader_file": "ch68.txt",
+      "paragraphs": 28,
+      "characters": 1409
+    },
+    {
+      "title": "第九节 生日快乐",
+      "chapter": "第九章 杨康",
+      "source": "ch69.html",
+      "reader_file": "ch69.txt",
+      "paragraphs": 35,
+      "characters": 1880
+    },
+    {
+      "title": "第十节 杨康是个大坏蛋",
+      "chapter": "第九章 杨康",
+      "source": "ch70.html",
+      "reader_file": "ch70.txt",
+      "paragraphs": 51,
+      "characters": 1971
+    },
+    {
+      "title": "第十章 乔峰（II） 第一节 毕业卖旧书",
+      "chapter": "第十章 乔峰（II）",
+      "source": "ch71.html",
+      "reader_file": "ch71.txt",
+      "paragraphs": 36,
+      "characters": 1788
+    },
+    {
+      "title": "第二节 悲欢离合",
+      "chapter": "第十章 乔峰（II）",
+      "source": "ch72.html",
+      "reader_file": "ch72.txt",
+      "paragraphs": 20,
+      "characters": 1654
+    },
+    {
+      "title": "第三节 男人的离别",
+      "chapter": "第十章 乔峰（II）",
+      "source": "ch73.html",
+      "reader_file": "ch73.txt",
+      "paragraphs": 42,
+      "characters": 2150
+    },
+    {
+      "title": "第四节 最后一次",
+      "chapter": "第十章 乔峰（II）",
+      "source": "ch74.html",
+      "reader_file": "ch74.txt",
+      "paragraphs": 54,
+      "characters": 1859
+    },
+    {
+      "title": "第五节 走了",
+      "chapter": "第十章 乔峰（II）",
+      "source": "ch75.html",
+      "reader_file": "ch75.txt",
+      "paragraphs": 56,
+      "characters": 3092
+    }
+  ],
+  "future_sources": [],
+  "notes": "Watermarks excluded from analysis. Raw source and reader files are outside this skill package."
+}
