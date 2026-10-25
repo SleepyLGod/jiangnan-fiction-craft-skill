@@ -37,3 +37,7 @@
 当前与过去有没有清楚入口？旧空间有没有实际被使用？变化是否影响下一步行动？哪些是文本明确交代、哪些是可选解释？结尾有没有越过人物处境，替他宣布成长与和解？
 
 关联：[ch03](ch03-cijian-retrospection.md) 的回到当前动作；[ch10](ch10-cijian-departure.md) 的首尾场景。
+
+## 本轮细读补充
+
+回忆的作用也可以是让读者经历时间和告别，不要求每段都立即改变下一动作；本轮具体回读见[描写D1](../references/techniques/close-reading-description.md)。

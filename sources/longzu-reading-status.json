@@ -1,0 +1,48 @@
+{
+  "scope": "Six local volumes approved for sequential full reading and fold-in to the existing skill",
+  "updated": "2026-10-24",
+  "volumes": [
+    {
+      "source_id": "lz1",
+      "title": "龙族Ⅰ：火之晨曦",
+      "full_text_read": true,
+      "integrated": true,
+      "input_extracted": true
+    },
+    {
+      "source_id": "lz2",
+      "title": "龙族Ⅱ：悼亡者之瞳",
+      "full_text_read": true,
+      "integrated": true,
+      "input_extracted": true
+    },
+    {
+      "source_id": "lz3a",
+      "title": "龙族Ⅲ：黑月之潮（上）",
+      "full_text_read": true,
+      "integrated": true,
+      "input_extracted": true
+    },
+    {
+      "source_id": "lz3b",
+      "title": "龙族Ⅲ：黑月之潮（中）",
+      "full_text_read": true,
+      "integrated": true,
+      "input_extracted": true
+    },
+    {
+      "source_id": "lz3c",
+      "title": "龙族Ⅲ：黑月之潮（下）",
+      "full_text_read": true,
+      "integrated": true,
+      "input_extracted": true
+    },
+    {
+      "source_id": "lz4",
+      "title": "龙族Ⅳ：奥丁之渊",
+      "full_text_read": true,
+      "integrated": true,
+      "input_extracted": true
+    }
+  ]
+}

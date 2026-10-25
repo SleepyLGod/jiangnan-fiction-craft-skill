@@ -33,3 +33,7 @@
 倒叙前后是哪一个动作被重新理解？过去的信息是否每段都必要？争执是否真的改变责任和资源？听者的不满能否从自己的处境理解，而不只是给强者当陪衬？
 
 关联：[ch05](ch05-cijian-party.md) 的阅读顺序与事件顺序；[ch10](ch10-cijian-departure.md) 的学习材料交接。
+
+## 本轮细读补充
+
+本章针对补足当前理解的倒叙，不把“只补必要经历”推广到所有追忆；离校夜允许感知与记忆停留，见[描写D1](../references/techniques/close-reading-description.md)及[跨书取舍](../references/techniques/cross-book-methods.md)。

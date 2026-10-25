@@ -1,0 +1,912 @@
+{
+  "source_id": "lz1",
+  "title": "龙族Ⅰ：火之晨曦",
+  "author": "江南",
+  "edition": "Local anthology EPUB volume; ISBN, print edition and textual equivalence not verified",
+  "generated": "2026-10-24",
+  "source_anthology": "江南作品合集套装共25册江南作品合集套装25册中国著名幻想小说作家千万册畅销奇迹制造者刘慈欣阿来李敬泽盛赞作家江南25册套装大合集囊括龙族九州缥缈录天之炽上海堡垒等知名作品.epub",
+  "source_opf_sha256": "e99b7907d4d4d83946a663aa70eeae3f8442433a58d7c71ddae518bcf61e7448",
+  "source_ncx_sha256": "b2fc076d6292f497e2121c5d9cddde8d0587118509a4ef9d06a936838677e7b1",
+  "repacked_epub_sha256": "926d4d69e7653139b57afbe55a002b9320f50b561a5b60b1ab952b644dd7f6b9",
+  "reading_status": {
+    "full_text_read": true,
+    "spine_items": 57,
+    "body_text_items": 54,
+    "body_paragraphs_including_headings": 5174,
+    "reading_chunks": 32,
+    "all_chunks_read": true,
+    "analysis_units": 12,
+    "dedication_included_with_prologue": true,
+    "extraction_characters_including_front_matter": 268331,
+    "referenced_images": 1,
+    "images_analyzed": false,
+    "print_pages": null
+  },
+  "anchor_contract": "lz1:partNNNN:Pxxxx-Pyyyy -> OEBPS/Text/partNNNN.xhtml; nonempty body p/h1-h6/li/pre/blockquote/leaf div blocks; normalize inline whitespace; include headings; one-based paragraphs; not print pages",
+  "source_files": [
+    {
+      "path": "OEBPS/Text/part0001.xhtml",
+      "sha256": "ae54abadafd0f38959b02315a33bc4d288fa9b95ced981874f3026240ff5e373",
+      "bytes": 441
+    },
+    {
+      "path": "OEBPS/Text/part0002.xhtml",
+      "sha256": "cfb0bbbde695b93a6354db180876ada435321b16714b7e74823b31fb66ef915a",
+      "bytes": 604
+    },
+    {
+      "path": "OEBPS/Text/part0003.xhtml",
+      "sha256": "b1f1fef1a721bf8c242544a9727c705bfb1c0312488a3a0b3050529f4e87855b",
+      "bytes": 6073
+    },
+    {
+      "path": "OEBPS/Text/part0004.xhtml",
+      "sha256": "d2fc2132b83ed5656ff7757101a1f73f37fc343bc4ba2fa83cc5e3974ca70f44",
+      "bytes": 684
+    },
+    {
+      "path": "OEBPS/Text/part0005.xhtml",
+      "sha256": "f614fd9451e9ac181fc9f8bef746c460718a3da80a74afc827fd8dea146ba535",
+      "bytes": 5432
+    },
+    {
+      "path": "OEBPS/Text/part0006.xhtml",
+      "sha256": "701f50173c4d1f7820f95d2b6d224afb9dec299b9c62ae8b50d727fcce4e09f6",
+      "bytes": 19528
+    },
+    {
+      "path": "OEBPS/Text/part0007.xhtml",
+      "sha256": "414ee2497857965c2ef4a77d1fb97293e0382f2c68162e39de64912cb451d706",
+      "bytes": 19296
+    },
+    {
+      "path": "OEBPS/Text/part0008.xhtml",
+      "sha256": "420716ef7c872948ef1afe72085d7f3eccdbf19a6e8f2fe0b85a7cc318009a3e",
+      "bytes": 20514
+    },
+    {
+      "path": "OEBPS/Text/part0009.xhtml",
+      "sha256": "ba23450757b16a6f19bd03fc15c7f1a9a7c9f0679d0b6a7a56e0a4012782f092",
+      "bytes": 20262
+    },
+    {
+      "path": "OEBPS/Text/part0010.xhtml",
+      "sha256": "7eaa2adc833e99854e346485f10034a99e0004476a3cb2f5fb8a36bb2d5f7461",
+      "bytes": 20280
+    },
+    {
+      "path": "OEBPS/Text/part0011.xhtml",
+      "sha256": "c59de6da7761403e7f2480547e1e6717fcc2f437fbd960a3a8c335a0836e481b",
+      "bytes": 15944
+    },
+    {
+      "path": "OEBPS/Text/part0012.xhtml",
+      "sha256": "efa4c1eb54ac46094ea61c52aca39d582e6648f04d919fdb4e567584c2e0be58",
+      "bytes": 16024
+    },
+    {
+      "path": "OEBPS/Text/part0013.xhtml",
+      "sha256": "7495ebfdc1177931f91eee08f9c37784a364a1351b9beda2c38d78d6eeb34b62",
+      "bytes": 20466
+    },
+    {
+      "path": "OEBPS/Text/part0014.xhtml",
+      "sha256": "071ec250e0eec38acdc75ea0e14eb3f300fbaf9b9e31e18d57db898767493be5",
+      "bytes": 19661
+    },
+    {
+      "path": "OEBPS/Text/part0015.xhtml",
+      "sha256": "08356f8996417a94074fbac76dadfce6987a79a2ab53716f8caf02c25fe6fdda",
+      "bytes": 18940
+    },
+    {
+      "path": "OEBPS/Text/part0016.xhtml",
+      "sha256": "c8aabe699a7337d1073f5dbbbbd26a136b9e911d11ab049f14d82d181dd2891c",
+      "bytes": 16164
+    },
+    {
+      "path": "OEBPS/Text/part0017.xhtml",
+      "sha256": "2edac0d7ec20a8bfee7e909b6e903f5dfa24a33d6aeefdef3f89e1f72853fd2d",
+      "bytes": 16160
+    },
+    {
+      "path": "OEBPS/Text/part0018.xhtml",
+      "sha256": "c9b64ca0ed034e8f42e4d7504ef42c921dbb62d2fff7c9ee6ce345dc6ca8daef",
+      "bytes": 19041
+    },
+    {
+      "path": "OEBPS/Text/part0019.xhtml",
+      "sha256": "b7e7c6699fddffc809ce053576cd6091cc212a5884d0ac799a1915e86d708b49",
+      "bytes": 19647
+    },
+    {
+      "path": "OEBPS/Text/part0020.xhtml",
+      "sha256": "a7defbdb750594257015a57fae4c7eee9c2268d193c419754a697bd323ad938e",
+      "bytes": 15360
+    },
+    {
+      "path": "OEBPS/Text/part0021.xhtml",
+      "sha256": "f56e532fea66adeaab9211d716c55c248635d08d57abf4fc65509c00f1b538bf",
+      "bytes": 14943
+    },
+    {
+      "path": "OEBPS/Text/part0022.xhtml",
+      "sha256": "34a5253b3ce5a77904774fea7619206172f2746bf5ebedb24984f02d1081079b",
+      "bytes": 19531
+    },
+    {
+      "path": "OEBPS/Text/part0023.xhtml",
+      "sha256": "4a28ea14ff1396de592e412d2d91c1e5ca3e4101498eeb4cd9d5207659d657f7",
+      "bytes": 20157
+    },
+    {
+      "path": "OEBPS/Text/part0024.xhtml",
+      "sha256": "5c52476cf59f548f0f935290e3e50c90cbfeef19656e946cc1f7047f060eeb4d",
+      "bytes": 19529
+    },
+    {
+      "path": "OEBPS/Text/part0025.xhtml",
+      "sha256": "6becc7d98e10bcf26f296b651d2c63cbf0dcec94ac3620650fdc1530a9de29b7",
+      "bytes": 13227
+    },
+    {
+      "path": "OEBPS/Text/part0026.xhtml",
+      "sha256": "68ccdc0537e61a3af5ae132664bd45dd3f03df857d2d035d3dc45d059498c9d2",
+      "bytes": 12985
+    },
+    {
+      "path": "OEBPS/Text/part0027.xhtml",
+      "sha256": "aa0363edc7251e7951a593b7c752fc15ffb7fa064becc1af15289c8a990e7e41",
+      "bytes": 20210
+    },
+    {
+      "path": "OEBPS/Text/part0028.xhtml",
+      "sha256": "a51505989d4f0a736f96401037e78f24e5cd91b85cba5740f93ecbf74160f593",
+      "bytes": 19914
+    },
+    {
+      "path": "OEBPS/Text/part0029.xhtml",
+      "sha256": "9c6245682194e2d1fa961af127d88ef214f6943c9920063d7ce018fb9a731620",
+      "bytes": 15067
+    },
+    {
+      "path": "OEBPS/Text/part0030.xhtml",
+      "sha256": "f21899f86fd70c10b95580686fa39a60df57fc173cbebcab9f0420cbc248136b",
+      "bytes": 15327
+    },
+    {
+      "path": "OEBPS/Text/part0031.xhtml",
+      "sha256": "f0df6b93042bda872fba7145fe7a6e691b24d10ccbd0b4d8f2c7a87d038429fd",
+      "bytes": 19804
+    },
+    {
+      "path": "OEBPS/Text/part0032.xhtml",
+      "sha256": "983846bd070d83db24f83ade93d790e1bb4cc6de0e1d7b804e892e87fa1568a2",
+      "bytes": 19800
+    },
+    {
+      "path": "OEBPS/Text/part0033.xhtml",
+      "sha256": "dff1cbbf6124ce6c1071281ad537748e34867de0fe0f13b85560030ad7e09d2b",
+      "bytes": 20247
+    },
+    {
+      "path": "OEBPS/Text/part0034.xhtml",
+      "sha256": "1207214e2571e13053d7a89f4c9bddaf161ccf5ab46f2b6a52dda4d09eb6632d",
+      "bytes": 19785
+    },
+    {
+      "path": "OEBPS/Text/part0035.xhtml",
+      "sha256": "409a3e1ed6cd5c32575d7a20ee0bfe76ffdc8220550d3e8894172294f9aa437b",
+      "bytes": 13183
+    },
+    {
+      "path": "OEBPS/Text/part0036.xhtml",
+      "sha256": "c1020603fb48886712c87aaed64f332cd65a74928e0db8021b7bd4b4284f017e",
+      "bytes": 13264
+    },
+    {
+      "path": "OEBPS/Text/part0037.xhtml",
+      "sha256": "3e78ce01d993abb5d89fcf71b5b2785326a114e64acb247825653f0467f02415",
+      "bytes": 19989
+    },
+    {
+      "path": "OEBPS/Text/part0038.xhtml",
+      "sha256": "66c4dd515499f3e890b0c86d78dff8e10aadb7e0c6e7bbe20ae6a03ed6dc66dc",
+      "bytes": 19685
+    },
+    {
+      "path": "OEBPS/Text/part0039.xhtml",
+      "sha256": "64c54e1644a5922210ca1ace7dddbb37445c0d12659d601ed73cf73dae6706e9",
+      "bytes": 17853
+    },
+    {
+      "path": "OEBPS/Text/part0040.xhtml",
+      "sha256": "c9f1658be22ad82e0d32c5516f7068b55b54c065b6c1d86f1a7b24adf22c8b4c",
+      "bytes": 17580
+    },
+    {
+      "path": "OEBPS/Text/part0041.xhtml",
+      "sha256": "8a041c30fc6ae5b9d34dc0b82d95fb3c4bc581ecddb10fb2ab83bbe37e8cf977",
+      "bytes": 20806
+    },
+    {
+      "path": "OEBPS/Text/part0042.xhtml",
+      "sha256": "2fa7209135bd237553f16e9e6cac45e5b7f924d0ca4fc82b1d35b54c4c9bc333",
+      "bytes": 20407
+    },
+    {
+      "path": "OEBPS/Text/part0043.xhtml",
+      "sha256": "1cc540950515bcfb8fa53e56f5f89ab1c77c1639e4db0fb2d7ddba2c22b7be4d",
+      "bytes": 20070
+    },
+    {
+      "path": "OEBPS/Text/part0044.xhtml",
+      "sha256": "0c79355ffdd9cc3cd25791c29a7561236ef5771f60677152b23612fabb8a92d6",
+      "bytes": 19144
+    },
+    {
+      "path": "OEBPS/Text/part0045.xhtml",
+      "sha256": "9f65cd2d39455e395e2f1484c983de0d69dd2864f7dd88596ca1506b87e4e5e8",
+      "bytes": 11102
+    },
+    {
+      "path": "OEBPS/Text/part0046.xhtml",
+      "sha256": "3aa3a3b10e8239202a1a6aa5dce52d90350e0ca4e103a674b7bf3b0df5828a9a",
+      "bytes": 11234
+    },
+    {
+      "path": "OEBPS/Text/part0047.xhtml",
+      "sha256": "41ea1ec070f47221c3c0571e31c2ecceb16bfa46a5dba13c92217474d82aa343",
+      "bytes": 19419
+    },
+    {
+      "path": "OEBPS/Text/part0048.xhtml",
+      "sha256": "0f0a1162a0e713870f3575ec2262cdecc1be79452ed21a0513738f5a9a1a9817",
+      "bytes": 19984
+    },
+    {
+      "path": "OEBPS/Text/part0049.xhtml",
+      "sha256": "23c2ff7ceb6d2a14b0b14e13719bc562060709ba84cad19f03841c72b67e8721",
+      "bytes": 19702
+    },
+    {
+      "path": "OEBPS/Text/part0050.xhtml",
+      "sha256": "4db9b50f9628cdc77707f8b8489bff057e6623f07cab098319454eff8f1406c1",
+      "bytes": 13556
+    },
+    {
+      "path": "OEBPS/Text/part0051.xhtml",
+      "sha256": "9b3cc51e6c541d0e49b50e7a8bf49ba7d5dd1ce2214aa010994d4d2debf14e6d",
+      "bytes": 14051
+    },
+    {
+      "path": "OEBPS/Text/part0052.xhtml",
+      "sha256": "566cd5e7830571d7aad193f14c28addc0a8ef6ec0f820c93d1d6019ee0e03fed",
+      "bytes": 19953
+    },
+    {
+      "path": "OEBPS/Text/part0053.xhtml",
+      "sha256": "410e60e215c416594c6edd3291aeda3524bc06b255bb1fea9b1784bc9d91207b",
+      "bytes": 19717
+    },
+    {
+      "path": "OEBPS/Text/part0054.xhtml",
+      "sha256": "3923ec588d16af3dd0d2114ca2f9ceab63d64cc808ab35f58d6fbd0f01b1ce3b",
+      "bytes": 16922
+    },
+    {
+      "path": "OEBPS/Text/part0055.xhtml",
+      "sha256": "14df8ba65b42843838021a2a81499afcca7e76d63a14b37f1c7c199e531c61ae",
+      "bytes": 17507
+    },
+    {
+      "path": "OEBPS/Text/part0056.xhtml",
+      "sha256": "b6c8b6ea4fb5882c930418ce745003ed39aea9cb27dae59ce0a11680fb584bc3",
+      "bytes": 15514
+    },
+    {
+      "path": "OEBPS/Text/part0057.xhtml",
+      "sha256": "8e63cdb3c30da2146a2a66b7696f4221ca15650f069e4f5624f4d8c2d39b9131",
+      "bytes": 17057
+    }
+  ],
+  "documents": [
+    {
+      "source": "OEBPS/Text/part0001.xhtml",
+      "stem": "part0001",
+      "sha256": "ae54abadafd0f38959b02315a33bc4d288fa9b95ced981874f3026240ff5e373",
+      "title": "无文字封面",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "source": "OEBPS/Text/part0002.xhtml",
+      "stem": "part0002",
+      "sha256": "cfb0bbbde695b93a6354db180876ada435321b16714b7e74823b31fb66ef915a",
+      "title": "版权信息",
+      "paragraphs": 4,
+      "characters": 29
+    },
+    {
+      "source": "OEBPS/Text/part0003.xhtml",
+      "stem": "part0003",
+      "sha256": "b1f1fef1a721bf8c242544a9727c705bfb1c0312488a3a0b3050529f4e87855b",
+      "title": "目录",
+      "paragraphs": 57,
+      "characters": 578
+    },
+    {
+      "source": "OEBPS/Text/part0004.xhtml",
+      "stem": "part0004",
+      "sha256": "d2fc2132b83ed5656ff7757101a1f73f37fc343bc4ba2fa83cc5e3974ca70f44",
+      "title": "第1章 献词",
+      "paragraphs": 5,
+      "characters": 72
+    },
+    {
+      "source": "OEBPS/Text/part0005.xhtml",
+      "stem": "part0005",
+      "sha256": "f614fd9451e9ac181fc9f8bef746c460718a3da80a74afc827fd8dea146ba535",
+      "title": "第2章 序幕：白帝城",
+      "paragraphs": 36,
+      "characters": 1388
+    },
+    {
+      "source": "OEBPS/Text/part0006.xhtml",
+      "stem": "part0006",
+      "sha256": "701f50173c4d1f7820f95d2b6d224afb9dec299b9c62ae8b50d727fcce4e09f6",
+      "title": "第3章 卡塞尔之门（1）",
+      "paragraphs": 87,
+      "characters": 5712
+    },
+    {
+      "source": "OEBPS/Text/part0007.xhtml",
+      "stem": "part0007",
+      "sha256": "414ee2497857965c2ef4a77d1fb97293e0382f2c68162e39de64912cb451d706",
+      "title": "第4章 卡塞尔之门（2）",
+      "paragraphs": 87,
+      "characters": 5761
+    },
+    {
+      "source": "OEBPS/Text/part0008.xhtml",
+      "stem": "part0008",
+      "sha256": "420716ef7c872948ef1afe72085d7f3eccdbf19a6e8f2fe0b85a7cc318009a3e",
+      "title": "第5章 卡塞尔之门（3）",
+      "paragraphs": 133,
+      "characters": 5702
+    },
+    {
+      "source": "OEBPS/Text/part0009.xhtml",
+      "stem": "part0009",
+      "sha256": "ba23450757b16a6f19bd03fc15c7f1a9a7c9f0679d0b6a7a56e0a4012782f092",
+      "title": "第6章 卡塞尔之门（4）",
+      "paragraphs": 131,
+      "characters": 5520
+    },
+    {
+      "source": "OEBPS/Text/part0010.xhtml",
+      "stem": "part0010",
+      "sha256": "7eaa2adc833e99854e346485f10034a99e0004476a3cb2f5fb8a36bb2d5f7461",
+      "title": "第7章 卡塞尔之门（5）",
+      "paragraphs": 126,
+      "characters": 5590
+    },
+    {
+      "source": "OEBPS/Text/part0011.xhtml",
+      "stem": "part0011",
+      "sha256": "c59de6da7761403e7f2480547e1e6717fcc2f437fbd960a3a8c335a0836e481b",
+      "title": "第8章 卡塞尔之门（6）",
+      "paragraphs": 90,
+      "characters": 4478
+    },
+    {
+      "source": "OEBPS/Text/part0012.xhtml",
+      "stem": "part0012",
+      "sha256": "efa4c1eb54ac46094ea61c52aca39d582e6648f04d919fdb4e567584c2e0be58",
+      "title": "第9章 卡塞尔之门（7）",
+      "paragraphs": 90,
+      "characters": 4492
+    },
+    {
+      "source": "OEBPS/Text/part0013.xhtml",
+      "stem": "part0013",
+      "sha256": "7495ebfdc1177931f91eee08f9c37784a364a1351b9beda2c38d78d6eeb34b62",
+      "title": "第10章 黄金瞳（1）",
+      "paragraphs": 110,
+      "characters": 5852
+    },
+    {
+      "source": "OEBPS/Text/part0014.xhtml",
+      "stem": "part0014",
+      "sha256": "071ec250e0eec38acdc75ea0e14eb3f300fbaf9b9e31e18d57db898767493be5",
+      "title": "第11章 黄金瞳（2）",
+      "paragraphs": 92,
+      "characters": 5675
+    },
+    {
+      "source": "OEBPS/Text/part0015.xhtml",
+      "stem": "part0015",
+      "sha256": "08356f8996417a94074fbac76dadfce6987a79a2ab53716f8caf02c25fe6fdda",
+      "title": "第12章 黄金瞳（3）",
+      "paragraphs": 85,
+      "characters": 5487
+    },
+    {
+      "source": "OEBPS/Text/part0016.xhtml",
+      "stem": "part0016",
+      "sha256": "c8aabe699a7337d1073f5dbbbbd26a136b9e911d11ab049f14d82d181dd2891c",
+      "title": "第13章 黄金瞳（4）",
+      "paragraphs": 83,
+      "characters": 4570
+    },
+    {
+      "source": "OEBPS/Text/part0017.xhtml",
+      "stem": "part0017",
+      "sha256": "2edac0d7ec20a8bfee7e909b6e903f5dfa24a33d6aeefdef3f89e1f72853fd2d",
+      "title": "第14章 黄金瞳（5）",
+      "paragraphs": 91,
+      "characters": 4525
+    },
+    {
+      "source": "OEBPS/Text/part0018.xhtml",
+      "stem": "part0018",
+      "sha256": "c9b64ca0ed034e8f42e4d7504ef42c921dbb62d2fff7c9ee6ce345dc6ca8daef",
+      "title": "第15章 恺撒（1）",
+      "paragraphs": 96,
+      "characters": 5457
+    },
+    {
+      "source": "OEBPS/Text/part0019.xhtml",
+      "stem": "part0019",
+      "sha256": "b7e7c6699fddffc809ce053576cd6091cc212a5884d0ac799a1915e86d708b49",
+      "title": "第16章 恺撒（2）",
+      "paragraphs": 99,
+      "characters": 5621
+    },
+    {
+      "source": "OEBPS/Text/part0020.xhtml",
+      "stem": "part0020",
+      "sha256": "a7defbdb750594257015a57fae4c7eee9c2268d193c419754a697bd323ad938e",
+      "title": "第17章 恺撒（3）",
+      "paragraphs": 85,
+      "characters": 4250
+    },
+    {
+      "source": "OEBPS/Text/part0021.xhtml",
+      "stem": "part0021",
+      "sha256": "f56e532fea66adeaab9211d716c55c248635d08d57abf4fc65509c00f1b538bf",
+      "title": "第18章 恺撒（4）",
+      "paragraphs": 82,
+      "characters": 4267
+    },
+    {
+      "source": "OEBPS/Text/part0022.xhtml",
+      "stem": "part0022",
+      "sha256": "34a5253b3ce5a77904774fea7619206172f2746bf5ebedb24984f02d1081079b",
+      "title": "第19章 青铜城（1）",
+      "paragraphs": 93,
+      "characters": 5642
+    },
+    {
+      "source": "OEBPS/Text/part0023.xhtml",
+      "stem": "part0023",
+      "sha256": "4a28ea14ff1396de592e412d2d91c1e5ca3e4101498eeb4cd9d5207659d657f7",
+      "title": "第20章 青铜城（2）",
+      "paragraphs": 108,
+      "characters": 5690
+    },
+    {
+      "source": "OEBPS/Text/part0024.xhtml",
+      "stem": "part0024",
+      "sha256": "5c52476cf59f548f0f935290e3e50c90cbfeef19656e946cc1f7047f060eeb4d",
+      "title": "第21章 青铜城（3）",
+      "paragraphs": 92,
+      "characters": 5611
+    },
+    {
+      "source": "OEBPS/Text/part0025.xhtml",
+      "stem": "part0025",
+      "sha256": "6becc7d98e10bcf26f296b651d2c63cbf0dcec94ac3620650fdc1530a9de29b7",
+      "title": "第22章 青铜城（4）",
+      "paragraphs": 71,
+      "characters": 3766
+    },
+    {
+      "source": "OEBPS/Text/part0026.xhtml",
+      "stem": "part0026",
+      "sha256": "68ccdc0537e61a3af5ae132664bd45dd3f03df857d2d035d3dc45d059498c9d2",
+      "title": "第23章 青铜城（5）",
+      "paragraphs": 67,
+      "characters": 3703
+    },
+    {
+      "source": "OEBPS/Text/part0027.xhtml",
+      "stem": "part0027",
+      "sha256": "aa0363edc7251e7951a593b7c752fc15ffb7fa064becc1af15289c8a990e7e41",
+      "title": "第24章 龙影（1）",
+      "paragraphs": 102,
+      "characters": 5749
+    },
+    {
+      "source": "OEBPS/Text/part0028.xhtml",
+      "stem": "part0028",
+      "sha256": "a51505989d4f0a736f96401037e78f24e5cd91b85cba5740f93ecbf74160f593",
+      "title": "第25章 龙影（2）",
+      "paragraphs": 105,
+      "characters": 5657
+    },
+    {
+      "source": "OEBPS/Text/part0029.xhtml",
+      "stem": "part0029",
+      "sha256": "9c6245682194e2d1fa961af127d88ef214f6943c9920063d7ce018fb9a731620",
+      "title": "第26章 龙影（3）",
+      "paragraphs": 81,
+      "characters": 4217
+    },
+    {
+      "source": "OEBPS/Text/part0030.xhtml",
+      "stem": "part0030",
+      "sha256": "f21899f86fd70c10b95580686fa39a60df57fc173cbebcab9f0420cbc248136b",
+      "title": "第27章 龙影（4）",
+      "paragraphs": 75,
+      "characters": 4389
+    },
+    {
+      "source": "OEBPS/Text/part0031.xhtml",
+      "stem": "part0031",
+      "sha256": "f0df6b93042bda872fba7145fe7a6e691b24d10ccbd0b4d8f2c7a87d038429fd",
+      "title": "第28章 星与花（1）",
+      "paragraphs": 98,
+      "characters": 5670
+    },
+    {
+      "source": "OEBPS/Text/part0032.xhtml",
+      "stem": "part0032",
+      "sha256": "983846bd070d83db24f83ade93d790e1bb4cc6de0e1d7b804e892e87fa1568a2",
+      "title": "第29章 星与花（2）",
+      "paragraphs": 103,
+      "characters": 5620
+    },
+    {
+      "source": "OEBPS/Text/part0033.xhtml",
+      "stem": "part0033",
+      "sha256": "dff1cbbf6124ce6c1071281ad537748e34867de0fe0f13b85560030ad7e09d2b",
+      "title": "第30章 星与花（3）",
+      "paragraphs": 131,
+      "characters": 5556
+    },
+    {
+      "source": "OEBPS/Text/part0034.xhtml",
+      "stem": "part0034",
+      "sha256": "1207214e2571e13053d7a89f4c9bddaf161ccf5ab46f2b6a52dda4d09eb6632d",
+      "title": "第31章 星与花（4）",
+      "paragraphs": 117,
+      "characters": 5489
+    },
+    {
+      "source": "OEBPS/Text/part0035.xhtml",
+      "stem": "part0035",
+      "sha256": "409a3e1ed6cd5c32575d7a20ee0bfe76ffdc8220550d3e8894172294f9aa437b",
+      "title": "第32章 星与花（5）",
+      "paragraphs": 90,
+      "characters": 3480
+    },
+    {
+      "source": "OEBPS/Text/part0036.xhtml",
+      "stem": "part0036",
+      "sha256": "c1020603fb48886712c87aaed64f332cd65a74928e0db8021b7bd4b4284f017e",
+      "title": "第33章 星与花（6）",
+      "paragraphs": 76,
+      "characters": 3817
+    },
+    {
+      "source": "OEBPS/Text/part0037.xhtml",
+      "stem": "part0037",
+      "sha256": "3e78ce01d993abb5d89fcf71b5b2785326a114e64acb247825653f0467f02415",
+      "title": "第34章 弟弟（1）",
+      "paragraphs": 117,
+      "characters": 5614
+    },
+    {
+      "source": "OEBPS/Text/part0038.xhtml",
+      "stem": "part0038",
+      "sha256": "66c4dd515499f3e890b0c86d78dff8e10aadb7e0c6e7bbe20ae6a03ed6dc66dc",
+      "title": "第35章 弟弟（2）",
+      "paragraphs": 101,
+      "characters": 5673
+    },
+    {
+      "source": "OEBPS/Text/part0039.xhtml",
+      "stem": "part0039",
+      "sha256": "64c54e1644a5922210ca1ace7dddbb37445c0d12659d601ed73cf73dae6706e9",
+      "title": "第36章 弟弟（3）",
+      "paragraphs": 101,
+      "characters": 5016
+    },
+    {
+      "source": "OEBPS/Text/part0040.xhtml",
+      "stem": "part0040",
+      "sha256": "c9f1658be22ad82e0d32c5516f7068b55b54c065b6c1d86f1a7b24adf22c8b4c",
+      "title": "第37章 弟弟（4）",
+      "paragraphs": 101,
+      "characters": 4899
+    },
+    {
+      "source": "OEBPS/Text/part0041.xhtml",
+      "stem": "part0041",
+      "sha256": "8a041c30fc6ae5b9d34dc0b82d95fb3c4bc581ecddb10fb2ab83bbe37e8cf977",
+      "title": "第38章 哥哥（1）",
+      "paragraphs": 132,
+      "characters": 5739
+    },
+    {
+      "source": "OEBPS/Text/part0042.xhtml",
+      "stem": "part0042",
+      "sha256": "2fa7209135bd237553f16e9e6cac45e5b7f924d0ca4fc82b1d35b54c4c9bc333",
+      "title": "第39章 哥哥（2）",
+      "paragraphs": 131,
+      "characters": 5583
+    },
+    {
+      "source": "OEBPS/Text/part0043.xhtml",
+      "stem": "part0043",
+      "sha256": "1cc540950515bcfb8fa53e56f5f89ab1c77c1639e4db0fb2d7ddba2c22b7be4d",
+      "title": "第40章 哥哥（3）",
+      "paragraphs": 123,
+      "characters": 5551
+    },
+    {
+      "source": "OEBPS/Text/part0044.xhtml",
+      "stem": "part0044",
+      "sha256": "0c79355ffdd9cc3cd25791c29a7561236ef5771f60677152b23612fabb8a92d6",
+      "title": "第41章 哥哥（4）",
+      "paragraphs": 104,
+      "characters": 5375
+    },
+    {
+      "source": "OEBPS/Text/part0045.xhtml",
+      "stem": "part0045",
+      "sha256": "9f65cd2d39455e395e2f1484c983de0d69dd2864f7dd88596ca1506b87e4e5e8",
+      "title": "第42章 哥哥（5）",
+      "paragraphs": 59,
+      "characters": 3110
+    },
+    {
+      "source": "OEBPS/Text/part0046.xhtml",
+      "stem": "part0046",
+      "sha256": "3aa3a3b10e8239202a1a6aa5dce52d90350e0ca4e103a674b7bf3b0df5828a9a",
+      "title": "第43章 哥哥（6）",
+      "paragraphs": 64,
+      "characters": 3108
+    },
+    {
+      "source": "OEBPS/Text/part0047.xhtml",
+      "stem": "part0047",
+      "sha256": "41ea1ec070f47221c3c0571e31c2ecceb16bfa46a5dba13c92217474d82aa343",
+      "title": "第44章 龙墓（1）",
+      "paragraphs": 100,
+      "characters": 5545
+    },
+    {
+      "source": "OEBPS/Text/part0048.xhtml",
+      "stem": "part0048",
+      "sha256": "0f0a1162a0e713870f3575ec2262cdecc1be79452ed21a0513738f5a9a1a9817",
+      "title": "第45章 龙墓（2）",
+      "paragraphs": 118,
+      "characters": 5534
+    },
+    {
+      "source": "OEBPS/Text/part0049.xhtml",
+      "stem": "part0049",
+      "sha256": "23c2ff7ceb6d2a14b0b14e13719bc562060709ba84cad19f03841c72b67e8721",
+      "title": "第46章 龙墓（3）",
+      "paragraphs": 106,
+      "characters": 5546
+    },
+    {
+      "source": "OEBPS/Text/part0050.xhtml",
+      "stem": "part0050",
+      "sha256": "4db9b50f9628cdc77707f8b8489bff057e6623f07cab098319454eff8f1406c1",
+      "title": "第47章 龙墓（4）",
+      "paragraphs": 74,
+      "characters": 3784
+    },
+    {
+      "source": "OEBPS/Text/part0051.xhtml",
+      "stem": "part0051",
+      "sha256": "9b3cc51e6c541d0e49b50e7a8bf49ba7d5dd1ce2214aa010994d4d2debf14e6d",
+      "title": "第48章 龙墓（5）",
+      "paragraphs": 90,
+      "characters": 3804
+    },
+    {
+      "source": "OEBPS/Text/part0052.xhtml",
+      "stem": "part0052",
+      "sha256": "566cd5e7830571d7aad193f14c28addc0a8ef6ec0f820c93d1d6019ee0e03fed",
+      "title": "第49章 七宗罪（1）",
+      "paragraphs": 121,
+      "characters": 5514
+    },
+    {
+      "source": "OEBPS/Text/part0053.xhtml",
+      "stem": "part0053",
+      "sha256": "410e60e215c416594c6edd3291aeda3524bc06b255bb1fea9b1784bc9d91207b",
+      "title": "第50章 七宗罪（2）",
+      "paragraphs": 111,
+      "characters": 5509
+    },
+    {
+      "source": "OEBPS/Text/part0054.xhtml",
+      "stem": "part0054",
+      "sha256": "3923ec588d16af3dd0d2114ca2f9ceab63d64cc808ab35f58d6fbd0f01b1ce3b",
+      "title": "第51章 七宗罪（3）",
+      "paragraphs": 92,
+      "characters": 4825
+    },
+    {
+      "source": "OEBPS/Text/part0055.xhtml",
+      "stem": "part0055",
+      "sha256": "14df8ba65b42843838021a2a81499afcca7e76d63a14b37f1c7c199e531c61ae",
+      "title": "第52章 七宗罪（4）",
+      "paragraphs": 110,
+      "characters": 4784
+    },
+    {
+      "source": "OEBPS/Text/part0056.xhtml",
+      "stem": "part0056",
+      "sha256": "b6c8b6ea4fb5882c930418ce745003ed39aea9cb27dae59ce0a11680fb584bc3",
+      "title": "第53章 尾声（1）",
+      "paragraphs": 77,
+      "characters": 4425
+    },
+    {
+      "source": "OEBPS/Text/part0057.xhtml",
+      "stem": "part0057",
+      "sha256": "8e63cdb3c30da2146a2a66b7696f4221ca15650f069e4f5624f4d8c2d39b9131",
+      "title": "第54章 尾声（2）",
+      "paragraphs": 125,
+      "characters": 4502
+    }
+  ],
+  "groups": [
+    {
+      "title": "献词",
+      "documents": [
+        "part0004"
+      ]
+    },
+    {
+      "title": "序幕：白帝城",
+      "documents": [
+        "part0005"
+      ]
+    },
+    {
+      "title": "卡塞尔之门",
+      "documents": [
+        "part0006",
+        "part0007",
+        "part0008",
+        "part0009",
+        "part0010",
+        "part0011",
+        "part0012"
+      ]
+    },
+    {
+      "title": "黄金瞳",
+      "documents": [
+        "part0013",
+        "part0014",
+        "part0015",
+        "part0016",
+        "part0017"
+      ]
+    },
+    {
+      "title": "恺撒",
+      "documents": [
+        "part0018",
+        "part0019",
+        "part0020",
+        "part0021"
+      ]
+    },
+    {
+      "title": "青铜城",
+      "documents": [
+        "part0022",
+        "part0023",
+        "part0024",
+        "part0025",
+        "part0026"
+      ]
+    },
+    {
+      "title": "龙影",
+      "documents": [
+        "part0027",
+        "part0028",
+        "part0029",
+        "part0030"
+      ]
+    },
+    {
+      "title": "星与花",
+      "documents": [
+        "part0031",
+        "part0032",
+        "part0033",
+        "part0034",
+        "part0035",
+        "part0036"
+      ]
+    },
+    {
+      "title": "弟弟",
+      "documents": [
+        "part0037",
+        "part0038",
+        "part0039",
+        "part0040"
+      ]
+    },
+    {
+      "title": "哥哥",
+      "documents": [
+        "part0041",
+        "part0042",
+        "part0043",
+        "part0044",
+        "part0045",
+        "part0046"
+      ]
+    },
+    {
+      "title": "龙墓",
+      "documents": [
+        "part0047",
+        "part0048",
+        "part0049",
+        "part0050",
+        "part0051"
+      ]
+    },
+    {
+      "title": "七宗罪",
+      "documents": [
+        "part0052",
+        "part0053",
+        "part0054",
+        "part0055"
+      ]
+    },
+    {
+      "title": "尾声",
+      "documents": [
+        "part0056",
+        "part0057"
+      ]
+    }
+  ],
+  "analysis_files": [
+    "ch11-lz1-prologue.md",
+    "ch12-lz1-gate.md",
+    "ch13-lz1-eyes.md",
+    "ch14-lz1-caesar.md",
+    "ch15-lz1-city.md",
+    "ch16-lz1-shadow.md",
+    "ch17-lz1-stars.md",
+    "ch18-lz1-younger.md",
+    "ch19-lz1-brother.md",
+    "ch20-lz1-tomb.md",
+    "ch21-lz1-sins.md",
+    "ch22-lz1-epilogue.md"
+  ],
+  "notes": [
+    "No raw book text packaged.",
+    "Common image resource copies in extraction are not distinct illustrations.",
+    "Local text includes edition-dependent wording; do not silently replace from memory.",
+    "Full reading does not establish improved original-writing quality."
+  ]
+}

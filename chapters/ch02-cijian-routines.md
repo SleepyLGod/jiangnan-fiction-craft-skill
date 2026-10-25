@@ -37,3 +37,7 @@
 人物依赖的究竟是哪一项具体往来？它结束后少了什么行动机会？读者能否在第一次读时复述占座或送饭的前后变化？对白除了口头禅，是否体现不同的人正在留意不同的事？
 
 关联：[ch04](ch04-cijian-recognition.md) 的可见破绽；[ch09](ch09-cijian-withdrawal.md) 的提醒停止。
+
+## 本轮细读补充
+
+宿舍清单的具体措辞见[语言L1](../references/techniques/close-reading-language.md)；同一清晨各人的回应差别见[人物C1](../references/techniques/close-reading-character.md)。

@@ -1,0 +1,1147 @@
+{
+  "author": "江南",
+  "edition": "Local anthology EPUB volume; ISBN, print edition and textual equivalence not verified",
+  "generated": "2026-10-24",
+  "source_anthology": "江南作品合集套装共25册江南作品合集套装25册中国著名幻想小说作家千万册畅销奇迹制造者刘慈欣阿来李敬泽盛赞作家江南25册套装大合集囊括龙族九州缥缈录天之炽上海堡垒等知名作品.epub",
+  "notes": [
+    "No raw book text packaged.",
+    "Common image resource copies in extraction are not distinct illustrations.",
+    "Local text includes edition-dependent wording; do not silently replace from memory.",
+    "Full reading does not establish improved original-writing quality."
+  ],
+  "source_id": "lz4",
+  "title": "龙族Ⅳ：奥丁之渊",
+  "source_opf_sha256": "e99b7907d4d4d83946a663aa70eeae3f8442433a58d7c71ddae518bcf61e7448",
+  "source_ncx_sha256": "b2fc076d6292f497e2121c5d9cddde8d0587118509a4ef9d06a936838677e7b1",
+  "repacked_epub_sha256": "f2149b996ce5eed0e29b8e4d5046597b0b7e3668fb6482bd99582f3173b1d7b2",
+  "reading_status": {
+    "full_text_read": true,
+    "spine_items": 72,
+    "body_text_items": 69,
+    "body_paragraphs_including_headings": 5119,
+    "body_normalized_characters": 304809,
+    "reading_chunks": 36,
+    "all_chunks_read": true,
+    "analysis_units": 17,
+    "extraction_characters_including_front_matter": 311736,
+    "referenced_images": 1,
+    "images_analyzed": false,
+    "print_pages": null
+  },
+  "anchor_contract": "lz4:partNNNN:Pxxxx-Pyyyy -> OEBPS/Text/partNNNN.xhtml; nonempty body p/h1-h6/li/pre/blockquote/leaf div blocks; normalize inline whitespace; include headings; one-based paragraphs; not print pages",
+  "source_files": [
+    {
+      "path": "OEBPS/Text/part0375.xhtml",
+      "sha256": "3ee33e1308700ec4a9b600bbea7dd728bcc7b43f5f69e5b8fe5899a02e367e11",
+      "bytes": 441
+    },
+    {
+      "path": "OEBPS/Text/part0376.xhtml",
+      "sha256": "1c39028c3221f8d4d806b581f73442702b9bdb343e2747710a3b877b5959feec",
+      "bytes": 604
+    },
+    {
+      "path": "OEBPS/Text/part0377.xhtml",
+      "sha256": "63a950d98154db3c4ed854a1b13b08cc39b92b4c83fa513c42cf2f14bd6b7619",
+      "bytes": 8324
+    },
+    {
+      "path": "OEBPS/Text/part0378.xhtml",
+      "sha256": "21bbc68a1d47ecd81a791e93c044c9303f11837ae717ec0aacb8e123b0a8989e",
+      "bytes": 16872
+    },
+    {
+      "path": "OEBPS/Text/part0379.xhtml",
+      "sha256": "aebcc3ee73855cdd55c670e2b92b87b8aa779dd704388270953c2f21fc3ef217",
+      "bytes": 17080
+    },
+    {
+      "path": "OEBPS/Text/part0380.xhtml",
+      "sha256": "6d39b4d76483d2b6f78962e5e39d32e14918a98f053801a5db19dd7a1c9256f2",
+      "bytes": 16664
+    },
+    {
+      "path": "OEBPS/Text/part0381.xhtml",
+      "sha256": "9d63a35bbd6dd265b45acee44031304a909f126b1f645c552793680099d7e1c6",
+      "bytes": 16889
+    },
+    {
+      "path": "OEBPS/Text/part0382.xhtml",
+      "sha256": "2c2991246e81b9671b9092b6556a0c20f082c00cfd7a1f82704fe944110e89a9",
+      "bytes": 17170
+    },
+    {
+      "path": "OEBPS/Text/part0383.xhtml",
+      "sha256": "cb183b1ee869bbcd483f85bec77ec6135d8080d655db767e384297a2b1459623",
+      "bytes": 16869
+    },
+    {
+      "path": "OEBPS/Text/part0384.xhtml",
+      "sha256": "f0f466dec555c016c28620877241c8922c92dab35c74569c2eae68e7fb9e43e3",
+      "bytes": 17044
+    },
+    {
+      "path": "OEBPS/Text/part0385.xhtml",
+      "sha256": "de8922c9edc53aed4f34eb4f1c6965f1cc29e60eded31f91bb89732236aa9e1b",
+      "bytes": 17144
+    },
+    {
+      "path": "OEBPS/Text/part0386.xhtml",
+      "sha256": "da9d0ecd2a0996895585925167bedda63d1d94194b017327ea9d7da6c906ff74",
+      "bytes": 14454
+    },
+    {
+      "path": "OEBPS/Text/part0387.xhtml",
+      "sha256": "e86f2f7f73361c6bb2f645c8b2cb59a9132d53fd6fbd44170c68f7dbfb93811b",
+      "bytes": 14689
+    },
+    {
+      "path": "OEBPS/Text/part0388.xhtml",
+      "sha256": "c36d20292e095f4ca3eafc73f87ea61d2a2fba2fc8cb6ee5abc77b5c66337e24",
+      "bytes": 17543
+    },
+    {
+      "path": "OEBPS/Text/part0389.xhtml",
+      "sha256": "49d5a51d5e154c527b6d0b95f8143d96b51191e623a953f111962eb2a4d74b6a",
+      "bytes": 11340
+    },
+    {
+      "path": "OEBPS/Text/part0390.xhtml",
+      "sha256": "a4fddb9769430e35a9ba76bb0d64c03c0b25e76d6cf035291aaece5d2457cf3f",
+      "bytes": 11126
+    },
+    {
+      "path": "OEBPS/Text/part0391.xhtml",
+      "sha256": "74e64b81d6721fbb08fa321f834de4412b97bf4c23670b82ac21d625a457ea98",
+      "bytes": 16957
+    },
+    {
+      "path": "OEBPS/Text/part0392.xhtml",
+      "sha256": "a18482b64c326fcc2c2f3918b074998b5363b8f176354518744d508fcc09fc99",
+      "bytes": 17176
+    },
+    {
+      "path": "OEBPS/Text/part0393.xhtml",
+      "sha256": "595ee010634cf1f8af9f5d93bbf495222b5ef7af84073840cb4f52377ee71d0c",
+      "bytes": 17369
+    },
+    {
+      "path": "OEBPS/Text/part0394.xhtml",
+      "sha256": "79086c6ea1b3ab4a121f3e79c84905e0f22f79b76e884bb0c0b43c3fcc56f5a3",
+      "bytes": 16536
+    },
+    {
+      "path": "OEBPS/Text/part0395.xhtml",
+      "sha256": "27f92ef44de1cf2ca083b88f753930d1d3073361aae777b9002f446f242883e3",
+      "bytes": 13959
+    },
+    {
+      "path": "OEBPS/Text/part0396.xhtml",
+      "sha256": "55234edb7a81def07a06674a731f0b74ef900257326d4f949507110980496741",
+      "bytes": 14546
+    },
+    {
+      "path": "OEBPS/Text/part0397.xhtml",
+      "sha256": "d1a134a33a3b92ebf78ebdbf69da9c961b75fd213d508730e44b5025707f8f73",
+      "bytes": 17205
+    },
+    {
+      "path": "OEBPS/Text/part0398.xhtml",
+      "sha256": "24b3278802216b069155beaa1cb1bfc02c6b1c876a634280c9db1a05bb3cc9d8",
+      "bytes": 17219
+    },
+    {
+      "path": "OEBPS/Text/part0399.xhtml",
+      "sha256": "ce95480a12465160abe79df48053f5f72ed6409e17fc953f9199a392fa139471",
+      "bytes": 17564
+    },
+    {
+      "path": "OEBPS/Text/part0400.xhtml",
+      "sha256": "5b045db9a1d2fecb9cfdf0633024c5e42615c64f717571a24c2e388491b209b8",
+      "bytes": 11468
+    },
+    {
+      "path": "OEBPS/Text/part0401.xhtml",
+      "sha256": "3dddef0b84be0068267957d95af0806838d86e947ce56a5f7e24d6166d2d2922",
+      "bytes": 11768
+    },
+    {
+      "path": "OEBPS/Text/part0402.xhtml",
+      "sha256": "3de24dd105053d7765bf9799c2435caba9af887e2af816598fa4010a757f5f80",
+      "bytes": 17486
+    },
+    {
+      "path": "OEBPS/Text/part0403.xhtml",
+      "sha256": "b0ec8b78c91769da6803cc93b2c80e5731af538438ae1d0ec7e86af734f99fcd",
+      "bytes": 17430
+    },
+    {
+      "path": "OEBPS/Text/part0404.xhtml",
+      "sha256": "0e899924591678e665323b5632795f26b06ff61ba462acccc2b7b8e73775245e",
+      "bytes": 16907
+    },
+    {
+      "path": "OEBPS/Text/part0405.xhtml",
+      "sha256": "8dfcb5650272f920d9fa7941cfdbe6a32a8a0be7949bfd767d84e78847da45dc",
+      "bytes": 16389
+    },
+    {
+      "path": "OEBPS/Text/part0406.xhtml",
+      "sha256": "c8ce7d4aecb55551a1520f01f56e4f7ea0752ecfac6b6f1a34fff832a8948070",
+      "bytes": 16427
+    },
+    {
+      "path": "OEBPS/Text/part0407.xhtml",
+      "sha256": "1cce2818c8550f3ec51f404bc3e93eac7713db592424112412533e322bb5b484",
+      "bytes": 17959
+    },
+    {
+      "path": "OEBPS/Text/part0408.xhtml",
+      "sha256": "6580b87e5d43197ac15d5f89589f9ee897d18361d905ccc703cdae5b7c0962e7",
+      "bytes": 13770
+    },
+    {
+      "path": "OEBPS/Text/part0409.xhtml",
+      "sha256": "3a72ba878207d75dfa8fc17b681f810d6e52415d3b2a29e0fa5d90c52181caff",
+      "bytes": 13820
+    },
+    {
+      "path": "OEBPS/Text/part0410.xhtml",
+      "sha256": "ba69c9d13b85690561703e0b81db62c692a1347028503120406cce0820724176",
+      "bytes": 17611
+    },
+    {
+      "path": "OEBPS/Text/part0411.xhtml",
+      "sha256": "7452863a71f835c4f8c40465b67c4a473bbed1568538f239a6e2dfb8615c5381",
+      "bytes": 17299
+    },
+    {
+      "path": "OEBPS/Text/part0412.xhtml",
+      "sha256": "63e4897f47a32d7e7046107ae590a3de1d6b7a69d183d6c654b57200151a6f69",
+      "bytes": 16193
+    },
+    {
+      "path": "OEBPS/Text/part0413.xhtml",
+      "sha256": "a4cf4d8720272c2d39efb8594907e1b20e7b7769745c336bec9a9cce990b2cde",
+      "bytes": 16546
+    },
+    {
+      "path": "OEBPS/Text/part0414.xhtml",
+      "sha256": "38d2449f1f1ffa0d884e0bf28a1ca289646167c918522d67f663db31b3b4a83e",
+      "bytes": 17414
+    },
+    {
+      "path": "OEBPS/Text/part0415.xhtml",
+      "sha256": "a9b11309de5968a3a8a226bce55c0749e1be22754282484b2d460116a4675509",
+      "bytes": 14319
+    },
+    {
+      "path": "OEBPS/Text/part0416.xhtml",
+      "sha256": "f01dc13132ddf0ff2c68a9e67415a5b30d7e22c18a73ee60b10df225208c32f4",
+      "bytes": 15060
+    },
+    {
+      "path": "OEBPS/Text/part0417.xhtml",
+      "sha256": "9b9fae5586f0764f2470b3f3742bd99cdce4ec43250d95eb68fadcfdfd4abf46",
+      "bytes": 17351
+    },
+    {
+      "path": "OEBPS/Text/part0418.xhtml",
+      "sha256": "4636678473692b05532895069e63167ecdab186b8ee570a7556741a30b035ddb",
+      "bytes": 17407
+    },
+    {
+      "path": "OEBPS/Text/part0419.xhtml",
+      "sha256": "ed473002b277a92c0e40b609781230b2541b21a2682d5a2f4243cdc5e4dd6e33",
+      "bytes": 11476
+    },
+    {
+      "path": "OEBPS/Text/part0420.xhtml",
+      "sha256": "423383068131237ed902b6876571c504697033fcd764765d2b21ec34cf7ef889",
+      "bytes": 11063
+    },
+    {
+      "path": "OEBPS/Text/part0421.xhtml",
+      "sha256": "6786f533738d1ce628e60dfcd821875fccaff4db91abe6aa1b516b208204d71e",
+      "bytes": 17426
+    },
+    {
+      "path": "OEBPS/Text/part0422.xhtml",
+      "sha256": "25566bb0437de5c938ca8f4a73f2a77e38d6605ec7ad330ce4441de19aa76416",
+      "bytes": 17570
+    },
+    {
+      "path": "OEBPS/Text/part0423.xhtml",
+      "sha256": "d545778071dab7441197948951ad4dc43615a359b4a6c0985cb7fd75342b1e0e",
+      "bytes": 17522
+    },
+    {
+      "path": "OEBPS/Text/part0424.xhtml",
+      "sha256": "4b831682b3488737e7b6f5cdc0d4fe739706f09a2d8b1bfb9fbbb2c4d0e3c36b",
+      "bytes": 12988
+    },
+    {
+      "path": "OEBPS/Text/part0425.xhtml",
+      "sha256": "e1156439467e6e3051218809fae3a140660fc7f391a73904d832d922b66fe079",
+      "bytes": 13281
+    },
+    {
+      "path": "OEBPS/Text/part0426.xhtml",
+      "sha256": "2b461ceb0bc644e01cc7cc527f6133f2607fe62bae421e0bcf681f867d841634",
+      "bytes": 17532
+    },
+    {
+      "path": "OEBPS/Text/part0427.xhtml",
+      "sha256": "77e3811d07fc458815a5f99d7371039f8966a914972a67b04f61c5b726453acb",
+      "bytes": 17509
+    },
+    {
+      "path": "OEBPS/Text/part0428.xhtml",
+      "sha256": "80586d5151e1a06b4f13f67ad0e66f4e87c1955382320109e6aa24bd88033503",
+      "bytes": 11313
+    },
+    {
+      "path": "OEBPS/Text/part0429.xhtml",
+      "sha256": "38d42502c56a55ac5cf7f46e443b823f94b037e9abed4f2d25ff164cb8dcff84",
+      "bytes": 11501
+    },
+    {
+      "path": "OEBPS/Text/part0430.xhtml",
+      "sha256": "e8b17019ce10c943ca9f728365230a20919f3f093977bf6881b715f7f41fb4d3",
+      "bytes": 17427
+    },
+    {
+      "path": "OEBPS/Text/part0431.xhtml",
+      "sha256": "580d1458827d2ef8be603664578be7fd2e884e447acc7ce1d46eca0d88b67555",
+      "bytes": 17466
+    },
+    {
+      "path": "OEBPS/Text/part0432.xhtml",
+      "sha256": "287eca5df549aae1b8df2e190fc8d765bae986f847c1df6b6d90ba63422c23fa",
+      "bytes": 17472
+    },
+    {
+      "path": "OEBPS/Text/part0433.xhtml",
+      "sha256": "e919de4a3ebcb933f16004bec42fa1c24e6d9a53b965a5df9b8c305f313b0347",
+      "bytes": 17605
+    },
+    {
+      "path": "OEBPS/Text/part0434.xhtml",
+      "sha256": "e9555864de4562ed4ed12599881ebebaa9f506dbf1665d430037c2900dff441d",
+      "bytes": 11394
+    },
+    {
+      "path": "OEBPS/Text/part0435.xhtml",
+      "sha256": "97f2fb8bea898d07741d9f7a690df043110191b0eb3d09e063cf4fb6173897b7",
+      "bytes": 11532
+    },
+    {
+      "path": "OEBPS/Text/part0436.xhtml",
+      "sha256": "5a6e577ea6a18049e813eb85d78fa2553108b2810d6e185b57ae1b5c5e20daba",
+      "bytes": 16803
+    },
+    {
+      "path": "OEBPS/Text/part0437.xhtml",
+      "sha256": "c053822b62aed8969e29b59610b59d8c085b937cc78712a25dc647604a3a1dbc",
+      "bytes": 14602
+    },
+    {
+      "path": "OEBPS/Text/part0438.xhtml",
+      "sha256": "191a284db1ac09f421f6e663035fef2cf99b127175112fb3e2b0d5ebe9e7cfb5",
+      "bytes": 15119
+    },
+    {
+      "path": "OEBPS/Text/part0439.xhtml",
+      "sha256": "41d2d2cc5f3b4038efe5e994827e4b75352b16f56ae4f6ae50019b30423490da",
+      "bytes": 17272
+    },
+    {
+      "path": "OEBPS/Text/part0440.xhtml",
+      "sha256": "6018767574f3087611962630d0f2475ba3b8aba505739c05dd5c5ad377878601",
+      "bytes": 16967
+    },
+    {
+      "path": "OEBPS/Text/part0441.xhtml",
+      "sha256": "04a3658c9887fc7e97a3bb60ca59e051219e0741cf5269305f591b36fe2a88ff",
+      "bytes": 17216
+    },
+    {
+      "path": "OEBPS/Text/part0442.xhtml",
+      "sha256": "624f7f3bc4c571c4d3f728ea12445a1072e569ab26d7b0a598d75062b230a137",
+      "bytes": 17577
+    },
+    {
+      "path": "OEBPS/Text/part0443.xhtml",
+      "sha256": "5cea047ff540909f9998a9e927b9d71891cee6c599b10d992b376882c6413a72",
+      "bytes": 17550
+    },
+    {
+      "path": "OEBPS/Text/part0444.xhtml",
+      "sha256": "6ae2ac9099406b56ca9799b969a05edc551045444a02d2cbba60d3b53a0fa078",
+      "bytes": 9276
+    },
+    {
+      "path": "OEBPS/Text/part0445.xhtml",
+      "sha256": "9f238a0f997c451c2c55f2489e7e015d1e78299be8d677c40c5e502dc6725b08",
+      "bytes": 9504
+    },
+    {
+      "path": "OEBPS/Text/part0446.xhtml",
+      "sha256": "6b0578d0df108059fd5d4cf45f27de931cfc81d4154d429317b37f57034ed9a5",
+      "bytes": 3844
+    }
+  ],
+  "documents": [
+    {
+      "source": "OEBPS/Text/part0375.xhtml",
+      "stem": "part0375",
+      "sha256": "3ee33e1308700ec4a9b600bbea7dd728bcc7b43f5f69e5b8fe5899a02e367e11",
+      "title": "无文字封面",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "source": "OEBPS/Text/part0376.xhtml",
+      "stem": "part0376",
+      "sha256": "1c39028c3221f8d4d806b581f73442702b9bdb343e2747710a3b877b5959feec",
+      "title": "版权信息",
+      "paragraphs": 4,
+      "characters": 29
+    },
+    {
+      "source": "OEBPS/Text/part0377.xhtml",
+      "stem": "part0377",
+      "sha256": "63a950d98154db3c4ed854a1b13b08cc39b92b4c83fa513c42cf2f14bd6b7619",
+      "title": "目录",
+      "paragraphs": 72,
+      "characters": 979
+    },
+    {
+      "source": "OEBPS/Text/part0378.xhtml",
+      "stem": "part0378",
+      "sha256": "21bbc68a1d47ecd81a791e93c044c9303f11837ae717ec0aacb8e123b0a8989e",
+      "title": "第1章 楔子：通往世界尽头的航路（1）",
+      "paragraphs": 76,
+      "characters": 4946
+    },
+    {
+      "source": "OEBPS/Text/part0379.xhtml",
+      "stem": "part0379",
+      "sha256": "aebcc3ee73855cdd55c670e2b92b87b8aa779dd704388270953c2f21fc3ef217",
+      "title": "第2章 楔子：通往世界尽头的航路（2）",
+      "paragraphs": 74,
+      "characters": 5012
+    },
+    {
+      "source": "OEBPS/Text/part0380.xhtml",
+      "stem": "part0380",
+      "sha256": "6d39b4d76483d2b6f78962e5e39d32e14918a98f053801a5db19dd7a1c9256f2",
+      "title": "第3章 楔子：通往世界尽头的航路（3）",
+      "paragraphs": 64,
+      "characters": 4956
+    },
+    {
+      "source": "OEBPS/Text/part0381.xhtml",
+      "stem": "part0381",
+      "sha256": "9d63a35bbd6dd265b45acee44031304a909f126b1f645c552793680099d7e1c6",
+      "title": "第4章 楔子：通往世界尽头的航路（4）",
+      "paragraphs": 80,
+      "characters": 5058
+    },
+    {
+      "source": "OEBPS/Text/part0382.xhtml",
+      "stem": "part0382",
+      "sha256": "2c2991246e81b9671b9092b6556a0c20f082c00cfd7a1f82704fe944110e89a9",
+      "title": "第5章 楔子：通往世界尽头的航路（5）",
+      "paragraphs": 80,
+      "characters": 4954
+    },
+    {
+      "source": "OEBPS/Text/part0383.xhtml",
+      "stem": "part0383",
+      "sha256": "cb183b1ee869bbcd483f85bec77ec6135d8080d655db767e384297a2b1459623",
+      "title": "第6章 楔子：通往世界尽头的航路（6）",
+      "paragraphs": 80,
+      "characters": 4837
+    },
+    {
+      "source": "OEBPS/Text/part0384.xhtml",
+      "stem": "part0384",
+      "sha256": "f0f466dec555c016c28620877241c8922c92dab35c74569c2eae68e7fb9e43e3",
+      "title": "第7章 楔子：通往世界尽头的航路（7）",
+      "paragraphs": 74,
+      "characters": 4959
+    },
+    {
+      "source": "OEBPS/Text/part0385.xhtml",
+      "stem": "part0385",
+      "sha256": "de8922c9edc53aed4f34eb4f1c6965f1cc29e60eded31f91bb89732236aa9e1b",
+      "title": "第8章 狂欢夜之舞（1）",
+      "paragraphs": 81,
+      "characters": 4926
+    },
+    {
+      "source": "OEBPS/Text/part0386.xhtml",
+      "stem": "part0386",
+      "sha256": "da9d0ecd2a0996895585925167bedda63d1d94194b017327ea9d7da6c906ff74",
+      "title": "第9章 狂欢夜之舞（2）",
+      "paragraphs": 66,
+      "characters": 4148
+    },
+    {
+      "source": "OEBPS/Text/part0387.xhtml",
+      "stem": "part0387",
+      "sha256": "e86f2f7f73361c6bb2f645c8b2cb59a9132d53fd6fbd44170c68f7dbfb93811b",
+      "title": "第10章 狂欢夜之舞（3）",
+      "paragraphs": 69,
+      "characters": 4191
+    },
+    {
+      "source": "OEBPS/Text/part0388.xhtml",
+      "stem": "part0388",
+      "sha256": "c36d20292e095f4ca3eafc73f87ea61d2a2fba2fc8cb6ee5abc77b5c66337e24",
+      "title": "第11章 十五岁少年的葬礼（1）",
+      "paragraphs": 88,
+      "characters": 5007
+    },
+    {
+      "source": "OEBPS/Text/part0389.xhtml",
+      "stem": "part0389",
+      "sha256": "49d5a51d5e154c527b6d0b95f8143d96b51191e623a953f111962eb2a4d74b6a",
+      "title": "第12章 十五岁少年的葬礼（2）",
+      "paragraphs": 59,
+      "characters": 3168
+    },
+    {
+      "source": "OEBPS/Text/part0390.xhtml",
+      "stem": "part0390",
+      "sha256": "a4fddb9769430e35a9ba76bb0d64c03c0b25e76d6cf035291aaece5d2457cf3f",
+      "title": "第13章 十五岁少年的葬礼（3）",
+      "paragraphs": 51,
+      "characters": 3165
+    },
+    {
+      "source": "OEBPS/Text/part0391.xhtml",
+      "stem": "part0391",
+      "sha256": "74e64b81d6721fbb08fa321f834de4412b97bf4c23670b82ac21d625a457ea98",
+      "title": "第14章 新娘养成学院（1）",
+      "paragraphs": 66,
+      "characters": 5006
+    },
+    {
+      "source": "OEBPS/Text/part0392.xhtml",
+      "stem": "part0392",
+      "sha256": "a18482b64c326fcc2c2f3918b074998b5363b8f176354518744d508fcc09fc99",
+      "title": "第15章 新娘养成学院（2）",
+      "paragraphs": 76,
+      "characters": 4982
+    },
+    {
+      "source": "OEBPS/Text/part0393.xhtml",
+      "stem": "part0393",
+      "sha256": "595ee010634cf1f8af9f5d93bbf495222b5ef7af84073840cb4f52377ee71d0c",
+      "title": "第16章 新娘养成学院（3）",
+      "paragraphs": 88,
+      "characters": 4887
+    },
+    {
+      "source": "OEBPS/Text/part0394.xhtml",
+      "stem": "part0394",
+      "sha256": "79086c6ea1b3ab4a121f3e79c84905e0f22f79b76e884bb0c0b43c3fcc56f5a3",
+      "title": "第17章 新娘养成学院（4）",
+      "paragraphs": 49,
+      "characters": 4988
+    },
+    {
+      "source": "OEBPS/Text/part0395.xhtml",
+      "stem": "part0395",
+      "sha256": "27f92ef44de1cf2ca083b88f753930d1d3073361aae777b9002f446f242883e3",
+      "title": "第18章 新娘养成学院（5）",
+      "paragraphs": 62,
+      "characters": 4017
+    },
+    {
+      "source": "OEBPS/Text/part0396.xhtml",
+      "stem": "part0396",
+      "sha256": "55234edb7a81def07a06674a731f0b74ef900257326d4f949507110980496741",
+      "title": "第19章 新娘养成学院（6）",
+      "paragraphs": 70,
+      "characters": 4142
+    },
+    {
+      "source": "OEBPS/Text/part0397.xhtml",
+      "stem": "part0397",
+      "sha256": "d1a134a33a3b92ebf78ebdbf69da9c961b75fd213d508730e44b5025707f8f73",
+      "title": "第20章 元老（1）",
+      "paragraphs": 85,
+      "characters": 4913
+    },
+    {
+      "source": "OEBPS/Text/part0398.xhtml",
+      "stem": "part0398",
+      "sha256": "24b3278802216b069155beaa1cb1bfc02c6b1c876a634280c9db1a05bb3cc9d8",
+      "title": "第21章 元老（2）",
+      "paragraphs": 80,
+      "characters": 4988
+    },
+    {
+      "source": "OEBPS/Text/part0399.xhtml",
+      "stem": "part0399",
+      "sha256": "ce95480a12465160abe79df48053f5f72ed6409e17fc953f9199a392fa139471",
+      "title": "第22章 元老（3）",
+      "paragraphs": 95,
+      "characters": 4988
+    },
+    {
+      "source": "OEBPS/Text/part0400.xhtml",
+      "stem": "part0400",
+      "sha256": "5b045db9a1d2fecb9cfdf0633024c5e42615c64f717571a24c2e388491b209b8",
+      "title": "第23章 元老（4）",
+      "paragraphs": 53,
+      "characters": 3267
+    },
+    {
+      "source": "OEBPS/Text/part0401.xhtml",
+      "stem": "part0401",
+      "sha256": "3dddef0b84be0068267957d95af0806838d86e947ce56a5f7e24d6166d2d2922",
+      "title": "第24章 元老（5）",
+      "paragraphs": 54,
+      "characters": 3359
+    },
+    {
+      "source": "OEBPS/Text/part0402.xhtml",
+      "stem": "part0402",
+      "sha256": "3de24dd105053d7765bf9799c2435caba9af887e2af816598fa4010a757f5f80",
+      "title": "第25章 恰同学少年（1）",
+      "paragraphs": 86,
+      "characters": 4996
+    },
+    {
+      "source": "OEBPS/Text/part0403.xhtml",
+      "stem": "part0403",
+      "sha256": "b0ec8b78c91769da6803cc93b2c80e5731af538438ae1d0ec7e86af734f99fcd",
+      "title": "第26章 恰同学少年（2）",
+      "paragraphs": 85,
+      "characters": 5004
+    },
+    {
+      "source": "OEBPS/Text/part0404.xhtml",
+      "stem": "part0404",
+      "sha256": "0e899924591678e665323b5632795f26b06ff61ba462acccc2b7b8e73775245e",
+      "title": "第27章 恰同学少年（3）",
+      "paragraphs": 67,
+      "characters": 4965
+    },
+    {
+      "source": "OEBPS/Text/part0405.xhtml",
+      "stem": "part0405",
+      "sha256": "8dfcb5650272f920d9fa7941cfdbe6a32a8a0be7949bfd767d84e78847da45dc",
+      "title": "第28章 恰同学少年（4）",
+      "paragraphs": 79,
+      "characters": 4683
+    },
+    {
+      "source": "OEBPS/Text/part0406.xhtml",
+      "stem": "part0406",
+      "sha256": "c8ce7d4aecb55551a1520f01f56e4f7ea0752ecfac6b6f1a34fff832a8948070",
+      "title": "第29章 恰同学少年（5）",
+      "paragraphs": 82,
+      "characters": 4688
+    },
+    {
+      "source": "OEBPS/Text/part0407.xhtml",
+      "stem": "part0407",
+      "sha256": "1cce2818c8550f3ec51f404bc3e93eac7713db592424112412533e322bb5b484",
+      "title": "第30章 苏小妍（1）",
+      "paragraphs": 102,
+      "characters": 5005
+    },
+    {
+      "source": "OEBPS/Text/part0408.xhtml",
+      "stem": "part0408",
+      "sha256": "6580b87e5d43197ac15d5f89589f9ee897d18361d905ccc703cdae5b7c0962e7",
+      "title": "第31章 苏小妍（2）",
+      "paragraphs": 81,
+      "characters": 3786
+    },
+    {
+      "source": "OEBPS/Text/part0409.xhtml",
+      "stem": "part0409",
+      "sha256": "3a72ba878207d75dfa8fc17b681f810d6e52415d3b2a29e0fa5d90c52181caff",
+      "title": "第32章 苏小妍（3）",
+      "paragraphs": 79,
+      "characters": 3815
+    },
+    {
+      "source": "OEBPS/Text/part0410.xhtml",
+      "stem": "part0410",
+      "sha256": "ba69c9d13b85690561703e0b81db62c692a1347028503120406cce0820724176",
+      "title": "第33章 尼伯龙根之门（1）",
+      "paragraphs": 89,
+      "characters": 5008
+    },
+    {
+      "source": "OEBPS/Text/part0411.xhtml",
+      "stem": "part0411",
+      "sha256": "7452863a71f835c4f8c40465b67c4a473bbed1568538f239a6e2dfb8615c5381",
+      "title": "第34章 尼伯龙根之门（2）",
+      "paragraphs": 83,
+      "characters": 4963
+    },
+    {
+      "source": "OEBPS/Text/part0412.xhtml",
+      "stem": "part0412",
+      "sha256": "63e4897f47a32d7e7046107ae590a3de1d6b7a69d183d6c654b57200151a6f69",
+      "title": "第35章 尼伯龙根之门（3）",
+      "paragraphs": 81,
+      "characters": 4667
+    },
+    {
+      "source": "OEBPS/Text/part0413.xhtml",
+      "stem": "part0413",
+      "sha256": "a4cf4d8720272c2d39efb8594907e1b20e7b7769745c336bec9a9cce990b2cde",
+      "title": "第36章 尼伯龙根之门（4）",
+      "paragraphs": 79,
+      "characters": 4740
+    },
+    {
+      "source": "OEBPS/Text/part0414.xhtml",
+      "stem": "part0414",
+      "sha256": "38d2449f1f1ffa0d884e0bf28a1ca289646167c918522d67f663db31b3b4a83e",
+      "title": "第37章 奥丁的阴影（1）",
+      "paragraphs": 79,
+      "characters": 5016
+    },
+    {
+      "source": "OEBPS/Text/part0415.xhtml",
+      "stem": "part0415",
+      "sha256": "a9b11309de5968a3a8a226bce55c0749e1be22754282484b2d460116a4675509",
+      "title": "第38章 奥丁的阴影（2）",
+      "paragraphs": 60,
+      "characters": 4153
+    },
+    {
+      "source": "OEBPS/Text/part0416.xhtml",
+      "stem": "part0416",
+      "sha256": "f01dc13132ddf0ff2c68a9e67415a5b30d7e22c18a73ee60b10df225208c32f4",
+      "title": "第39章 奥丁的阴影（3）",
+      "paragraphs": 72,
+      "characters": 4320
+    },
+    {
+      "source": "OEBPS/Text/part0417.xhtml",
+      "stem": "part0417",
+      "sha256": "9b9fae5586f0764f2470b3f3742bd99cdce4ec43250d95eb68fadcfdfd4abf46",
+      "title": "第40章 无限循环之梦（1）",
+      "paragraphs": 88,
+      "characters": 4915
+    },
+    {
+      "source": "OEBPS/Text/part0418.xhtml",
+      "stem": "part0418",
+      "sha256": "4636678473692b05532895069e63167ecdab186b8ee570a7556741a30b035ddb",
+      "title": "第41章 无限循环之梦（2）",
+      "paragraphs": 83,
+      "characters": 5013
+    },
+    {
+      "source": "OEBPS/Text/part0419.xhtml",
+      "stem": "part0419",
+      "sha256": "ed473002b277a92c0e40b609781230b2541b21a2682d5a2f4243cdc5e4dd6e33",
+      "title": "第42章 无限循环之梦（3）",
+      "paragraphs": 59,
+      "characters": 3220
+    },
+    {
+      "source": "OEBPS/Text/part0420.xhtml",
+      "stem": "part0420",
+      "sha256": "423383068131237ed902b6876571c504697033fcd764765d2b21ec34cf7ef889",
+      "title": "第43章 无限循环之梦（4）",
+      "paragraphs": 68,
+      "characters": 3067
+    },
+    {
+      "source": "OEBPS/Text/part0421.xhtml",
+      "stem": "part0421",
+      "sha256": "6786f533738d1ce628e60dfcd821875fccaff4db91abe6aa1b516b208204d71e",
+      "title": "第44章 楚天骄（1）",
+      "paragraphs": 83,
+      "characters": 5000
+    },
+    {
+      "source": "OEBPS/Text/part0422.xhtml",
+      "stem": "part0422",
+      "sha256": "25566bb0437de5c938ca8f4a73f2a77e38d6605ec7ad330ce4441de19aa76416",
+      "title": "第45章 楚天骄（2）",
+      "paragraphs": 91,
+      "characters": 4998
+    },
+    {
+      "source": "OEBPS/Text/part0423.xhtml",
+      "stem": "part0423",
+      "sha256": "d545778071dab7441197948951ad4dc43615a359b4a6c0985cb7fd75342b1e0e",
+      "title": "第46章 楚天骄（3）",
+      "paragraphs": 86,
+      "characters": 4990
+    },
+    {
+      "source": "OEBPS/Text/part0424.xhtml",
+      "stem": "part0424",
+      "sha256": "4b831682b3488737e7b6f5cdc0d4fe739706f09a2d8b1bfb9fbbb2c4d0e3c36b",
+      "title": "第47章 楚天骄（4）",
+      "paragraphs": 63,
+      "characters": 3678
+    },
+    {
+      "source": "OEBPS/Text/part0425.xhtml",
+      "stem": "part0425",
+      "sha256": "e1156439467e6e3051218809fae3a140660fc7f391a73904d832d922b66fe079",
+      "title": "第48章 楚天骄（5）",
+      "paragraphs": 66,
+      "characters": 3759
+    },
+    {
+      "source": "OEBPS/Text/part0426.xhtml",
+      "stem": "part0426",
+      "sha256": "2b461ceb0bc644e01cc7cc527f6133f2607fe62bae421e0bcf681f867d841634",
+      "title": "第49章 邵公子的夏季攻略（1）",
+      "paragraphs": 91,
+      "characters": 4968
+    },
+    {
+      "source": "OEBPS/Text/part0427.xhtml",
+      "stem": "part0427",
+      "sha256": "77e3811d07fc458815a5f99d7371039f8966a914972a67b04f61c5b726453acb",
+      "title": "第50章 邵公子的夏季攻略（2）",
+      "paragraphs": 93,
+      "characters": 4905
+    },
+    {
+      "source": "OEBPS/Text/part0428.xhtml",
+      "stem": "part0428",
+      "sha256": "80586d5151e1a06b4f13f67ad0e66f4e87c1955382320109e6aa24bd88033503",
+      "title": "第51章 邵公子的夏季攻略（3）",
+      "paragraphs": 54,
+      "characters": 3205
+    },
+    {
+      "source": "OEBPS/Text/part0429.xhtml",
+      "stem": "part0429",
+      "sha256": "38d42502c56a55ac5cf7f46e443b823f94b037e9abed4f2d25ff164cb8dcff84",
+      "title": "第52章 邵公子的夏季攻略（4）",
+      "paragraphs": 52,
+      "characters": 3276
+    },
+    {
+      "source": "OEBPS/Text/part0430.xhtml",
+      "stem": "part0430",
+      "sha256": "e8b17019ce10c943ca9f728365230a20919f3f093977bf6881b715f7f41fb4d3",
+      "title": "第53章 苏晓樯的夏季攻略（1）",
+      "paragraphs": 87,
+      "characters": 4979
+    },
+    {
+      "source": "OEBPS/Text/part0431.xhtml",
+      "stem": "part0431",
+      "sha256": "580d1458827d2ef8be603664578be7fd2e884e447acc7ce1d46eca0d88b67555",
+      "title": "第54章 苏晓樯的夏季攻略（2）",
+      "paragraphs": 85,
+      "characters": 5016
+    },
+    {
+      "source": "OEBPS/Text/part0432.xhtml",
+      "stem": "part0432",
+      "sha256": "287eca5df549aae1b8df2e190fc8d765bae986f847c1df6b6d90ba63422c23fa",
+      "title": "第55章 苏晓樯的夏季攻略（3）",
+      "paragraphs": 83,
+      "characters": 5026
+    },
+    {
+      "source": "OEBPS/Text/part0433.xhtml",
+      "stem": "part0433",
+      "sha256": "e919de4a3ebcb933f16004bec42fa1c24e6d9a53b965a5df9b8c305f313b0347",
+      "title": "第56章 苏晓樯的夏季攻略（4）",
+      "paragraphs": 90,
+      "characters": 5022
+    },
+    {
+      "source": "OEBPS/Text/part0434.xhtml",
+      "stem": "part0434",
+      "sha256": "e9555864de4562ed4ed12599881ebebaa9f506dbf1665d430037c2900dff441d",
+      "title": "第57章 苏晓樯的夏季攻略（5）",
+      "paragraphs": 55,
+      "characters": 3216
+    },
+    {
+      "source": "OEBPS/Text/part0435.xhtml",
+      "stem": "part0435",
+      "sha256": "97f2fb8bea898d07741d9f7a690df043110191b0eb3d09e063cf4fb6173897b7",
+      "title": "第58章 苏晓樯的夏季攻略（6）",
+      "paragraphs": 57,
+      "characters": 3246
+    },
+    {
+      "source": "OEBPS/Text/part0436.xhtml",
+      "stem": "part0436",
+      "sha256": "5a6e577ea6a18049e813eb85d78fa2553108b2810d6e185b57ae1b5c5e20daba",
+      "title": "第59章 猎人小屋（1）",
+      "paragraphs": 88,
+      "characters": 4883
+    },
+    {
+      "source": "OEBPS/Text/part0437.xhtml",
+      "stem": "part0437",
+      "sha256": "c053822b62aed8969e29b59610b59d8c085b937cc78712a25dc647604a3a1dbc",
+      "title": "第60章 猎人小屋（2）",
+      "paragraphs": 68,
+      "characters": 4207
+    },
+    {
+      "source": "OEBPS/Text/part0438.xhtml",
+      "stem": "part0438",
+      "sha256": "191a284db1ac09f421f6e663035fef2cf99b127175112fb3e2b0d5ebe9e7cfb5",
+      "title": "第61章 猎人小屋（3）",
+      "paragraphs": 78,
+      "characters": 4271
+    },
+    {
+      "source": "OEBPS/Text/part0439.xhtml",
+      "stem": "part0439",
+      "sha256": "41d2d2cc5f3b4038efe5e994827e4b75352b16f56ae4f6ae50019b30423490da",
+      "title": "第62章 亡命之徒无路可退（1）",
+      "paragraphs": 82,
+      "characters": 5030
+    },
+    {
+      "source": "OEBPS/Text/part0440.xhtml",
+      "stem": "part0440",
+      "sha256": "6018767574f3087611962630d0f2475ba3b8aba505739c05dd5c5ad377878601",
+      "title": "第63章 亡命之徒无路可退（2）",
+      "paragraphs": 73,
+      "characters": 4963
+    },
+    {
+      "source": "OEBPS/Text/part0441.xhtml",
+      "stem": "part0441",
+      "sha256": "04a3658c9887fc7e97a3bb60ca59e051219e0741cf5269305f591b36fe2a88ff",
+      "title": "第64章 亡命之徒无路可退（3）",
+      "paragraphs": 75,
+      "characters": 4998
+    },
+    {
+      "source": "OEBPS/Text/part0442.xhtml",
+      "stem": "part0442",
+      "sha256": "624f7f3bc4c571c4d3f728ea12445a1072e569ab26d7b0a598d75062b230a137",
+      "title": "第65章 王从天降愤怒狰狞（1）",
+      "paragraphs": 85,
+      "characters": 5013
+    },
+    {
+      "source": "OEBPS/Text/part0443.xhtml",
+      "stem": "part0443",
+      "sha256": "5cea047ff540909f9998a9e927b9d71891cee6c599b10d992b376882c6413a72",
+      "title": "第66章 王从天降愤怒狰狞（2）",
+      "paragraphs": 94,
+      "characters": 5046
+    },
+    {
+      "source": "OEBPS/Text/part0444.xhtml",
+      "stem": "part0444",
+      "sha256": "6ae2ac9099406b56ca9799b969a05edc551045444a02d2cbba60d3b53a0fa078",
+      "title": "第67章 王从天降愤怒狰狞（3）",
+      "paragraphs": 51,
+      "characters": 2550
+    },
+    {
+      "source": "OEBPS/Text/part0445.xhtml",
+      "stem": "part0445",
+      "sha256": "9f238a0f997c451c2c55f2489e7e015d1e78299be8d677c40c5e502dc6725b08",
+      "title": "第68章 王从天降愤怒狰狞（4）",
+      "paragraphs": 50,
+      "characters": 2652
+    },
+    {
+      "source": "OEBPS/Text/part0446.xhtml",
+      "stem": "part0446",
+      "sha256": "6b0578d0df108059fd5d4cf45f27de931cfc81d4154d429317b37f57034ed9a5",
+      "title": "第69章 尾声",
+      "paragraphs": 17,
+      "characters": 1024
+    }
+  ],
+  "groups": [
+    {
+      "title": "楔子：通往世界尽头的航路",
+      "documents": [
+        "part0378",
+        "part0379",
+        "part0380",
+        "part0381",
+        "part0382",
+        "part0383",
+        "part0384"
+      ]
+    },
+    {
+      "title": "狂欢夜之舞",
+      "documents": [
+        "part0385",
+        "part0386",
+        "part0387"
+      ]
+    },
+    {
+      "title": "十五岁少年的葬礼",
+      "documents": [
+        "part0388",
+        "part0389",
+        "part0390"
+      ]
+    },
+    {
+      "title": "新娘养成学院",
+      "documents": [
+        "part0391",
+        "part0392",
+        "part0393",
+        "part0394",
+        "part0395",
+        "part0396"
+      ]
+    },
+    {
+      "title": "元老",
+      "documents": [
+        "part0397",
+        "part0398",
+        "part0399",
+        "part0400",
+        "part0401"
+      ]
+    },
+    {
+      "title": "恰同学少年",
+      "documents": [
+        "part0402",
+        "part0403",
+        "part0404",
+        "part0405",
+        "part0406"
+      ]
+    },
+    {
+      "title": "苏小妍",
+      "documents": [
+        "part0407",
+        "part0408",
+        "part0409"
+      ]
+    },
+    {
+      "title": "尼伯龙根之门",
+      "documents": [
+        "part0410",
+        "part0411",
+        "part0412",
+        "part0413"
+      ]
+    },
+    {
+      "title": "奥丁的阴影",
+      "documents": [
+        "part0414",
+        "part0415",
+        "part0416"
+      ]
+    },
+    {
+      "title": "无限循环之梦",
+      "documents": [
+        "part0417",
+        "part0418",
+        "part0419",
+        "part0420"
+      ]
+    },
+    {
+      "title": "楚天骄",
+      "documents": [
+        "part0421",
+        "part0422",
+        "part0423",
+        "part0424",
+        "part0425"
+      ]
+    },
+    {
+      "title": "邵公子的夏季攻略",
+      "documents": [
+        "part0426",
+        "part0427",
+        "part0428",
+        "part0429"
+      ]
+    },
+    {
+      "title": "苏晓樯的夏季攻略",
+      "documents": [
+        "part0430",
+        "part0431",
+        "part0432",
+        "part0433",
+        "part0434",
+        "part0435"
+      ]
+    },
+    {
+      "title": "猎人小屋",
+      "documents": [
+        "part0436",
+        "part0437",
+        "part0438"
+      ]
+    },
+    {
+      "title": "亡命之徒无路可退",
+      "documents": [
+        "part0439",
+        "part0440",
+        "part0441"
+      ]
+    },
+    {
+      "title": "王从天降愤怒狰狞",
+      "documents": [
+        "part0442",
+        "part0443",
+        "part0444",
+        "part0445"
+      ]
+    },
+    {
+      "title": "尾声",
+      "documents": [
+        "part0446"
+      ]
+    }
+  ],
+  "analysis_files": [
+    "ch103-lz4-end-of-world.md",
+    "ch104-lz4-carnival.md",
+    "ch105-lz4-boy-funeral.md",
+    "ch106-lz4-bride-school.md",
+    "ch107-lz4-elders.md",
+    "ch108-lz4-schoolmates.md",
+    "ch109-lz4-mother.md",
+    "ch110-lz4-nibelung-gate.md",
+    "ch111-lz4-odin-shadow.md",
+    "ch112-lz4-recursive-dream.md",
+    "ch113-lz4-father-traces.md",
+    "ch114-lz4-borrowed-monkey.md",
+    "ch115-lz4-summer-strategy.md",
+    "ch116-lz4-hunter-room.md",
+    "ch117-lz4-no-retreat.md",
+    "ch118-lz4-king-descends.md",
+    "ch119-lz4-epilogue.md"
+  ]
+}

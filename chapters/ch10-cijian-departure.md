@@ -36,4 +36,8 @@
 
 旧物有没有真正影响一个决定？离开之后哪项行动无法照旧？最后一句是否比已经完成的场面多说了同样的道理？现实、转述与原创补写能否在创作资料中区分？
 
-关联：[ch03](ch03-cijian-retrospection.md) 的材料赠送与迟到；[ch09](ch09-cijian-withdrawal.md) 的日记线索；[更新说明](../references/update.md)。
+关联：[ch03](ch03-cijian-retrospection.md) 的材料赠送与迟到；[ch09](ch09-cijian-withdrawal.md) 的日记线索；[更新说明](../references/maintenance/update.md)。
+
+## 本轮细读补充
+
+离校夜的风声、地面与叶声怎样展开见[描写D1](../references/techniques/close-reading-description.md)；乔峰熟悉动作进入告别情境见[人物C2](../references/techniques/close-reading-character.md)。
