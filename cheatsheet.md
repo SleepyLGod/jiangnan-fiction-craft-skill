@@ -27,7 +27,7 @@
 | 当前问题 | 回查位置 |
 |---|---|
 | 开场不抓人、人物太多 | [ch01](chapters/ch01-cijian-encounters.md)、[ch05](chapters/ch05-cijian-party.md) |
-| 技术或规则读不懂 | [ch02](chapters/ch02-cijian-routines.md)的占座程序、[ch06](chapters/ch06-cijian-authority.md)的分票 |
+| 技术或规则读不懂 | [ch02](chapters/ch02-cijian-routines.md)的占座程序、[ch06](chapters/ch06-cijian-authority.md)的分票；[TC6修门](references/books/tianzhichi-01-close-reading.md#tc6-门合得更紧为什么这一小步反而修好了)查专业中间状态、解释与验证 |
 | 幽默尴尬、悲伤被笑料打断 | [ch08](chapters/ch08-cijian-asymmetry.md)、[ch09](chapters/ch09-cijian-withdrawal.md) |
 | 只有争论、说教压过故事 | [ch03](chapters/ch03-cijian-retrospection.md)、[ch05](chapters/ch05-cijian-party.md)、[ch06](chapters/ch06-cijian-authority.md)；[ch54](chapters/ch54-lz3a-knot.md)查资源差 |
 | 细节只剩装饰或被全部删掉 | 上表的描写入口；[ch05](chapters/ch05-cijian-party.md)、[ch08](chapters/ch08-cijian-asymmetry.md)、[ch10](chapters/ch10-cijian-departure.md)的行动条件 |

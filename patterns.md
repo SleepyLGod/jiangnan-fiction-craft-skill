@@ -11,7 +11,7 @@
 | 群像与关注 | [人物C1–C4](references/techniques/close-reading-character.md)；[TY7不同关注](references/books/tianzhichi-02-close-reading.md#ty7) |
 | 接话没有接住需要 | [TJ1打断](references/books/piaomiao-03-close-reading.md#tj1)；[CZ2背熟](references/books/piaomiao-04-close-reading.md#cz2)；[YM3漏接](references/books/piaomiao-05-close-reading.md#ym3) |
 | 预先布置／延后辨认 | [情节P1–P4](references/techniques/close-reading-plot.md)；[TY10后辨认](references/books/tianzhichi-02-close-reading.md#ty10) |
-| 条件与分阶段结果 | [YM7射击条件](references/books/piaomiao-05-close-reading.md#ym7)；[YM9救援后果](references/books/piaomiao-05-close-reading.md#ym9) |
+| 技术步骤、条件与分阶段结果 | [TC6修门](references/books/tianzhichi-01-close-reading.md#tc6-门合得更紧为什么这一小步反而修好了)；[YM7射击条件](references/books/piaomiao-05-close-reading.md#ym7)；[YM9救援后果](references/books/piaomiao-05-close-reading.md#ym9) |
 | 探索与记载 | [PM3路线](references/books/piaomiao-01-close-reading.md#pm3)；[PM7遗漏](references/books/piaomiao-01-close-reading.md#pm7) |
 
 ## 办事带出人物
