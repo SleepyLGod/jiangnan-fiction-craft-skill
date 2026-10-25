@@ -33,3 +33,7 @@
 原[情节P2、P3](../references/techniques/close-reading-plot.md)分别补器物当前条件与事后认识；[卷二CY7](../references/books/piaomiao-02-close-reading.md)补保护不等于全程控制。公开拒尸毒与秘密使用其他毒术保留区别和道德张力，不替白洗成毫无矛盾。小舟归属、雷的全策、秘信后果、华柳后续和人物身世都未完成，不凭续作补结局。
 
 [本卷范围、对照与疑点](../references/books/piaomiao-03.md) · [返回入口](../SKILL.md)
+
+## 多线结构补充
+
+[《殇阳血》战役段专题](../references/techniques/multi-line-piaomiao-03.md)按阅读顺序回看联军指挥、离军突围与辎重营救友：交权怎样接到军令和战场变化，退军怎样进入营地，各线又怎样分别留下结果。保留本章分析与TJ4–TJ7，不把少年救友解释成决定全局胜负，也不把全部支线强行收成一个终局。

@@ -13,6 +13,7 @@
 | 主角期待没有根据，反转凭空 | 布置是否同时支持当前解释与真实用途？ | [情节P1](references/techniques/close-reading-plot.md)；[CY7](references/books/piaomiao-02-close-reading.md)的分次补解 |
 | 伏笔只是再次出现 | 先前用途、持续持有和当前使用条件是什么？ | [情节P2](references/techniques/close-reading-plot.md) |
 | 跨章选择断开、关系变化只靠总结 | 前场说定或做出的事，后场具体接着处理什么？ | [《Ⅱ》楚夏线](references/techniques/long-arc-longzu-02.md)，只覆盖一条卷内线，不替代全书规划 |
+| 多线只是轮流出现、切场后看不出联系 | 一处的行动，在另一处变成了什么条件？ | [《殇阳血》多线回读](references/techniques/multi-line-piaomiao-03.md)，区分传令执行、退军经过与不同线的结果 |
 | 重大事件后只剩感慨 | 是否仍有一项关系需要被人物重新认识？ | [情节P3](references/techniques/close-reading-plot.md) |
 | 重试和复访很拖 | 哪些不变可压缩，哪次变化值得展开？ | [情节P4](references/techniques/close-reading-plot.md)；[CY3](references/books/piaomiao-02-close-reading.md)的握位比较 |
 | 帮忙等于被爱，合作自动和解 | 对方表达了什么、能改变哪件事？ | [patterns](patterns.md)的帮助方法；ch39、ch77 |

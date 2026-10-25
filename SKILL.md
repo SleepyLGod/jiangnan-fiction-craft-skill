@@ -5,7 +5,7 @@ description: "基于《此间的少年》《龙族》《九州·缥缈录》《�
 
 # jiangnan-fiction-craft
 
-版本0.18.1（2026-10-25）。本版补齐已有案例入口、分离维护说明并澄清旧物建议的适用范围，保留已有分析；覆盖范围和逐卷定位见[书目索引](references/books/index.md)。
+版本0.19.0（2026-10-25）。本版补一段战役的多线切换与汇合回读，保留已有分析；覆盖范围和逐卷定位见[书目索引](references/books/index.md)。
 
 ## 使用方式
 
@@ -30,6 +30,7 @@ description: "基于《此间的少年》《龙族》《九州·缥缈录》《�
 | 人物声线、外貌作用、身份变化 | [人物细读](references/techniques/close-reading-character.md) |
 | 反转、物件兑现、揭示顺序、重复 | [情节细读](references/techniques/close-reading-plot.md) |
 | 跨章节的人物选择、关系与回收 | [《Ⅱ》楚夏线](references/techniques/long-arc-longzu-02.md)，只覆盖一条卷内线 |
+| 多线切换、互相影响与局部汇合 | [《殇阳血》战役段](references/techniques/multi-line-piaomiao-03.md)，只覆盖一段战役 |
 | 按书回查章节、其他局部细读及来源 | [书目索引](references/books/index.md) |
 
 ## 核心判断
