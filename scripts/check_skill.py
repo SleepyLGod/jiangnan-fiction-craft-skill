@@ -4,10 +4,12 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 import unicodedata
 from collections import Counter
+from fnmatch import fnmatchcase
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -37,13 +39,39 @@ def heading_ids(text: str) -> set[str]:
     return ids
 
 
+def distribution_files(root: Path) -> list[Path]:
+    """Skip local material using this repository's basename-only ignore rules."""
+    patterns = [
+        line.strip() for line in (root / ".gitignore").read_text(encoding="utf-8").splitlines()
+        if line.strip() and not line.lstrip().startswith("#")
+    ]
+    # Fail explicitly if maintenance introduces syntax this portable matcher cannot handle.
+    for pattern in patterns:
+        if (
+            pattern.startswith("!") or "/" in pattern.rstrip("/")
+            or "\\" in pattern or "**" in pattern
+        ):
+            raise ValueError(f"unsupported .gitignore rule: {pattern}")
+    file_patterns = [pattern for pattern in patterns if not pattern.endswith("/")]
+    directory_patterns = [pattern.rstrip("/") for pattern in patterns]
+    files: list[Path] = []
+    for directory, subdirs, names in os.walk(root):
+        subdirs[:] = [
+            name for name in subdirs
+            if name != ".git" and not any(fnmatchcase(name, pattern) for pattern in directory_patterns)
+        ]
+        files.extend(
+            Path(directory) / name for name in names
+            if not any(fnmatchcase(name, pattern) for pattern in file_patterns)
+        )
+    return sorted(files)
+
+
 def check() -> dict[str, int]:
     """Raise ValueError on structural failures; return verified file counts."""
     errors: list[str] = []
-    files = [
-        path for path in ROOT.rglob("*")
-        if path.is_file() and ".git" not in path.relative_to(ROOT).parts
-    ]
+    files = distribution_files(ROOT)
+    packaged = set(files)
     markdown = {path: path.read_text(encoding="utf-8") for path in files if path.suffix == ".md"}
     graph: dict[Path, set[Path]] = {path: set() for path in markdown}
     links = 0
@@ -53,7 +81,7 @@ def check() -> dict[str, int]:
             if parsed.scheme or parsed.netloc:
                 continue
             target = (path.parent / unquote(parsed.path)).resolve() if parsed.path else path
-            if not target.is_relative_to(ROOT) or not target.exists():
+            if not target.is_relative_to(ROOT) or target not in packaged:
                 errors.append(f"{path.relative_to(ROOT)}: missing or nonportable link {raw}")
                 continue
             if parsed.fragment and target in markdown:
@@ -74,13 +102,19 @@ def check() -> dict[str, int]:
         if path.name != "README.md" and path not in reachable:
             errors.append(f"{path.relative_to(ROOT)}: unreachable from SKILL.md")
 
-    chapters = {path.name for path in (ROOT / "chapters").glob("ch*.md")}
+    chapters = {
+        path.name for path in files
+        if path.parent == ROOT / "chapters" and path.match("ch*.md")
+    }
     numbers = sorted(int(re.match(r"ch(\d+)", name)[1]) for name in chapters)
     if not numbers or numbers != list(range(1, max(numbers) + 1)):
         errors.append("chapter numbers are missing or duplicated")
     registered = {name for name in chapters if re.fullmatch(r"ch\d+-cijian-.+\.md", name)}
     bounds: dict[tuple[str, str], int] = {}
-    manifests = sorted((ROOT / "sources").glob("*-manifest.json"))
+    manifests = [
+        path for path in files
+        if path.parent == ROOT / "sources" and path.name.endswith("-manifest.json")
+    ]
     for path in manifests:
         data = json.loads(path.read_text(encoding="utf-8"))
         source_id = data["source_id"]
@@ -116,6 +150,7 @@ def check() -> dict[str, int]:
             len(relative.parts) > 1 and relative.parts[0] not in allowed_roots
         ) or path.suffix not in {".md", ".json", ".py", ""}:
             errors.append(f"unexpected packaged file: {relative}")
+            continue
         if re.search(r"(?:/Users/|/private/|/tmp/|file://)", path.read_text(encoding="utf-8")):
             if relative != Path("scripts/check_skill.py"):
                 errors.append(f"machine-specific path in {relative}")
@@ -125,7 +160,9 @@ def check() -> dict[str, int]:
         errors.append("SKILL.md name/frontmatter is invalid")
     if len(frontmatter) == 3 and not re.search(r"^description: .+", frontmatter[1], re.MULTILINE):
         errors.append("SKILL.md description is missing")
-    for path in (ROOT / "sources").glob("*.json"):
+    for path in files:
+        if path.parent != ROOT / "sources" or path.suffix != ".json":
+            continue
         json.loads(path.read_text(encoding="utf-8"))
     if errors:
         raise ValueError("\n".join(errors))

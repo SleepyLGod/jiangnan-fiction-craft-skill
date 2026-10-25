@@ -58,4 +58,6 @@ python3 scripts/check_skill.py
 
 检查相对链接与章节锚点、书目可达性、来源定位边界、分析编号与清单对应，以及打包范围。检查不需要本地小说全文，也不能代替回读原文或实际写作比较。文件格式通过不表示文学效果通过。
 
+文件范围遵循当前`.gitignore`中的文件名通配和目录排除，保留未提交的新分析；检查不依赖Git。若新增当前匹配器不支持的忽略语法，脚本会明确报错。发布文档不能链接到被排除的本地材料。
+
 继续阅读新书或补充方法时，沿用[来源与维护](references/maintenance/update.md)中的证据约束，保留已有分析。文本提取使用[book-to-skill](https://github.com/virgiliojr94/book-to-skill)；其他项目调研保留在[独立备忘](references/maintenance/related-skills.md)。
