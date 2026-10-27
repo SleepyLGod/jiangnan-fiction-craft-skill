@@ -40,7 +40,7 @@ def heading_ids(text: str) -> set[str]:
 
 
 def distribution_files(root: Path) -> list[Path]:
-    """Skip local material using this repository's basename-only ignore rules."""
+    """Skip Git metadata and local material using basename-only ignore rules."""
     patterns = [
         line.strip() for line in (root / ".gitignore").read_text(encoding="utf-8").splitlines()
         if line.strip() and not line.lstrip().startswith("#")
@@ -62,7 +62,7 @@ def distribution_files(root: Path) -> list[Path]:
         ]
         files.extend(
             Path(directory) / name for name in names
-            if not any(fnmatchcase(name, pattern) for pattern in file_patterns)
+            if name != ".git" and not any(fnmatchcase(name, pattern) for pattern in file_patterns)
         )
     return sorted(files)
 
