@@ -1,0 +1,1348 @@
+{
+  "title": "九州·缥缈录Ⅱ：苍云古齿",
+  "author": "江南",
+  "source_id": "pm2",
+  "generated": "2026-10-24",
+  "source_anthology": "江南作品合集套装共25册江南作品合集套装25册中国著名幻想小说作家千万册畅销奇迹制造者刘慈欣阿来李敬泽盛赞作家江南25册套装大合集囊括龙族九州缥缈录天之炽上海堡垒等知名作品.epub",
+  "edition_statement_from_local_copyright_page": {
+    "title": "九州·缥缈录Ⅱ：苍云古齿",
+    "author": "江南",
+    "copyright": "版权所有 侵权必究",
+    "publisher": null,
+    "date": null,
+    "isbn": null,
+    "note": "The local volume II copyright page provides no publisher, date or ISBN; do not inherit volume I metadata."
+  },
+  "edition_verified_against_print": false,
+  "source_opf_sha256": "e99b7907d4d4d83946a663aa70eeae3f8442433a58d7c71ddae518bcf61e7448",
+  "source_ncx_sha256": "b2fc076d6292f497e2121c5d9cddde8d0587118509a4ef9d06a936838677e7b1",
+  "repacked_epub_sha256": "72d668ec9e18b0d7673461cbc2fa6d8375455c8cec13eb6417578a4af95f893f",
+  "reading_status": {
+    "full_text_read": true,
+    "coverage_verified": true,
+    "spine_items": 39,
+    "total_nonempty_blocks_including_front_matter": 3389,
+    "total_normalized_characters": 174282,
+    "preface_blocks": 0,
+    "body_text_items": 36,
+    "body_paragraphs_including_headings": 3346,
+    "body_normalized_characters": 174079,
+    "reading_chunks": 37,
+    "all_chunks_read": true,
+    "analysis_units": 8,
+    "local_close_readings": 8,
+    "referenced_images": 1,
+    "images_analyzed": false,
+    "print_pages": null
+  },
+  "anchor_contract": "pm2:partNNNN:Pxxxx-Pyyyy -> OEBPS/Text/partNNNN.xhtml; nonempty body p/h1-h6/li/pre/blockquote/leaf div blocks; normalize inline whitespace; include headings; one-based paragraphs; not print pages",
+  "source_files": [
+    {
+      "path": "OEBPS/Text/part0456.xhtml",
+      "sha256": "6b6c1259abd2da922941447e9261b8bd3eb145f9e2b432c2c1269a81e69aa86a",
+      "bytes": 441
+    },
+    {
+      "path": "OEBPS/Text/part0457.xhtml",
+      "sha256": "58cf234d446e9e51557b8ab252b5d2848848c43aec872e130019fece5fc0ebec",
+      "bytes": 615
+    },
+    {
+      "path": "OEBPS/Text/part0458.xhtml",
+      "sha256": "1c235177e76f91907970052e3e1cf36b015c569e00d2427f4b301b57a995b760",
+      "bytes": 3747
+    },
+    {
+      "path": "OEBPS/Text/part0459.xhtml",
+      "sha256": "9051edbefe920bfa65f238bd13c13c4533dd2b64b2e3a772e9d486c4952e262e",
+      "bytes": 17661
+    },
+    {
+      "path": "OEBPS/Text/part0460.xhtml",
+      "sha256": "fd314fe7bd3e8eff543099a77574ea4b6c80d89fe09571e4115c323d676d705b",
+      "bytes": 17418
+    },
+    {
+      "path": "OEBPS/Text/part0461.xhtml",
+      "sha256": "06b59bcb1fac6a2df8d7c5779eec7a9277714fcf2a262a7e92e048a245019fda",
+      "bytes": 17847
+    },
+    {
+      "path": "OEBPS/Text/part0462.xhtml",
+      "sha256": "78d5f10aa5459420b51d75e0b1aadc0da6788c2ce2353ff55e6811d015a99202",
+      "bytes": 17887
+    },
+    {
+      "path": "OEBPS/Text/part0463.xhtml",
+      "sha256": "ac5aa0b2eebcdcaa691477752c23a76bdb0b34917fce0e8daeedf19b6611e911",
+      "bytes": 17841
+    },
+    {
+      "path": "OEBPS/Text/part0464.xhtml",
+      "sha256": "72206f5b2d87b1df84b460f4496e3def488a0d4d1ef8e5d631e435b69da97523",
+      "bytes": 17799
+    },
+    {
+      "path": "OEBPS/Text/part0465.xhtml",
+      "sha256": "6badecb910ebff2da51e035fc6d5969639e5fa72df4626dd587f2366cf77770b",
+      "bytes": 17838
+    },
+    {
+      "path": "OEBPS/Text/part0466.xhtml",
+      "sha256": "8a90a600f57b9d62c478ef550346662658d446b342c79836c17ca20d7c01ccf7",
+      "bytes": 17768
+    },
+    {
+      "path": "OEBPS/Text/part0467.xhtml",
+      "sha256": "f7dc3e6304b84bfe7a32fb212f26564b44f572975afd072e25c681d6647717d8",
+      "bytes": 17594
+    },
+    {
+      "path": "OEBPS/Text/part0468.xhtml",
+      "sha256": "98c82fbcbfa6446c98ddf7ed96c69fe6d997bc86de3f558528bb21fc8d2da8ff",
+      "bytes": 17897
+    },
+    {
+      "path": "OEBPS/Text/part0469.xhtml",
+      "sha256": "c20be542768af3b9afe22bfdda5caaf58d2d88e7b3e958ff3ba3b6f503b6fb83",
+      "bytes": 17713
+    },
+    {
+      "path": "OEBPS/Text/part0470.xhtml",
+      "sha256": "49777c49036ac14e35814aeb5e4de1f94a42bebedbcec607c8826fb513496598",
+      "bytes": 15824
+    },
+    {
+      "path": "OEBPS/Text/part0471.xhtml",
+      "sha256": "258e671c67dad68c8437a06b8dbf2d8769890977602fb4197454eeb590e2ea5a",
+      "bytes": 17306
+    },
+    {
+      "path": "OEBPS/Text/part0472.xhtml",
+      "sha256": "e3f8315b5edc674926637e38a02084fb5597b3122bd8bb33631d5c826a0645e0",
+      "bytes": 17023
+    },
+    {
+      "path": "OEBPS/Text/part0473.xhtml",
+      "sha256": "b10f57fceb49749214bc1595bba712aac0bc00bf982a9b6d234bb4e5435201be",
+      "bytes": 17168
+    },
+    {
+      "path": "OEBPS/Text/part0474.xhtml",
+      "sha256": "aab22dfb14198dc2fa844f4e3de6ae8a72050b5014a90301b0361297ba2f54a5",
+      "bytes": 18004
+    },
+    {
+      "path": "OEBPS/Text/part0475.xhtml",
+      "sha256": "aac32da8f144e59e3fafe3b2bb6f0ee87df1b1a3bb49d010a0edb731b65aaa52",
+      "bytes": 17723
+    },
+    {
+      "path": "OEBPS/Text/part0476.xhtml",
+      "sha256": "334bb4c794e7e15711ef2b77f8d355bb094ed9571aaf2b0ea672d240a21307f2",
+      "bytes": 17029
+    },
+    {
+      "path": "OEBPS/Text/part0477.xhtml",
+      "sha256": "08fe77e178a04af2cf45458ebf883801cbfa16b8268ab7ac39680a94ea46f04f",
+      "bytes": 17298
+    },
+    {
+      "path": "OEBPS/Text/part0478.xhtml",
+      "sha256": "cf236060418e1a5624e023f1cc14cdb09b169928f88dc5ec31529fe8c74f9d23",
+      "bytes": 17459
+    },
+    {
+      "path": "OEBPS/Text/part0479.xhtml",
+      "sha256": "6794179e5126270df6a62117a89aca74965acfcfa4cdabe5fd1890dd5147c921",
+      "bytes": 18007
+    },
+    {
+      "path": "OEBPS/Text/part0480.xhtml",
+      "sha256": "6c78e07ecdfe38aee1f83d254fe7317faa8857ac4afa588fa0b49dcdda97d16e",
+      "bytes": 17540
+    },
+    {
+      "path": "OEBPS/Text/part0481.xhtml",
+      "sha256": "ad4bcc7069f1f14370b08708eb60a9bba20ec2f8c5bff95bc6ff28a490a02438",
+      "bytes": 17357
+    },
+    {
+      "path": "OEBPS/Text/part0482.xhtml",
+      "sha256": "dd3d49a1a4281ab1e2bdbb37b364bbd99f25183f20ebc0f0bd5c2ae9f4b87916",
+      "bytes": 17660
+    },
+    {
+      "path": "OEBPS/Text/part0483.xhtml",
+      "sha256": "b4cae35b45bd9efd4698f4a7ef025b7ba5413adc299f6ba087e7dec9b150ed6e",
+      "bytes": 17877
+    },
+    {
+      "path": "OEBPS/Text/part0484.xhtml",
+      "sha256": "225262d607e17049d25d2dbb6bdb76fc57ea2bdd61134daf0a7355a04ae5da17",
+      "bytes": 17488
+    },
+    {
+      "path": "OEBPS/Text/part0485.xhtml",
+      "sha256": "055d7846c11d403540dea99d61a0758a429f9a6e8ae6ab8d620eef1b1217f8e4",
+      "bytes": 17576
+    },
+    {
+      "path": "OEBPS/Text/part0486.xhtml",
+      "sha256": "69b0d4a9eaf20d6dcd05695b7c52145e8e72d1d3fc3c6baab104946e8517fb36",
+      "bytes": 18407
+    },
+    {
+      "path": "OEBPS/Text/part0487.xhtml",
+      "sha256": "6c026f3fb8dff22835d85c3508496991421fc43e9fa9ac7e5284ffd1385ed3d2",
+      "bytes": 18076
+    },
+    {
+      "path": "OEBPS/Text/part0488.xhtml",
+      "sha256": "b7b171e33e98c86290e2885cfae343fecff1cdf382252227474273750c43643c",
+      "bytes": 18068
+    },
+    {
+      "path": "OEBPS/Text/part0489.xhtml",
+      "sha256": "ec237340a3ab961d848f8e60158321f30a4ebf36aab57bdb41c9ceedcdf9e866",
+      "bytes": 17915
+    },
+    {
+      "path": "OEBPS/Text/part0490.xhtml",
+      "sha256": "7598be7defda83d3bfcf304233166530fc6da850fc5084d42c3b95d64ccfb43a",
+      "bytes": 17711
+    },
+    {
+      "path": "OEBPS/Text/part0491.xhtml",
+      "sha256": "8f37f79e05a2123bd64d82d9ffaeb4327a41bec59b7b5c59a9819f8c86641d2e",
+      "bytes": 18191
+    },
+    {
+      "path": "OEBPS/Text/part0492.xhtml",
+      "sha256": "a81c42ea60328861ecf192f73d913da1448e247b7f2be75c9d68af0262fda0c5",
+      "bytes": 17873
+    },
+    {
+      "path": "OEBPS/Text/part0493.xhtml",
+      "sha256": "b64c0ac25dc39f91df11c5d996f32459dbdfa99888d4e952d92ad48f7f086282",
+      "bytes": 11311
+    },
+    {
+      "path": "OEBPS/Text/part0494.xhtml",
+      "sha256": "e8252a97995ef764f4b8e9589667237363dbb8909e1c3512ce6ec82cb5e2ff9f",
+      "bytes": 10293
+    }
+  ],
+  "documents": [
+    {
+      "stem": "part0456",
+      "source": "OEBPS/Text/part0456.xhtml",
+      "sha256": "6b6c1259abd2da922941447e9261b8bd3eb145f9e2b432c2c1269a81e69aa86a",
+      "paragraphs": 0,
+      "characters": 0,
+      "headings": [],
+      "referenced_images": [
+        "../Images/image05087.jpeg"
+      ]
+    },
+    {
+      "stem": "part0457",
+      "source": "OEBPS/Text/part0457.xhtml",
+      "sha256": "58cf234d446e9e51557b8ab252b5d2848848c43aec872e130019fece5fc0ebec",
+      "paragraphs": 4,
+      "characters": 33,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "版权信息"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0458",
+      "source": "OEBPS/Text/part0458.xhtml",
+      "sha256": "1c235177e76f91907970052e3e1cf36b015c569e00d2427f4b301b57a995b760",
+      "paragraphs": 39,
+      "characters": 170,
+      "headings": [],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0459",
+      "source": "OEBPS/Text/part0459.xhtml",
+      "sha256": "9051edbefe920bfa65f238bd13c13c4533dd2b64b2e3a772e9d486c4952e262e",
+      "paragraphs": 91,
+      "characters": 4981,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0460",
+      "source": "OEBPS/Text/part0460.xhtml",
+      "sha256": "fd314fe7bd3e8eff543099a77574ea4b6c80d89fe09571e4115c323d676d705b",
+      "paragraphs": 97,
+      "characters": 4850,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0461",
+      "source": "OEBPS/Text/part0461.xhtml",
+      "sha256": "06b59bcb1fac6a2df8d7c5779eec7a9277714fcf2a262a7e92e048a245019fda",
+      "paragraphs": 97,
+      "characters": 4993,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0462",
+      "source": "OEBPS/Text/part0462.xhtml",
+      "sha256": "78d5f10aa5459420b51d75e0b1aadc0da6788c2ce2353ff55e6811d015a99202",
+      "paragraphs": 102,
+      "characters": 4965,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0463",
+      "source": "OEBPS/Text/part0463.xhtml",
+      "sha256": "ac5aa0b2eebcdcaa691477752c23a76bdb0b34917fce0e8daeedf19b6611e911",
+      "paragraphs": 97,
+      "characters": 4993,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0464",
+      "source": "OEBPS/Text/part0464.xhtml",
+      "sha256": "72206f5b2d87b1df84b460f4496e3def488a0d4d1ef8e5d631e435b69da97523",
+      "paragraphs": 97,
+      "characters": 4979,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0465",
+      "source": "OEBPS/Text/part0465.xhtml",
+      "sha256": "6badecb910ebff2da51e035fc6d5969639e5fa72df4626dd587f2366cf77770b",
+      "paragraphs": 97,
+      "characters": 4990,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（7）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0466",
+      "source": "OEBPS/Text/part0466.xhtml",
+      "sha256": "8a90a600f57b9d62c478ef550346662658d446b342c79836c17ca20d7c01ccf7",
+      "paragraphs": 95,
+      "characters": 4988,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（8）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0467",
+      "source": "OEBPS/Text/part0467.xhtml",
+      "sha256": "f7dc3e6304b84bfe7a32fb212f26564b44f572975afd072e25c681d6647717d8",
+      "paragraphs": 88,
+      "characters": 4989,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（9）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0468",
+      "source": "OEBPS/Text/part0468.xhtml",
+      "sha256": "98c82fbcbfa6446c98ddf7ed96c69fe6d997bc86de3f558528bb21fc8d2da8ff",
+      "paragraphs": 101,
+      "characters": 4978,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（10）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0469",
+      "source": "OEBPS/Text/part0469.xhtml",
+      "sha256": "c20be542768af3b9afe22bfdda5caaf58d2d88e7b3e958ff3ba3b6f503b6fb83",
+      "paragraphs": 97,
+      "characters": 4949,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（11）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0470",
+      "source": "OEBPS/Text/part0470.xhtml",
+      "sha256": "49777c49036ac14e35814aeb5e4de1f94a42bebedbcec607c8826fb513496598",
+      "paragraphs": 92,
+      "characters": 4367,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "枪（12）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0471",
+      "source": "OEBPS/Text/part0471.xhtml",
+      "sha256": "258e671c67dad68c8437a06b8dbf2d8769890977602fb4197454eeb590e2ea5a",
+      "paragraphs": 86,
+      "characters": 4908,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0472",
+      "source": "OEBPS/Text/part0472.xhtml",
+      "sha256": "e3f8315b5edc674926637e38a02084fb5597b3122bd8bb33631d5c826a0645e0",
+      "paragraphs": 84,
+      "characters": 4833,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0473",
+      "source": "OEBPS/Text/part0473.xhtml",
+      "sha256": "b10f57fceb49749214bc1595bba712aac0bc00bf982a9b6d234bb4e5435201be",
+      "paragraphs": 89,
+      "characters": 4838,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0474",
+      "source": "OEBPS/Text/part0474.xhtml",
+      "sha256": "aab22dfb14198dc2fa844f4e3de6ae8a72050b5014a90301b0361297ba2f54a5",
+      "paragraphs": 105,
+      "characters": 4978,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0475",
+      "source": "OEBPS/Text/part0475.xhtml",
+      "sha256": "aac32da8f144e59e3fafe3b2bb6f0ee87df1b1a3bb49d010a0edb731b65aaa52",
+      "paragraphs": 92,
+      "characters": 4997,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0476",
+      "source": "OEBPS/Text/part0476.xhtml",
+      "sha256": "334bb4c794e7e15711ef2b77f8d355bb094ed9571aaf2b0ea672d240a21307f2",
+      "paragraphs": 75,
+      "characters": 4915,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0477",
+      "source": "OEBPS/Text/part0477.xhtml",
+      "sha256": "08fe77e178a04af2cf45458ebf883801cbfa16b8268ab7ac39680a94ea46f04f",
+      "paragraphs": 78,
+      "characters": 4977,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（7）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0478",
+      "source": "OEBPS/Text/part0478.xhtml",
+      "sha256": "cf236060418e1a5624e023f1cc14cdb09b169928f88dc5ec31529fe8c74f9d23",
+      "paragraphs": 86,
+      "characters": 4961,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（8）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0479",
+      "source": "OEBPS/Text/part0479.xhtml",
+      "sha256": "6794179e5126270df6a62117a89aca74965acfcfa4cdabe5fd1890dd5147c921",
+      "paragraphs": 102,
+      "characters": 5003,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（9）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0480",
+      "source": "OEBPS/Text/part0480.xhtml",
+      "sha256": "6c78e07ecdfe38aee1f83d254fe7317faa8857ac4afa588fa0b49dcdda97d16e",
+      "paragraphs": 93,
+      "characters": 4930,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（10）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0481",
+      "source": "OEBPS/Text/part0481.xhtml",
+      "sha256": "ad4bcc7069f1f14370b08708eb60a9bba20ec2f8c5bff95bc6ff28a490a02438",
+      "paragraphs": 78,
+      "characters": 4997,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（11）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0482",
+      "source": "OEBPS/Text/part0482.xhtml",
+      "sha256": "dd3d49a1a4281ab1e2bdbb37b364bbd99f25183f20ebc0f0bd5c2ae9f4b87916",
+      "paragraphs": 99,
+      "characters": 4916,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（12）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0483",
+      "source": "OEBPS/Text/part0483.xhtml",
+      "sha256": "b4cae35b45bd9efd4698f4a7ef025b7ba5413adc299f6ba087e7dec9b150ed6e",
+      "paragraphs": 98,
+      "characters": 4997,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（13）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0484",
+      "source": "OEBPS/Text/part0484.xhtml",
+      "sha256": "225262d607e17049d25d2dbb6bdb76fc57ea2bdd61134daf0a7355a04ae5da17",
+      "paragraphs": 86,
+      "characters": 4972,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（14）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0485",
+      "source": "OEBPS/Text/part0485.xhtml",
+      "sha256": "055d7846c11d403540dea99d61a0758a429f9a6e8ae6ab8d620eef1b1217f8e4",
+      "paragraphs": 96,
+      "characters": 4914,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（15）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0486",
+      "source": "OEBPS/Text/part0486.xhtml",
+      "sha256": "69b0d4a9eaf20d6dcd05695b7c52145e8e72d1d3fc3c6baab104946e8517fb36",
+      "paragraphs": 120,
+      "characters": 4983,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（16）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0487",
+      "source": "OEBPS/Text/part0487.xhtml",
+      "sha256": "6c026f3fb8dff22835d85c3508496991421fc43e9fa9ac7e5284ffd1385ed3d2",
+      "paragraphs": 106,
+      "characters": 4992,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（17）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0488",
+      "source": "OEBPS/Text/part0488.xhtml",
+      "sha256": "b7b171e33e98c86290e2885cfae343fecff1cdf382252227474273750c43643c",
+      "paragraphs": 105,
+      "characters": 5000,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（18）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0489",
+      "source": "OEBPS/Text/part0489.xhtml",
+      "sha256": "ec237340a3ab961d848f8e60158321f30a4ebf36aab57bdb41c9ceedcdf9e866",
+      "paragraphs": 99,
+      "characters": 5003,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（19）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0490",
+      "source": "OEBPS/Text/part0490.xhtml",
+      "sha256": "7598be7defda83d3bfcf304233166530fc6da850fc5084d42c3b95d64ccfb43a",
+      "paragraphs": 93,
+      "characters": 4985,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（20）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0491",
+      "source": "OEBPS/Text/part0491.xhtml",
+      "sha256": "8f37f79e05a2123bd64d82d9ffaeb4327a41bec59b7b5c59a9819f8c86641d2e",
+      "paragraphs": 110,
+      "characters": 5000,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（21）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0492",
+      "source": "OEBPS/Text/part0492.xhtml",
+      "sha256": "a81c42ea60328861ecf192f73d913da1448e247b7f2be75c9d68af0262fda0c5",
+      "paragraphs": 98,
+      "characters": 4994,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（22）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0493",
+      "source": "OEBPS/Text/part0493.xhtml",
+      "sha256": "b64c0ac25dc39f91df11c5d996f32459dbdfa99888d4e952d92ad48f7f086282",
+      "paragraphs": 64,
+      "characters": 3103,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（23）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0494",
+      "source": "OEBPS/Text/part0494.xhtml",
+      "sha256": "e8252a97995ef764f4b8e9589667237363dbb8909e1c3512ce6ec82cb5e2ff9f",
+      "paragraphs": 53,
+      "characters": 2861,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "剑（24）"
+        }
+      ],
+      "referenced_images": []
+    }
+  ],
+  "navigation": [
+    {
+      "title": "九州·缥缈录Ⅱ：苍云古齿",
+      "src": "Text/part0456.xhtml"
+    },
+    {
+      "title": "版权信息",
+      "src": "Text/part0457.xhtml"
+    },
+    {
+      "title": "枪（1）",
+      "src": "Text/part0459.xhtml"
+    },
+    {
+      "title": "枪（2）",
+      "src": "Text/part0460.xhtml"
+    },
+    {
+      "title": "枪（3）",
+      "src": "Text/part0461.xhtml"
+    },
+    {
+      "title": "枪（4）",
+      "src": "Text/part0462.xhtml"
+    },
+    {
+      "title": "枪（5）",
+      "src": "Text/part0463.xhtml"
+    },
+    {
+      "title": "枪（6）",
+      "src": "Text/part0464.xhtml"
+    },
+    {
+      "title": "枪（7）",
+      "src": "Text/part0465.xhtml"
+    },
+    {
+      "title": "枪（8）",
+      "src": "Text/part0466.xhtml"
+    },
+    {
+      "title": "枪（9）",
+      "src": "Text/part0467.xhtml"
+    },
+    {
+      "title": "枪（10）",
+      "src": "Text/part0468.xhtml"
+    },
+    {
+      "title": "枪（11）",
+      "src": "Text/part0469.xhtml"
+    },
+    {
+      "title": "枪（12）",
+      "src": "Text/part0470.xhtml"
+    },
+    {
+      "title": "剑（1）",
+      "src": "Text/part0471.xhtml"
+    },
+    {
+      "title": "剑（2）",
+      "src": "Text/part0472.xhtml"
+    },
+    {
+      "title": "剑（3）",
+      "src": "Text/part0473.xhtml"
+    },
+    {
+      "title": "剑（4）",
+      "src": "Text/part0474.xhtml"
+    },
+    {
+      "title": "剑（5）",
+      "src": "Text/part0475.xhtml"
+    },
+    {
+      "title": "剑（6）",
+      "src": "Text/part0476.xhtml"
+    },
+    {
+      "title": "剑（7）",
+      "src": "Text/part0477.xhtml"
+    },
+    {
+      "title": "剑（8）",
+      "src": "Text/part0478.xhtml"
+    },
+    {
+      "title": "剑（9）",
+      "src": "Text/part0479.xhtml"
+    },
+    {
+      "title": "剑（10）",
+      "src": "Text/part0480.xhtml"
+    },
+    {
+      "title": "剑（11）",
+      "src": "Text/part0481.xhtml"
+    },
+    {
+      "title": "剑（12）",
+      "src": "Text/part0482.xhtml"
+    },
+    {
+      "title": "剑（13）",
+      "src": "Text/part0483.xhtml"
+    },
+    {
+      "title": "剑（14）",
+      "src": "Text/part0484.xhtml"
+    },
+    {
+      "title": "剑（15）",
+      "src": "Text/part0485.xhtml"
+    },
+    {
+      "title": "剑（16）",
+      "src": "Text/part0486.xhtml"
+    },
+    {
+      "title": "剑（17）",
+      "src": "Text/part0487.xhtml"
+    },
+    {
+      "title": "剑（18）",
+      "src": "Text/part0488.xhtml"
+    },
+    {
+      "title": "剑（19）",
+      "src": "Text/part0489.xhtml"
+    },
+    {
+      "title": "剑（20）",
+      "src": "Text/part0490.xhtml"
+    },
+    {
+      "title": "剑（21）",
+      "src": "Text/part0491.xhtml"
+    },
+    {
+      "title": "剑（22）",
+      "src": "Text/part0492.xhtml"
+    },
+    {
+      "title": "剑（23）",
+      "src": "Text/part0493.xhtml"
+    },
+    {
+      "title": "剑（24）",
+      "src": "Text/part0494.xhtml"
+    }
+  ],
+  "groups": [
+    {
+      "number": 125,
+      "title": "枪（1）–（4）：能力、成见与不平均的照顾",
+      "documents": [
+        "part0459",
+        "part0460",
+        "part0461",
+        "part0462"
+      ],
+      "analysis_file": "ch125-pm2-family-and-teaching.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    },
+    {
+      "number": 126,
+      "title": "枪（5）–（8）：邀约、推荐与看错人的理由",
+      "documents": [
+        "part0463",
+        "part0464",
+        "part0465",
+        "part0466"
+      ],
+      "analysis_file": "ch126-pm2-recruitment-and-misreading.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    },
+    {
+      "number": 127,
+      "title": "枪（9）–（12）：赢下比武之后，还要逃出去",
+      "documents": [
+        "part0467",
+        "part0468",
+        "part0469",
+        "part0470"
+      ],
+      "analysis_file": "ch127-pm2-victory-and-escape.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    },
+    {
+      "number": 128,
+      "title": "剑（1）–（6）：证据分层与宫中生活",
+      "documents": [
+        "part0471",
+        "part0472",
+        "part0473",
+        "part0474",
+        "part0475",
+        "part0476"
+      ],
+      "analysis_file": "ch128-pm2-documents-and-palace.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    },
+    {
+      "number": 129,
+      "title": "剑（7）–（11）：进步、较量与有代价的援助",
+      "documents": [
+        "part0477",
+        "part0478",
+        "part0479",
+        "part0480",
+        "part0481"
+      ],
+      "analysis_file": "ch129-pm2-training-and-formations.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    },
+    {
+      "number": 130,
+      "title": "剑（12）–（14）：观看的位置与三人相识",
+      "documents": [
+        "part0482",
+        "part0483",
+        "part0484"
+      ],
+      "analysis_file": "ch130-pm2-theatre-and-friendship.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    },
+    {
+      "number": 131,
+      "title": "剑（15）–（18）：可生活的去处与没有说定的答复",
+      "documents": [
+        "part0485",
+        "part0486",
+        "part0487",
+        "part0488"
+      ],
+      "analysis_file": "ch131-pm2-house-and-departure.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    },
+    {
+      "number": 132,
+      "title": "剑（19）–（24）：同行、失控与事后余波",
+      "documents": [
+        "part0489",
+        "part0490",
+        "part0491",
+        "part0492",
+        "part0493",
+        "part0494"
+      ],
+      "analysis_file": "ch132-pm2-tomb-and-aftermath.md",
+      "grouping": "editorial contiguous source-fragment group, not original chapter"
+    }
+  ],
+  "analysis_files": [
+    "ch125-pm2-family-and-teaching.md",
+    "ch126-pm2-recruitment-and-misreading.md",
+    "ch127-pm2-victory-and-escape.md",
+    "ch128-pm2-documents-and-palace.md",
+    "ch129-pm2-training-and-formations.md",
+    "ch130-pm2-theatre-and-friendship.md",
+    "ch131-pm2-house-and-departure.md",
+    "ch132-pm2-tomb-and-aftermath.md"
+  ],
+  "reading_ledger": [
+    {
+      "id": 1,
+      "first": "pm2:part0457:P0001",
+      "last": "pm2:part0459:P0073",
+      "blocks": 116,
+      "status": "read",
+      "note": "版权页只有书名作者版权，不能沿用卷一ISBN。目录枪12/剑24。0459P3–11纪年先五年锁河盟再六年白马入城，未来乱世预告不是单一近视角。P13–40比武先规定脱手即败，钱币落地与枪同落后才说明父亲用币打落，孩子反驳主动失手含义；年龄后揭不妨碍先看武技。P43–55父亲说一视同仁，长子用只有一枚币如何再救我反问，情绪挂在已用掉的实物上，不只是我受偏爱控诉。P65后拆护腕露钝刺内层解释自伤与控制，未明来历不补。P68–73转书房矮书案为弟量身，书籍与选贤制度有现时考核，父子不同待遇由资源可见。"
+    },
+    {
+      "id": 2,
+      "first": "pm2:part0459:P0074",
+      "last": "pm2:part0460:P0077",
+      "blocks": 95,
+      "status": "read",
+      "note": "0459P74–91书房夸文才、父亲预谋门路，刀术强项反被比杀鸡；姬野门外称路过，未明听了多少不补。0460P2–17父亲偏爱与惧眼惧枪来由均其视角，失散两年旅途未写不编母亡细节。P27–45老人识枪教一处，姬野据身高包袱长度与擅枪推也是枪，有观察根据而非神机。P49同指套冷与未来燃烧预叙，P51父亲如火炭的触感是畏惧不等物理温度。P60–64暗号/对戒见面但内容未揭。P66–71先闪手擦手再牵，多年后说明以为自己脏；动作有具体原因，亦反证作者并非永不解释。P73–77幼童问飞累不累而非羽族百科，谈话出自好奇。"
+    },
+    {
+      "id": 3,
+      "first": "pm2:part0460:P0078",
+      "last": "pm2:part0461:P0073",
+      "blocks": 93,
+      "status": "read",
+      "note": "0460P78–91少年夸去远方，引女孩问会画画便沉默，宏愿遇小能力缺口非必认嘲笑。0461P8–35父亲弃剑先有动作，儿子枪被引向父亲时空手成为条件；P35实际收枪反证父亲此前认其不能收，不能把评价当能力。P46–50握银枪后明白但未揭重量，留可触实物答案。P53不愿者可熔戒退出，保密义务仍在。P59–63鹦鹉死后昌夜归罪，P61指代疑易误，需细核是谁踩；老人门外P67明确原想借子杀父，不能把他当纯导师，P68–71因女孩请求放过且自己担险，是人物说法非作者正当化杀人。孩子推父/老人怕组织各自选择来源不同。"
+    },
+    {
+      "id": 4,
+      "first": "pm2:part0461:P0074",
+      "last": "pm2:part0462:P0064",
+      "blocks": 88,
+      "status": "read",
+      "note": "0461P79父亲承认收枪仍判暴戾，事实后证未自动改变成见；P81–83教武为弟参将目的。P86–91静馨全城月光与檐下照不到黑影并置，孩子看多个可去处却不知去哪，方向动作呈无归属。0462P15–29画龙承诺追问触不识字伤口，发怒逃跑后主动问真教吗，不能把女孩善意立即当安抚成功。P31–40纪年八年而仍12岁、前五六年年龄信息有张力需留版不校。P38书房未进、外抱野史读，父亲从可得文类判脏；P47–53撤早饭把规矩具体用于剥夺而侍女怕眼摔盘引旁支后果。P53–64风筝先被看见再到放者，羽然越墙招呼给出联系渠道，不是凭空心灵感应。"
+    },
+    {
+      "id": 5,
+      "first": "pm2:part0462:P0065",
+      "last": "pm2:part0463:P0061",
+      "blocks": 99,
+      "status": "read",
+      "note": "0462P66线绑石头让后来昌夜能拾线落筝有持有连续性，P78–98纠纷由场地权变家族归属再变把羽然说成我的；女孩立即拒绝，不用保护者身份抹她意愿。0463P11女孩由熟悉屋顶找到非巧遇。P17–28邀请替代方案反复被拒，情绪爆发清单从踩筝丢簪偷枣吃光到夜访挨骂，末项从嫌弃转实际付出；潜在新语言细读，不能把她气头我是你的当终身归属。P32–45多年后帝王给出我不追随的解释，史官被杀仍载与卷一史书删减不同，不能泛称全史书造假或可靠。P46–51跨地同月转第三人，有清楚地名和人物状态。P54–57反复鞭责后父亲实际尾随得知只玩/教字才松，不等身份彻底和解。"
+    },
+    {
+      "id": 6,
+      "first": "pm2:part0463:P0062",
+      "last": "pm2:part0464:P0052",
+      "blocks": 88,
+      "status": "read",
+      "note": "0463P62–65咸菜先抱怨盐多，经水洗吃后笑要酒；未知身份先有可停留日常味觉。P68–75名刺/不入店长揖与客人递凳对照礼节。P89–96拒开礼匣后转问名刺为何无祖父名，问缺项而非神秘全知。0464P12–19结清账不来，掌柜卖消息使酒肆失去隐私，原先闲坐被后证改变，付款礼貌不等信任。P21–38单手枪取胜仍保极重武器的持握条件。P39–44弟抛银毫、哥雨中抠洗，对同额钱可用数额以外不同处置写资源差；不只贫富旁白。P45先急喊昌夜再见姬野整衣，日常一瞬露偏爱，无需另列性格标签。"
+    },
+    {
+      "id": 7,
+      "first": "pm2:part0464:P0053",
+      "last": "pm2:part0465:P0038",
+      "blocks": 83,
+      "status": "read",
+      "note": "0464P57父亲改祖先深入敌境为逃到，对照前人英雄叙述但属人物说法。P60–83推荐姬野让他先谢父，听到安排自己消耗对手给弟获官笑退；答好被父亲误解只羡官，P0465P10金菊才补实际所求。P89–95猜我是谁同游戏历次答名/别闹/故猜猪虫已发展默契，本次仍相同答却漫不经心，重复语句不等情绪相同。0465P16–32磨枪、铜钿试刺未中让能力缺口可检，旧过猛评价并非全错。P27指套灰锡偷换给父误以为熔化有材料与持有链，不凭空换物。P35宁州美景来自羽然转述不当外部历史，P37视觉轻灵与驮身重量并存，不误认真的无重量。"
+    },
+    {
+      "id": 8,
+      "first": "pm2:part0465:P0039",
+      "last": "pm2:part0466:P0043",
+      "blocks": 102,
+      "status": "read",
+      "note": "0465P49–75老人先拒教与心火担忧，见偷保戒指听志向才改变决定，有触发与风险而非血缘即资格；只能说人物认可不等叙述证明理想正义。P91明六年八月十五与前段P14八年八月十四直接张力，需记录不凑时线。0466P2–16关门守卫凭外观拒、息衍凭名单和枪认身份，称荒野的野不报家爵有礼俗对照。P19–28一夜练枪造成迟到、体力被问，秘籍没抹时间代价。P32息与九王互避目光不填交情。P37侄攻势强却不是叔所教，人物能力与成就差别。P40拒入东宫不说明无私动机，保语境。"
+    },
+    {
+      "id": 9,
+      "first": "pm2:part0466:P0044",
+      "last": "pm2:part0467:P0036",
+      "blocks": 88,
+      "status": "read",
+      "note": "0466P44–50先贴吕归尘压抑怕人想家看雁，再息衍根据眼神判淡定富贵厌倦高手比武，两者有明确落差；认身份结果对不等心理理由对，最具体新案例。P58两子都流汗，一边父亲擦一边独自不顾，同一身体状态不同照料，接卷一酷热群像但更小。P60–75息辕弃盾后对方把盾套短枪反抛，物件状态接招；姬野救场违令仍有实际救命效果。P83–92息衍批违令而认可对手战术，并安排出战，规范不是只讲善恶。0467P17–26胜场广播压缩相似回合，双方观众反不高兴，外交目的与选手胜利目标相撞。P31换好刀建立对强枪装备条件，P33体力衰减继续存在。"
+    },
+    {
+      "id": 10,
+      "first": "pm2:part0467:P0037",
+      "last": "pm2:part0468:P0034",
+      "blocks": 86,
+      "status": "read",
+      "note": "0467P37–43同一胜场，公卿猜国主立威/认输，息衍看逐枪进步而仍未知底子；不把高手推测当全知。P50–55我不行弟接与父亲乐观解读、铁叶以为给弟铺路，姬野否认，多个听者各取符合自身目的的意义。P63–78转狼锋前规则近身空间，姬野扑近减刃末力量且受伤；铁镜碎片后揭说明铁叶外表未伤实更重，甲片不是无条件保护。0468P5–24父亲欲让弟夺最后胜场、长子说抢自己，铁颜眼神反使父放弃推弟，情节有真实对手威胁。P31–34战前夜教学以回忆插入决战前，尚未读完整不先推节奏效果。"
+    },
+    {
+      "id": 11,
+      "first": "pm2:part0468:P0035",
+      "last": "pm2:part0469:P0024",
+      "blocks": 91,
+      "status": "read",
+      "note": "0468P35–54教学回忆以圆/直线组织能力想象，实际最后枪偏、力竭，不把极烈形容当无敌。P57–67铁颜有可杀机会却认为他本可杀我而认输，叙述已给走偏原因，读者与对手认识不同，不说姬野主动留手。P70–90胜利等国主先喝彩的礼法阻断认可，国主追九王使奖励落空；青鲨礼物犹豫没赠、掌声真的给了，有限帮助不编已交换信物。P92息衍明无权授副将但邀来，权限边界具体。P78纪年九年又与六/八年矛盾保留。0469P3–18国主承认安排亲族取胜，息反问手书授何必演武，争论以军职服众目标，脸色勇气分类属老师格言非现实心理学。P22榜不提姓名，公共胜利归国家个人仍匿名。"
+    },
+    {
+      "id": 12,
+      "first": "pm2:part0469:P0025",
+      "last": "pm2:part0470:P0024",
+      "blocks": 97,
+      "status": "read",
+      "note": "0469P24–43锁门不敲铜环、繁华街灯仅车过照巷再暗，空间照明显示在城中无处去。羽然按石舫/文庙/枣树逐处找，找到有共同地点依据。P30猜猪游戏再现，P43–48摸脸湿才知哭，未直接先报情绪。P65–76直巷无岔路后马胸堵巷，掷枪开口再捡回，动作空间与持有连续。P82–91同金菊他要礼物对方要身份，不同价值难以调解。P93头盔尚未卸提供防护，旧伤被打与人数压制让武技不包办。0470P4–10商人先犹豫到听禁军遮脸避，羽然威胁下令杀显示自身权贵习惯，不美化所有弱者立场。P16–24不是高手就善骑，两人不会控马导致被逼死路，逃离一处没解决路线。"
+    },
+    {
+      "id": 13,
+      "first": "pm2:part0470:P0025",
+      "last": "pm2:part0471:P0027",
+      "blocks": 95,
+      "status": "read",
+      "note": "0470P33–56羽然先让跳后跟跳展翼，飞行不是临时无条件能力：前面羽族/月夜/白衣功课已铺，P52满月适期、只飞几次、P54带人飞不远，给实际条件；不要采跳崖作现实建议或认为信任必能得救。P57–64劣画因共同记忆影响后世裁决，艺术价值与私人价值分开；不能擅填画作作者意图。P65–92谢太师绕问/项太傅看穿/最后拒答井鬼，长比喻有谈话目的，恐惧论属角色不是诊断英雄公式。0471P3–6清楚二十年前转回，园中风入口/屋顶出口与街外喧闹被树隔开，空间解释安静而非只形容静谧。P11–26解密期限和用印让文书来源可查；只有事毕两字仍未足证具体事件，勿过早补真相。"
+    },
+    {
+      "id": 14,
+      "first": "pm2:part0471:P0028",
+      "last": "pm2:part0472:P0026",
+      "blocks": 85,
+      "status": "read",
+      "note": "0471P28–30息明确一点明白不全清楚，停止阅札销借阅痕迹因风险，而非已证所有内情。P34–50姬野派东宫历练，叔知道欺辱、自己侄儿却受礼，既有资源差对照，不能把导师选择当合理教育定理。P54–67同酒肆从白日腌菜悠闲换夜油腻薄壁漏风灯晃，不只换情绪形容词。P67–85女官先讲记录再暂扣剑位置追问来历，以自身通缉风险要求保障，情报分步换承诺，不是漫无目的吊胃口。0472P2识破装束改马但遗漏尚未说，下一步揭。P8–23索庇护诰命加入而非只加价；武士父亲回家即被杀理由还未知，不能用常规灭口理解补完。"
+    },
+    {
+      "id": 15,
+      "first": "pm2:part0472:P0027",
+      "last": "pm2:part0473:P0026",
+      "blocks": 84,
+      "status": "read",
+      "note": "0472P27–36父亲天驱遗戒留儿，儿因家族受害而以戒换封爵，持物不等继志，与姬野向往同戒不同。P39自称女官15年与外观年轻引首领不安，有疑点被剑贪念压下。P42–48戒为能力取得证据，未自动证可信。P50–57识破斥候来自其伙伴泄密，不是装束万能侧写；前有少一人信息待此明确。P59–70先人倒但未见刀，灯灭声响，重燃微火才看清丝网与翡翠收束，描述先效果后机制且戒先出现；不提炼杀人装置实操。P74–78女官表明亡夫幽长吉非普通逐利，之前庇护愿望不能全当真；屠杀不据此正当化。0473P3–19军牌材质编号推军衔暗卫，解释由当前证物引出，息明确梁动机未知、尾随失跟，机构并非全知。P17写离国公敖之润与前文淳国身份有文字张力，版本保留。"
+    },
+    {
+      "id": 16,
+      "first": "pm2:part0473:P0027",
+      "last": "pm2:part0474:P0027",
+      "blocks": 90,
+      "status": "read",
+      "note": "0473P27–44仵作凭残手切口说快薄刀，息先尊专长再据铁环修正刀身不存在；局部专业证据可靠不代表武器结论对，机关虚构不实操。P48禁记卷宗收铁环烧尸是息主动控制证据，不说天然客观档案。P55原跟踪转保护陌生斥候，目的因知道杀手变化。P59–88百里煜挑纱有材质颜色取用细节，梯倒纱蒙眼错抱方山，先玩闹能力与奢侈再怕蛮人。0474P2–13球砸无反抗后笑声/八哥学词逐层群体羞辱，笑点来源不等文本支持歧视。P25–26转派宫女眼泪导致吕归尘想苏玛，来访者得到侍奉却别人不愿，礼遇含他人代价；与卷一苏玛不得同去需核两处离别视点，不擅补。"
+    },
+    {
+      "id": 17,
+      "first": "pm2:part0474:P0028",
+      "last": "pm2:part0475:P0018",
+      "blocks": 96,
+      "status": "read",
+      "note": "0474P28–46苏婕妤从阴影进光貌色夺人后回简陋满书小室，梳头触感引英氏记忆，亲近有身体经验来源。P44奉召仍先收尾簪发，留可看书一句，冷漠口气与帮助效果可并存。P51婆子传言未尽，P57紫花唯一色，为后证勿先断。P63–82国主欲英雄/女人要安然长大，力量继承有相冲目标非导师一面；P88息对国主说未知与P0473P57称知谁动手不合，可能选择隐瞒不能判遗忘。P95–101国主否认来意未知属发言，读者已看相关幽剑谈，不合并全知。P103操练被息指出打架，同声不同包装。0475P3–18恶意密谋自以为十多人必成，开门已打完反证，悬念不靠逐人列动作；涉及未成年性羞辱只概述权力伤害不模仿身体描述。"
+    },
+    {
+      "id": 18,
+      "first": "pm2:part0475:P0019",
+      "last": "pm2:part0476:P0018",
+      "blocks": 92,
+      "status": "read",
+      "note": "0475P21–27幽隐触剑烫痕无戒不安全，力量界限实际失败不是旁人恐吓。P34–50南淮夕照美景仍被吕嫌楼挡天地，方山雀儿被纠为雁，词的分类对想家者有距离与北方意味，旁人以玩乐说服未触所需。P51–81课堂圣人临生死不惊对白与先生读画暴怒并置；不只嘲学问，后来P74–76表明教材听不懂非故意轻师。P65纸扔不远先物理飘开才露画，延迟内容有动作理由。P90不知道书名使库房再多无用。0476P4女官按程度给注本/故事两种书，帮助具体解决选材不是再一番劝学；P12–15梳发/紫琳秋朋友/异乡非一人，没回答大道理而给照料，不泛称所有导师都应只行动。"
+    },
+    {
+      "id": 19,
+      "first": "pm2:part0476:P0019",
+      "last": "pm2:part0477:P0017",
+      "blocks": 74,
+      "status": "read",
+      "note": "0476P19–25老师礼仪理由背后私语歧视，吕获教材仍被拒纳；他感无数话都蛮子有前文同词反复作依据。P27–34两可去处都无人等他→走第三路→废宫金纱缠暖，珍贵装饰转身体御冷且冷滑/暖并列材质与效果不同，候选新细读。P35–44先误恐鬼听打架松气再怕被发现，信息解释转变并非一直恐惧。窄巷逼追兵排线给逃者暂优势，岔口埋伏再败，地形有双面条件。P56–67吕出声打断让打人者回身、裤带先解造成反击不灵，帮助提供窗口非主角空喊就自胜。0477P3等对方过弯消失才疼坐，身体反证刚才似无伤，没把威吓抹去伤势。P11–14自报阿苏勒与荒野的野是初次实际交谈，不是演武已结义。"
+    },
+    {
+      "id": 20,
+      "first": "pm2:part0477:P0018",
+      "last": "pm2:part0478:P0014",
+      "blocks": 75,
+      "status": "read",
+      "note": "0477P26–33十三次仍败但老人握位缩短以增强防御，进步由对手不得不改条件显示，不以胜负一项下结论，值得新具体训练例，与卷一远景训练无成效断言并列。P39–46老人见伤责为斗殴学枪，自己的罪孽未说明，不能采作正确教育保证。P50先料白羽杀阵而无事，警觉有旧史而非此刻必有袭击。P54无字印名刺、P60来客说剑不足信，实战到P78暗号后相认，身份认证不只一件武器。P63–77镜像闪动/交击后停/汗与气息保空间和代价，差点同归是双方好奇非早定安全。0478P7–12战后煮水松衣缓气转茶产地再问死法，茶话不是纯拖沓但对方有拒答限度，未写师死法不补。"
+    },
+    {
+      "id": 21,
+      "first": "pm2:part0478:P0015",
+      "last": "pm2:part0479:P0008",
+      "blocks": 80,
+      "status": "read",
+      "note": "0478P18–27息曾亲访仵作据死状推剑，翼据亲见祭剑与咒印确认不能搬，不是外部真实秘术。P31跟姬野找来有跟踪途径。P34翼承认龙毁未学也未亲见，禁全能导师。P37–42息看出并未教真焚河，翼后悔教学、怕学生并非只无私指导；天驱砍手规则有胁迫代价。P47–55鬼蝠本意保护却目标不知道被护、反击脱身后遭杀，双方行动相冲有知情差，不称护卫万能或刻意无能。P56冰锦带花香后切女人带伤证据相接，未补仵作知全。P57–75虚构自疗药不提炼实操；甲汗黏难脱使幽隐门外问戒时不能示伤，谈话被身体限制。P76–86药中旧语以反复猫儿串多年片段，最后快走骗你仍未定真实心意。"
+    },
+    {
+      "id": 22,
+      "first": "pm2:part0479:P0009",
+      "last": "pm2:part0480:P0009",
+      "blocks": 103,
+      "status": "read",
+      "note": "0479P9–24旧友短问答沉默，息换冷酒：倒旧/涮杯/斟温/热气混花香比喻酒雨有物理来源，是具体描写候选，不凭抽香象征。P29–37同知剑、承诺不告翼与危险，来往非单纯恋情。P40想回北方与前对斥候相似话不代表每次真意相同。P54–79众客误认有意起哄，息弹箜篌给烟杆新用；窗口剪影先停留后消失，与弦断接，却未证女人为何走和是否爱情，勿补。P81–94队形演示先地面/盾/矛/斧/合拢后尘落见落点，吕恐战力是其判断非军史真理。P97捻衣点发比直说像东陆更有久别变样触感，兄掐阻弟说破阵，故乡人也保秘密。"
+    },
+    {
+      "id": 23,
+      "first": "pm2:part0480:P0010",
+      "last": "pm2:part0481:P0004",
+      "blocks": 88,
+      "status": "read",
+      "note": "0480P11–35布阵争论每加应对被下一条件反驳，直到人多对人多失去边界，戗声变口角；技术讲解有对手目标和共同场，虚构阵法非战术实证。P36吕由吵声触血战记忆，P44只提直中阵且承听说/自想，息认可不等已证。P50–59要求体弱世子下场被拒，方山畏连累受罚，职权代价分布；息后来允两少年比是选择非必须。P83–89铁叶欲个人加入哥哥阻再用百名真实骑兵加入，一百零一数字来自队伍与姬野，联盟以人数编制动作形成而非一句我们是朋友。P91–93旗帜把私人比试重新带国别，不是导师安排全无政治后果。"
+    },
+    {
+      "id": 24,
+      "first": "pm2:part0481:P0005",
+      "last": "pm2:part0482:P0004",
+      "blocks": 78,
+      "status": "read",
+      "note": "0481P5息承不知道胜负，不是教官全盘保证。P17–28换阵群体落马、同伴成为阻碍，姬野突进仅个人成功不包办百人；P31息说不是我教有来源区分。P39幽隐爆发强但不耐久已由观察发现，P41以铁靴伤马越操演约束。P49–55龙血马嘶突然解局，前未铺此马可坦承局部解围依靠新因素，不强辩全部预设；后文再看用途。P56结束令及P57箭威胁共同止幽，不是他主动变善。P59老师判骑败而P60吕重无人伤，两人目标差，仍不能说马全无伤。P66–78莲子去心读旧书允许停留，书毛第五遍/略过政事显阅读兴趣，吕假称路过被叙述直接揭专找，关系不靠猜。"
+    },
+    {
+      "id": 25,
+      "first": "pm2:part0482:P0005",
+      "last": "pm2:part0482:P0097",
+      "blocks": 93,
+      "status": "read",
+      "note": "0482P5–9同田税书吕按教材解释/姬降成种地书，兴趣差不等谁笨；姬借书但明须归书坊，持有非所有权。P16–25吕因演义笑，老师撕借本，友情帮助也引真后果。P30–55墙窥宫玩闹，两个旁观者不懂规则和故意输，涉及未成年情色只记不懂社交与孤独，不摘身体范本。P64–77剧场拥挤找位失败、先挤地方、说明声角色角面具，世界信息依当前陌生体验；相识朋友尚未揭但有我带来看邀请。P79–94鼓声由慢轻到快重、顿像定军、再雷鸣，人物脑补冲锋，写表演不必完整战场镜头。两少年对十万人与一生朋友不同关注，吕迟疑未给作者答案，不套保护即正义。"
+    },
+    {
+      "id": 26,
+      "first": "pm2:part0482:P0098",
+      "last": "pm2:part0483:P0092",
+      "blocks": 94,
+      "status": "read",
+      "note": "0483P3–10抬上肩改变视线高度才能看清表演，也使继续喝彩突出暴露自己，无意副作用具体。P17歌声以花叶拔高到没云，再落琴滴水回应，声音联想按高低/延展组织，不能将清锐/凄美词堆当机制。P20–30大量金铢改变观众解释，金额相对聘礼与家庭十年生活显示异常，别用贬妇词作价值观。P34–39灯被撞翻→暗处明火更显→最后灭灯使持刀怕误伤，视野改变搏斗方式。P47火绒一点只照金发/面具摘，红锦可见且后续扯顶同根绳，存在连续用途但塌棚危险不能美化成周全救援；女孩先索钱忘伙伴，吕提醒有作用。P78–90船能入城由水路深度，起航不能立展帆，板桥离岸有程序，救人来自船主人选择非全游船都愿接。"
+    },
+    {
+      "id": 27,
+      "first": "pm2:part0483:P0093",
+      "last": "pm2:part0484:P0077",
+      "blocks": 83,
+      "status": "read",
+      "note": "0483P93追者含书馆伙计椅腿非全东宫恶少，塌棚有损害别抹。0484P4–8羽然借亲昵激对手，吕知道是诡计仍心动，不据此认双方承诺。P15–19船主救援后要歌/称不唱池心游泳有不对等权势，话虽玩笑不当无条件善意。P25我们三朋友第一次共同命名。P38–40姬会哼翻意却不识神使文，兴趣学习不等全语言技能。P48金发联夕阳铁线河回暖来自吕故乡经验。P49–70史家流民饥馑与君王亲历春夏偷花跳板打枣并置，西门点陪伴者已不在，私人好记忆是真经验却不足全城描述；史官既能抵抗又最终出现帝亲笔粉饰，不用一条记录真伪法包办。P73–77警钟经七百年变诗意听钟，文本明确用途记忆变，不自行发明隐喻。"
+    },
+    {
+      "id": 28,
+      "first": "pm2:part0484:P0078",
+      "last": "pm2:part0485:P0080",
+      "blocks": 89,
+      "status": "read",
+      "note": "0485P14–24刺中无手感→脚边刀→木架皮袋蛇，空间感知逐级破假身，非无理由神秘消失。P31–42多火源掩丝、灭火留月才见，光源条件逆转前酒肆一点火显丝；小说物理不可作实证。P49–58翼指女非妻是傀儡、幽来信等均人物指控，女人否认，后文须检不可按导师资历认最终真相；他知部分婚儿事实不等全知爱情。P59给衣不等和解。P65月门/花海/喊无人/人从花中站，花园尺度由入场与高腰花遮人建立；P69泥鞋/掖袍/花瓣而非豪言说明将军真在种花。P76花香远近比品格属引述养花者，暗娼贬词不纳成价值准则。"
+    },
+    {
+      "id": 29,
+      "first": "pm2:part0485:P0081",
+      "last": "pm2:part0486:P0094",
+      "blocks": 110,
+      "status": "read",
+      "note": "0485P81–95半个饼吃完将军还讲花，时间尺度与学生担心被训不同；后揭为调来须知，职业强不等做饭种花日常有用。0486P2–4读兵书一捆再一捆作为未来安排非已效果。P14信封摸不到物但纸摩擦让息知丝，知情者感官差。P24–40纱隔二人谈守剑，双方目的明确而息说幽选女原因不知，不能替翼指控背书。P48房子用松木/架地板/朝湖窗/晨午水色给离开后的生活具体形态，提议落实到可住条件而非抽象自由；P50行牒仍要更身份，权力约束在。P55幽隐照料责任使方案未成，承诺不等接受。P63–72定日期车位/问生日/喊瞬卿求回头未成，以后背影互换不直接判爱情。P85–89息问花不谢地、侄答地理警告，字面回答错过情绪来源，明确不同需要。"
+    },
+    {
+      "id": 30,
+      "first": "pm2:part0486:P0095",
+      "last": "pm2:part0487:P0080",
+      "blocks": 106,
+      "status": "read",
+      "note": "0486P95–120女人求爱情唯一答案，孩子先列多人再讲想娶姆妈以不离开，后来死了使笑谈停；他现在有友仍怕忘，未概括成疗愈完成。0487P10–25送湖屋画回应前具体房子提议，未直接写我同意，息据此去生日宴、侄不懂，同物对两人信息不同；收到不是见人实际到场，避免绝对承诺。P26–49高树晃/女孩要求游宫导致吕掉，救回后仍愿帮助，不能因天真抹风险责任；宫门祖陵守卫不撤明确。P51–65车轮落叶/马嘶变快/掌拍安抚提供等待与来人，翼藏右手有持续线索。P69杀弟是自述，P77弟妻往事但P79说复杂，勿将杀弟直接归情杀。P80单出口有围堵限制，宗主人数再多也不能无条件冲。"
+    },
+    {
+      "id": 31,
+      "first": "pm2:part0487:P0081",
+      "last": "pm2:part0488:P0064",
+      "blocks": 90,
+      "status": "read",
+      "note": "0487P81–95臂甲先触温、自愈史与父仍被箭穿，准备有效不无敌；翼不知能否取剑，纯净之心论其解释不外部事实。0488P4–8莲蓬半给姬半给吕，女孩抱怨串生活默契，能安静有趣无需每句伏笔。P18–37幽以戒引姬跟，地名熟路径却不符、月本不该满给可比较异常，再由羽解释安；不是只喊气氛诡异。P41金纱缺席与旧宫基线相照，反应各异：姬顾退路、羽玩/怕、吕感知。P44–57女改发卸妆着甲到门槛回头/离开，两个声音劝自由重叠来自不同人，因记忆而犹豫并非出门已完成安全。P59–64甬道能摸顶/更高者更憋比纯狭窄有体感尺度，安的规则是羽所说仍待后证。"
+    },
+    {
+      "id": 32,
+      "first": "pm2:part0488:P0065",
+      "last": "pm2:part0489:P0049",
+      "blocks": 90,
+      "status": "read",
+      "note": "0488P68–91羽然讲跳尸玩闹却见尸真怕扯腰带，姬明识军服却先称工匠，语句需要后证；P93–105蜡烛熄、扭脚、改队形、捏吕腕当时似笨拙，0489P28–31明确其实见尸丢烛掩护羽然恐慌，吕也踩尸知道：完整披露后重读动作，此例特别具体，勿说所有隐瞒善意。0489P7羽知安但不会解，知识分层。P9–14吕摸碑字据课堂祖陵格局定位，早先被贬无用学识在此有用，不等全教材神圣。P18–24黑到众小油灯汇光，大空间由数百步原色殿梁/巨瓷缸而非只有宏伟，书上长明灯传说不现实。P40跳尸移动把原恐惧说笑变真危险，P45合力挪缸/打破泼油争时间，P48吹灰认榫找锁，分工连续而非一人万能。"
+    },
+    {
+      "id": 33,
+      "first": "pm2:part0489:P0050",
+      "last": "pm2:part0490:P0038",
+      "blocks": 88,
+      "status": "read",
+      "note": "0489P50–56吕斩臂→姬关门→吕门闩三步完成一件事，姬说明真被尸抓踝，需区分不是所有假摔：前扭脚有实体威胁，丢烛遮尸属后揭选择。P66–67吕用老太行动迟缓安慰，羽当笑，笑点出逻辑直率不是老师吐槽。P71–75圈内无血骷髅剑撑头，姿势解释威严和持物，吕推剑砍未全真因身体融地另机制。P79火挡追亦断自己退路，解一问题生下条件。0490P15刺肩触骨减力保吕畏伤人的一贯，仍有实际减压救友。P29–31血从伤流入圈、气泡干迹让羽认咒，术语解释在看见效果后。P34幽刀挡阻贯穿→武器裂→姬力竭枪被抓，强招有对手应对与后果，不强加一次打不赢故无用。"
+    },
+    {
+      "id": 34,
+      "first": "pm2:part0490:P0039",
+      "last": "pm2:part0491:P0046",
+      "blocks": 101,
+      "status": "read",
+      "note": "幽长吉借卡住的枪迫姬野入阵；姬野舍不得放枪的迟疑伴随实在的位移。入阵后先写他的困倦、井和女人的碎片，再切吕归尘、羽然看见血攀上身体，朋友呼喊和片段回忆相接，不补写完整往事。剑拔出后幽长吉手臂枯萎，所得不等于能控制。姬野以仇恨回答习枪目的而发动焚河，随后踩先前打碎的石块滑倒、断枪、出阵恢复神志；能力与控制并未同步增长。吕背不动他，羽然也不肯离开，两人留下有体力限制。翼先前已经称瞬卿为魅，此处又因息衍说明而恍然，暂记文本知识衔接疑点，不自行圆解。"
+    },
+    {
+      "id": 35,
+      "first": "pm2:part0491:P0047",
+      "last": "pm2:part0492:P0033",
+      "blocks": 97,
+      "status": "read",
+      "note": "瞬卿先制止幽隐并接剑，短暂安静后身体迅速崩坏，勇气一词被身体变化打断，最后才说完。她请吕带走幽隐，幽隐却再伤吕夺剑，救援未自动换来对方悔悟。断枪护住姬也无法永久隔断剑，吕主动推开朋友接剑，叙述才转入封闭的个人感知，再由外部众人的反应确认变化。息衍先前的一刻灌墓命令此时兑现，援救计划同时造成新水险。女人与骷髅合拢，息衍所能看见的最后一刻被梁和水遮断；不把他的理解扩写成已被文本全部证明的爱情真相。翼给吕戴上指套，物件发生明确的持有者变更。战后先写姬醒来适应光线，再逐步认出陌生人，未直接用说明段交代所有事。"
+    },
+    {
+      "id": 36,
+      "first": "pm2:part0492:P0034",
+      "last": "pm2:part0493:P0035",
+      "blocks": 100,
+      "status": "read",
+      "note": "姬醒后先确认羽然、阿苏勒安危，再听宵禁与保密；脱险同时有祖陵毁坏和外部追查。剑被带走、移交，姬看到包裹纹样才猜出物件，未凭空知道组织后续部署。谢圭提出杀姬保密，墙后人以像自己为由留下孩子，动机局部且有风险，不替他补完制度善恶。潭边谢救不是抽象友谊宣言：吕问具体为何折返，姬先推说人人逃生再承认朋友很少，并用袖子遮掌心伤。演武时没能送出的青鲨此处实际赠出；投枯枝的简陋仪式与庄严感并置。姬赠指套才发现吕已有一枚，双方不完全知组织历史却先约定求援用途；羽然抢夺、嫌戴法、扔出让两个男孩追着落水，组织圣物与孩子的日用理解形成落差。不能因此声称本书反对全部庄严誓言。"
+    },
+    {
+      "id": 37,
+      "first": "pm2:part0493:P0036",
+      "last": "pm2:part0494:P0053",
+      "blocks": 82,
+      "status": "read",
+      "note": "末尾由翼解释剑另有武库钥匙用途，名单与百里联姻补出政治交易，但他仍明说不在晋北、不知具体争执，宗主之间也未完全互信。息衍先判幽长吉为野心，翼纠正救组织的初衷，不能据一个称谓封定全人；翼对权力继承的担忧是人物争论，不是经验证明。息衍最后想到女人所仇恨的人始终近在眼前，前面保护她与隐瞒并存的关系因此更复杂，不替他解释是否全知或如何无辜。鱼在池塘引出两种解读后，写到日影移、烟冷、细雨变大，空白时间有具体物态。此前窗前箜篌示意此处转为无人听的湿弦哑声，发声失败才说不必再弹；不是把音乐均当宿命。历史结尾记录陵火、赦免、减税，却遗漏收徒，国家层面的无战与个人经验并置，不等于一切记载都是谎言。剑已被取回但魂未解脱，武库未开、教习刚开始，均保留未完成状态。"
+    }
+  ],
+  "notes": [
+    "Only volume II newly added; previous sources and analysis retained.",
+    "Eight editorial scene groups cover 36 original body fragments, not eight original chapters.",
+    "No raw novel text packaged; original source, reader, chunks and notes retained in work directory.",
+    "Only one referenced cover image; shared assets are not volume illustrations. Image not analyzed.",
+    "Local chronology and knowledge-continuity discrepancies recorded without silent repair.",
+    "Source coverage and structural checks do not prove improvement in original writing."
+  ]
+}

@@ -1,0 +1,3353 @@
+{
+  "title": "天之炽Ⅱ：女武神（1、2）",
+  "author": "江南",
+  "source_id": "tz2",
+  "generated": "2026-10-25",
+  "source_anthology": "江南作品合集套装共25册江南作品合集套装25册中国著名幻想小说作家千万册畅销奇迹制造者刘慈欣阿来李敬泽盛赞作家江南25册套装大合集囊括龙族九州缥缈录天之炽上海堡垒等知名作品.epub",
+  "edition_statement_from_local_copyright_pages": [
+    {
+      "title": "天之炽Ⅱ：女武神1",
+      "author": "江南",
+      "publisher": null,
+      "date": null,
+      "isbn": null
+    },
+    {
+      "title": "天之炽Ⅱ：女武神2",
+      "author": "江南",
+      "publisher": null,
+      "date": null,
+      "isbn": null
+    }
+  ],
+  "edition_verified_against_print": false,
+  "source_opf_sha256": "e99b7907d4d4d83946a663aa70eeae3f8442433a58d7c71ddae518bcf61e7448",
+  "source_ncx_sha256": "b2fc076d6292f497e2121c5d9cddde8d0587118509a4ef9d06a936838677e7b1",
+  "repacked_epub_sha256": "db4fb17f0e482aa038386e59be717a69365c0e4b73eb72eb48d17feb790513f6",
+  "extraction_mode": "text",
+  "reading_status": {
+    "full_text_read": true,
+    "coverage_verified": true,
+    "spine_items": 102,
+    "total_nonempty_blocks_including_front_matter": 7702,
+    "total_normalized_characters": 433820,
+    "front_matter_nonempty_blocks": 110,
+    "preface_blocks": 0,
+    "body_text_items": 96,
+    "body_paragraphs_including_headings": 7592,
+    "body_normalized_characters": 432427,
+    "reading_chunks": 90,
+    "all_chunks_read": true,
+    "analysis_units": 18,
+    "local_close_readings": 12,
+    "referenced_images": 2,
+    "images_analyzed": false,
+    "print_pages": null
+  },
+  "anchor_contract": "tz2:partNNNN:Pxxxx-Pyyyy -> OEBPS/Text/partNNNN.xhtml; nonempty body p/h1-h6/li/pre/blockquote/leaf div blocks; normalize inline whitespace; include headings; one-based paragraphs; not print pages",
+  "source_files": [
+    {
+      "path": "OEBPS/Text/part0591.xhtml",
+      "sha256": "12fcf7cdf85a1dbd0551a5b6667e943e9f6b84004309463ae8c7f4ee68934167",
+      "bytes": 441
+    },
+    {
+      "path": "OEBPS/Text/part0592.xhtml",
+      "sha256": "ecfb1c6d6b231f655d43bd7a2d0b788b79b34589e50a0d0e00406897484a3fe1",
+      "bytes": 605
+    },
+    {
+      "path": "OEBPS/Text/part0593.xhtml",
+      "sha256": "5f8dac5a0c389e351881da212e0817821e4fb48354693ce1866b3dde82479768",
+      "bytes": 5617
+    },
+    {
+      "path": "OEBPS/Text/part0594.xhtml",
+      "sha256": "96270c1e84aee0b24a989de4ad85c46b760ea1605eea5033670d3a67107295e3",
+      "bytes": 17819
+    },
+    {
+      "path": "OEBPS/Text/part0595.xhtml",
+      "sha256": "b19441af6a97bdef0647f86a9464bfdf617934ae2171c9d0231679a58ca5e4ba",
+      "bytes": 17318
+    },
+    {
+      "path": "OEBPS/Text/part0596.xhtml",
+      "sha256": "944418ed07df7c72e817ab8809a1ae0fd828534ece72f3b4e82fb3a828498b83",
+      "bytes": 10358
+    },
+    {
+      "path": "OEBPS/Text/part0597.xhtml",
+      "sha256": "8cc2db9047e6f9eae9305ac15edab079a62a6bd9f60cb9fe635cc03e323eff61",
+      "bytes": 10550
+    },
+    {
+      "path": "OEBPS/Text/part0598.xhtml",
+      "sha256": "4d5c67f571203e08e8b8fcf9ac62c82f520986d6110cafcc7cf086e6d664b1e6",
+      "bytes": 17712
+    },
+    {
+      "path": "OEBPS/Text/part0599.xhtml",
+      "sha256": "4b2885ffe04f898fddcfa5d336f862f016ea932f047f14b2295b34893565f3f6",
+      "bytes": 17549
+    },
+    {
+      "path": "OEBPS/Text/part0600.xhtml",
+      "sha256": "115ddeb4726217d6b6cd85da323874537976b5a568e28bbd329e33e488b8375a",
+      "bytes": 17320
+    },
+    {
+      "path": "OEBPS/Text/part0601.xhtml",
+      "sha256": "a00b30fbab37380606c354c9e8c7621382d2cd049612017c5fee3013ea178721",
+      "bytes": 17810
+    },
+    {
+      "path": "OEBPS/Text/part0602.xhtml",
+      "sha256": "7ce59e174c01b713f6d5485c1cb2127e6bc74784774c74de78a996c8d96fe76b",
+      "bytes": 14540
+    },
+    {
+      "path": "OEBPS/Text/part0603.xhtml",
+      "sha256": "935376fd49fe8d0170556dab59c12ce8e59d5546c54ed58133ba6ceace9ee8ca",
+      "bytes": 14544
+    },
+    {
+      "path": "OEBPS/Text/part0604.xhtml",
+      "sha256": "32513b354a84368d4b7b29f0bfd79d24abc66c99f5da6f06e8add368677d8371",
+      "bytes": 17180
+    },
+    {
+      "path": "OEBPS/Text/part0605.xhtml",
+      "sha256": "b4292114f180da5db73826237fb29c589f22c97996beaf7102044bb5df4aa28f",
+      "bytes": 17153
+    },
+    {
+      "path": "OEBPS/Text/part0606.xhtml",
+      "sha256": "a1b4d0fc3081aedb889ea5e899418e851d08cacbaad8e8973efc3689da3075a3",
+      "bytes": 17773
+    },
+    {
+      "path": "OEBPS/Text/part0607.xhtml",
+      "sha256": "83aa7c0eded405e2cb7ab3ebd91d74e53880500ad7b2a690e76d30b17b8ea6a2",
+      "bytes": 17575
+    },
+    {
+      "path": "OEBPS/Text/part0608.xhtml",
+      "sha256": "72a1d377439cea8f2eb6606f84cc27ac90a1404950160ed73afc924b02b856ae",
+      "bytes": 17346
+    },
+    {
+      "path": "OEBPS/Text/part0609.xhtml",
+      "sha256": "fecda85547898f4f4301018ed94c1ec5e2e6d037a611a277f34b60245c4f17ad",
+      "bytes": 17195
+    },
+    {
+      "path": "OEBPS/Text/part0610.xhtml",
+      "sha256": "7c89bfe3da6d8735713fee6be294b3efddc762b83e7124c8e231c46e06482f65",
+      "bytes": 17068
+    },
+    {
+      "path": "OEBPS/Text/part0611.xhtml",
+      "sha256": "25502c14159576d6ed231b7012b447423805249a6c51ad50b4c5a9df01b4fc69",
+      "bytes": 17426
+    },
+    {
+      "path": "OEBPS/Text/part0612.xhtml",
+      "sha256": "6d79fb33e75d301f4d0852a265314e8e8ed3284ad4ff051143032391d961b3c0",
+      "bytes": 11676
+    },
+    {
+      "path": "OEBPS/Text/part0613.xhtml",
+      "sha256": "0cc4e446dd6011598f137e3cf9a44bd0115568eb85592459d0c46410397371e1",
+      "bytes": 12111
+    },
+    {
+      "path": "OEBPS/Text/part0614.xhtml",
+      "sha256": "086ebaa312166d90d16f1987af843f6ed5651bba43ec48449de6c52f523ced55",
+      "bytes": 17195
+    },
+    {
+      "path": "OEBPS/Text/part0615.xhtml",
+      "sha256": "0aa7b90e5d8f88bb85502e6552891619decc822d27025f4f0681894d892488a7",
+      "bytes": 13824
+    },
+    {
+      "path": "OEBPS/Text/part0616.xhtml",
+      "sha256": "22aa92cbb0fdaa3255c318e9072f09c15e5d1bd961a774a11fe8e85ad7076509",
+      "bytes": 14264
+    },
+    {
+      "path": "OEBPS/Text/part0617.xhtml",
+      "sha256": "82fb36099d01cde20291dc8d59587349a2e820cc030e235d666086f95de78ba4",
+      "bytes": 17646
+    },
+    {
+      "path": "OEBPS/Text/part0618.xhtml",
+      "sha256": "4c43bd348e6068111243f4af62a32fc4487579f561113bad09f2fa02c8b544f0",
+      "bytes": 17540
+    },
+    {
+      "path": "OEBPS/Text/part0619.xhtml",
+      "sha256": "b46fef26a9f13534f61ec55f966dece03503d3376225463ca6ec3983b6cb9edd",
+      "bytes": 17201
+    },
+    {
+      "path": "OEBPS/Text/part0620.xhtml",
+      "sha256": "28b9af1808180dbb8a5cdeb302eb14e29ae5ad9d09cbe327c52636d182d065b6",
+      "bytes": 18166
+    },
+    {
+      "path": "OEBPS/Text/part0621.xhtml",
+      "sha256": "459bd341960f8346a89f8b2af677f603e18289a6c81f932a5816434f1bce0bf5",
+      "bytes": 17651
+    },
+    {
+      "path": "OEBPS/Text/part0622.xhtml",
+      "sha256": "13021cae8996ae0f48114c8e1616db2c51aa17cbca318c67e1cbc77dc319e553",
+      "bytes": 17547
+    },
+    {
+      "path": "OEBPS/Text/part0623.xhtml",
+      "sha256": "9aa32a9d8ef8a3c6b4f478a9a075e6898b410a0d01623e9f10a8e3c29c251bc3",
+      "bytes": 17811
+    },
+    {
+      "path": "OEBPS/Text/part0624.xhtml",
+      "sha256": "61d1054089f91f0ef85e6be63eb61fda80328b239c7356c5590d6848e8f13639",
+      "bytes": 17534
+    },
+    {
+      "path": "OEBPS/Text/part0625.xhtml",
+      "sha256": "870228fb47b778727b77d86ec954a3b63e862f24c73d700d0759052f68c987f6",
+      "bytes": 17511
+    },
+    {
+      "path": "OEBPS/Text/part0626.xhtml",
+      "sha256": "f219abc8543900a61c170274d376a96eaed55a9ba838db4c741e685a2f4ef37c",
+      "bytes": 17694
+    },
+    {
+      "path": "OEBPS/Text/part0627.xhtml",
+      "sha256": "3f761a266f09ca0a6a58d7446658162f0df01f80020502d635902da7d652e8bc",
+      "bytes": 17530
+    },
+    {
+      "path": "OEBPS/Text/part0628.xhtml",
+      "sha256": "02ba60c27a1d15134261e67afde0c8dc63cef590da47b2dc65482fde0acc656b",
+      "bytes": 12212
+    },
+    {
+      "path": "OEBPS/Text/part0629.xhtml",
+      "sha256": "0829ccba3d2769e9db20873aed14b8c86ec15548a032e0d6e9571826f22458ae",
+      "bytes": 12638
+    },
+    {
+      "path": "OEBPS/Text/part0630.xhtml",
+      "sha256": "e522f8e39bd1b650e84fd3522b0df81513b496c331366bc4c203a6c5e02b4daa",
+      "bytes": 17535
+    },
+    {
+      "path": "OEBPS/Text/part0631.xhtml",
+      "sha256": "743fadef706c24f533c9711e1a5a23706fba4022ec79fe651487bd141bfd6de3",
+      "bytes": 17358
+    },
+    {
+      "path": "OEBPS/Text/part0632.xhtml",
+      "sha256": "778f40c260bbb937a73db52f7dde4653fbfc8b31c42557625f73bc3595ee493a",
+      "bytes": 17301
+    },
+    {
+      "path": "OEBPS/Text/part0633.xhtml",
+      "sha256": "b76d2a9c4c92f90559b29eece8ee5bcb113096eb99f3116aee6284a4114f41ee",
+      "bytes": 17077
+    },
+    {
+      "path": "OEBPS/Text/part0634.xhtml",
+      "sha256": "5e69fc2af46d9897f13429cdc16b8ff3fa29025df6e7aabeed52a9a48e1419bf",
+      "bytes": 12470
+    },
+    {
+      "path": "OEBPS/Text/part0635.xhtml",
+      "sha256": "3cc52c03b34ec9cfe19ede4c7bbf74ac3f6bbac14a00be6528fefe463e5844e9",
+      "bytes": 13053
+    },
+    {
+      "path": "OEBPS/Text/part0636.xhtml",
+      "sha256": "6f151b88aeb19878efa2264ff3c1a7b59793b1d29bdbc653454680abde54e84d",
+      "bytes": 17672
+    },
+    {
+      "path": "OEBPS/Text/part0637.xhtml",
+      "sha256": "abbaefadc892eb29858b05cb28fb05b1ec675dbe5978be8aa70f1768da60ccbc",
+      "bytes": 11051
+    },
+    {
+      "path": "OEBPS/Text/part0638.xhtml",
+      "sha256": "2bace2ab3c8ad1d874e7380ea8bfb18080ebf9946875377ba39e3e6e4e785708",
+      "bytes": 11579
+    },
+    {
+      "path": "OEBPS/Text/part0639.xhtml",
+      "sha256": "bbc7ec017835349784c720129ea1b6ac1e7fd503cb0ef45230936379e901fa63",
+      "bytes": 441
+    },
+    {
+      "path": "OEBPS/Text/part0640.xhtml",
+      "sha256": "f4fa4f7726e67586432c1d01ab18fa21857f248a8b1f3e426d20edd76782cec1",
+      "bytes": 605
+    },
+    {
+      "path": "OEBPS/Text/part0641.xhtml",
+      "sha256": "b2f7a9667f1897294a085e006a0af13831a152fcce8a57be02864eb6996d18c2",
+      "bytes": 6210
+    },
+    {
+      "path": "OEBPS/Text/part0642.xhtml",
+      "sha256": "ac06a87e72ca5342d8708e02586a2555c564aedc702dd3d430dc71a489bd1700",
+      "bytes": 17603
+    },
+    {
+      "path": "OEBPS/Text/part0643.xhtml",
+      "sha256": "758d775b68eaffa873ee02147bb4ad31eff4b84077a5ebaba13ee4699b069e46",
+      "bytes": 11793
+    },
+    {
+      "path": "OEBPS/Text/part0644.xhtml",
+      "sha256": "e11517edd5408a346d3aa739ff0b3300bcab34ce33daf1a88726dcd79c090538",
+      "bytes": 11834
+    },
+    {
+      "path": "OEBPS/Text/part0645.xhtml",
+      "sha256": "910cccaa833bca6f26a5e2f14e031cf396c71fbed140419845ab74d581b33750",
+      "bytes": 17543
+    },
+    {
+      "path": "OEBPS/Text/part0646.xhtml",
+      "sha256": "292335afcff1a733bfdd662263fe7b12972120c185f1d94cb397595a0639c8fa",
+      "bytes": 17643
+    },
+    {
+      "path": "OEBPS/Text/part0647.xhtml",
+      "sha256": "7901d2c7e0a27445cca43be80f93e18d737d98b2cd9ec7b44c889cc190a6fbd4",
+      "bytes": 14901
+    },
+    {
+      "path": "OEBPS/Text/part0648.xhtml",
+      "sha256": "181e730ae2e742da6095cb749f32934e34b9adee224e26432b2c934449bbce48",
+      "bytes": 14951
+    },
+    {
+      "path": "OEBPS/Text/part0649.xhtml",
+      "sha256": "d8840d549f4240971c91364d1edcb3785d4bb5cba7680acb92c8d90a1af5186d",
+      "bytes": 17616
+    },
+    {
+      "path": "OEBPS/Text/part0650.xhtml",
+      "sha256": "31de81e0ffb6630c8ab3a16471152e8b933396498675ac5bfbc61dde2caf65f8",
+      "bytes": 17577
+    },
+    {
+      "path": "OEBPS/Text/part0651.xhtml",
+      "sha256": "4b8b30a70165f40ee891a5d2dea75385aefb9cb084d35c49a5da145e298f4d8c",
+      "bytes": 17340
+    },
+    {
+      "path": "OEBPS/Text/part0652.xhtml",
+      "sha256": "de8ba3860e2042a8e26250625a117b8559ff1a920d0bec9ccd0e0dbac18d649a",
+      "bytes": 17601
+    },
+    {
+      "path": "OEBPS/Text/part0653.xhtml",
+      "sha256": "3747f0389e052d70ac592807cdfdb566363ed38a502dc04eb3abe1d884d0cee7",
+      "bytes": 12063
+    },
+    {
+      "path": "OEBPS/Text/part0654.xhtml",
+      "sha256": "d25033b250a1908d458e240d8c8791217305c42a601f73a2cce5139fe2c557c7",
+      "bytes": 12494
+    },
+    {
+      "path": "OEBPS/Text/part0655.xhtml",
+      "sha256": "877dfd2f445bdf417d4c5204dc8ee0cae53d76f210c2251df3678f0e75632399",
+      "bytes": 13306
+    },
+    {
+      "path": "OEBPS/Text/part0656.xhtml",
+      "sha256": "14d741a7255e4a255cec99ba36c362b17cc9a31bdd7576f2c359ccc553f8e4c9",
+      "bytes": 13731
+    },
+    {
+      "path": "OEBPS/Text/part0657.xhtml",
+      "sha256": "fb2e6b64b9aa4a411623ec45871b7f6655e9ca8ec08108c2e63f040a2a797e21",
+      "bytes": 17557
+    },
+    {
+      "path": "OEBPS/Text/part0658.xhtml",
+      "sha256": "792dec4523bb5379e6174b1bfc4c47b33d19281112daa768e1394b2749093e8b",
+      "bytes": 17490
+    },
+    {
+      "path": "OEBPS/Text/part0659.xhtml",
+      "sha256": "5c2bae7cb3a70be8b09fcf61a8cd5b775bf66e31233d37bdc1f5a5504a578c3c",
+      "bytes": 17469
+    },
+    {
+      "path": "OEBPS/Text/part0660.xhtml",
+      "sha256": "cf287e1303cf163d75e3cda94833b0f787c1a76d6eefbd60c1476dc5dbc3dea5",
+      "bytes": 9771
+    },
+    {
+      "path": "OEBPS/Text/part0661.xhtml",
+      "sha256": "861920385e3053491fd703c197119471385c5e122fe05c8ef16dadaa39a88e3a",
+      "bytes": 10127
+    },
+    {
+      "path": "OEBPS/Text/part0662.xhtml",
+      "sha256": "0b056b6c36299887902c728aa27a6d6b44005f736a6134de0faf1e7add723516",
+      "bytes": 17359
+    },
+    {
+      "path": "OEBPS/Text/part0663.xhtml",
+      "sha256": "c3da8a80c898ea36fa130975c5227d18c03b17389f93a0dd8672de20a592e416",
+      "bytes": 17311
+    },
+    {
+      "path": "OEBPS/Text/part0664.xhtml",
+      "sha256": "c3c4fe246af982e047d5507c209c12d164869f1ba49cef8daf68ca1bf8d7dc90",
+      "bytes": 17528
+    },
+    {
+      "path": "OEBPS/Text/part0665.xhtml",
+      "sha256": "6be0a00432e4c3c5b0ebcff4512deaec25bf86b5ccbe5a13118f076d3ae0161e",
+      "bytes": 12465
+    },
+    {
+      "path": "OEBPS/Text/part0666.xhtml",
+      "sha256": "ac4e0cd40f778481430e1f7d7d7647f668f39658e69abeed81e210c1e60b4667",
+      "bytes": 12905
+    },
+    {
+      "path": "OEBPS/Text/part0667.xhtml",
+      "sha256": "c4273ba3e94f02408cd12acef48f5e7d6b26f467bb8a6c52411a89242d606907",
+      "bytes": 17585
+    },
+    {
+      "path": "OEBPS/Text/part0668.xhtml",
+      "sha256": "ecb37f6adce5d894b4cccfc0a599e2be7b1871e89bdf47172f7017e214e54280",
+      "bytes": 17489
+    },
+    {
+      "path": "OEBPS/Text/part0669.xhtml",
+      "sha256": "66ea6ec2427f1063d846193f90d3a412867f64153284616e0644a98a86e223dd",
+      "bytes": 17499
+    },
+    {
+      "path": "OEBPS/Text/part0670.xhtml",
+      "sha256": "74e0e1382222a2653c3d42ecb0982d67d08792be9950a1445456cc64d3fe47c2",
+      "bytes": 17780
+    },
+    {
+      "path": "OEBPS/Text/part0671.xhtml",
+      "sha256": "cdbfb15cb9f66fa99f81b8dc09a4988002b537c5d39f9348524664386f7995b5",
+      "bytes": 14985
+    },
+    {
+      "path": "OEBPS/Text/part0672.xhtml",
+      "sha256": "7a88f8039664a35d0d20ea547db270a1a9820aafb358ce31f18756c55954da08",
+      "bytes": 15238
+    },
+    {
+      "path": "OEBPS/Text/part0673.xhtml",
+      "sha256": "c162a2da045b2e4a2b1a62c35a107af35e221e6a4a104d8a38d7c6fd021f4b7c",
+      "bytes": 17638
+    },
+    {
+      "path": "OEBPS/Text/part0674.xhtml",
+      "sha256": "7c24a4b8f9a85cc6c03f7fc6d1eb16baffb5bc069f69c55a95f25f4016ae881b",
+      "bytes": 17295
+    },
+    {
+      "path": "OEBPS/Text/part0675.xhtml",
+      "sha256": "1bf1ac91417297a2b5abc0323ccdd34d3a8e4b8f87f876826c28bc2e3fe87383",
+      "bytes": 17605
+    },
+    {
+      "path": "OEBPS/Text/part0676.xhtml",
+      "sha256": "8c27aa8a8647212a955b83dca504017641d3c7a3a341046d8c708a0bb1555c6f",
+      "bytes": 15899
+    },
+    {
+      "path": "OEBPS/Text/part0677.xhtml",
+      "sha256": "694de8730f1879e14980bef55998c8bb2f57896ce33e70a56d1af84d8a2049d1",
+      "bytes": 16653
+    },
+    {
+      "path": "OEBPS/Text/part0678.xhtml",
+      "sha256": "664a214b4c82a347e747e8aebd8a2ae0d0dc77a9ca587ef2b4566c83c94b7d1e",
+      "bytes": 17414
+    },
+    {
+      "path": "OEBPS/Text/part0679.xhtml",
+      "sha256": "23a5f2b434d8b7c64ce58d5e9993c03b33c796c6a77267b1c7d9534dc072b45b",
+      "bytes": 16878
+    },
+    {
+      "path": "OEBPS/Text/part0680.xhtml",
+      "sha256": "ffd7abe6bbe4d2c49bb04cc4e1e71d0a17c2acfe84c4fa62afe8053a4d176529",
+      "bytes": 17278
+    },
+    {
+      "path": "OEBPS/Text/part0681.xhtml",
+      "sha256": "c38c361c9bb19a231d744ad24215e556bbd45de7e283052708f7c8313c0fdbd4",
+      "bytes": 17194
+    },
+    {
+      "path": "OEBPS/Text/part0682.xhtml",
+      "sha256": "7a8b0d849a3abcbddb7bd24fa81d2528b068fcf34be98cb82e714be5e9ccca2a",
+      "bytes": 14984
+    },
+    {
+      "path": "OEBPS/Text/part0683.xhtml",
+      "sha256": "9960906b8da1496ba7a8ab6bcf66fc124dd3005079527c148602c2b59ecdd53c",
+      "bytes": 15277
+    },
+    {
+      "path": "OEBPS/Text/part0684.xhtml",
+      "sha256": "a99d4aa58fef96e05d4a0230a36766d027a502ad3236a8c3898e3debc7d16652",
+      "bytes": 17858
+    },
+    {
+      "path": "OEBPS/Text/part0685.xhtml",
+      "sha256": "73888c49bcdada14ce1c2bfc7c3b5ef5c3faf983c80c9d1fc65c1fe1e9cb1632",
+      "bytes": 17433
+    },
+    {
+      "path": "OEBPS/Text/part0686.xhtml",
+      "sha256": "fa15ba6532c0a1ae1f82c7dd6f310b68df33b48c90fa9ad98e7a61b601edd2da",
+      "bytes": 17379
+    },
+    {
+      "path": "OEBPS/Text/part0687.xhtml",
+      "sha256": "38a5610ebdc6c3756ef1644ec998f5862b389e0b3d93cf711c62c60a5fe975d0",
+      "bytes": 17575
+    },
+    {
+      "path": "OEBPS/Text/part0688.xhtml",
+      "sha256": "b95358a49f5f2490f6cab696ba572eaead6ea52215e815c01d803b0503a15bed",
+      "bytes": 17376
+    },
+    {
+      "path": "OEBPS/Text/part0689.xhtml",
+      "sha256": "9d8658cee0f250256fd7a484b02a3403347bafe1a38e6c6f60747ed6512dd5e0",
+      "bytes": 17619
+    },
+    {
+      "path": "OEBPS/Text/part0690.xhtml",
+      "sha256": "6cbe99dca8f85e41fa2036db9f84c1289cc2c1c52d5dada172acc020e1f7f8ef",
+      "bytes": 17344
+    },
+    {
+      "path": "OEBPS/Text/part0691.xhtml",
+      "sha256": "04dc8136b4774a4c416c1896b0b61f97c0bab04433c8668316df5506bfb3ca9c",
+      "bytes": 10995
+    },
+    {
+      "path": "OEBPS/Text/part0692.xhtml",
+      "sha256": "0894fccc46a5c40d3e51a07b532d2aecb1f2c8a14d6f4d97cf1188996b1269d4",
+      "bytes": 11375
+    }
+  ],
+  "documents": [
+    {
+      "stem": "part0591",
+      "source": "OEBPS/Text/part0591.xhtml",
+      "sha256": "12fcf7cdf85a1dbd0551a5b6667e943e9f6b84004309463ae8c7f4ee68934167",
+      "paragraphs": 0,
+      "characters": 0,
+      "headings": [],
+      "referenced_images": [
+        "../Images/image05093.jpeg"
+      ]
+    },
+    {
+      "stem": "part0592",
+      "source": "OEBPS/Text/part0592.xhtml",
+      "sha256": "ecfb1c6d6b231f655d43bd7a2d0b788b79b34589e50a0d0e00406897484a3fe1",
+      "paragraphs": 4,
+      "characters": 30,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "版权信息"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0593",
+      "source": "OEBPS/Text/part0593.xhtml",
+      "sha256": "5f8dac5a0c389e351881da212e0817821e4fb48354693ce1866b3dde82479768",
+      "paragraphs": 48,
+      "characters": 638,
+      "headings": [],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0594",
+      "source": "OEBPS/Text/part0594.xhtml",
+      "sha256": "96270c1e84aee0b24a989de4ad85c46b760ea1605eea5033670d3a67107295e3",
+      "paragraphs": 98,
+      "characters": 4983,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第1章 夜雨声烦之春（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0595",
+      "source": "OEBPS/Text/part0595.xhtml",
+      "sha256": "b19441af6a97bdef0647f86a9464bfdf617934ae2171c9d0231679a58ca5e4ba",
+      "paragraphs": 81,
+      "characters": 4961,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第2章 夜雨声烦之春（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0596",
+      "source": "OEBPS/Text/part0596.xhtml",
+      "sha256": "944418ed07df7c72e817ab8809a1ae0fd828534ece72f3b4e82fb3a828498b83",
+      "paragraphs": 58,
+      "characters": 2843,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第3章 夜雨声烦之春（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0597",
+      "source": "OEBPS/Text/part0597.xhtml",
+      "sha256": "8cc2db9047e6f9eae9305ac15edab079a62a6bd9f60cb9fe635cc03e323eff61",
+      "paragraphs": 55,
+      "characters": 2931,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第4章 夜雨声烦之春（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0598",
+      "source": "OEBPS/Text/part0598.xhtml",
+      "sha256": "4d5c67f571203e08e8b8fcf9ac62c82f520986d6110cafcc7cf086e6d664b1e6",
+      "paragraphs": 96,
+      "characters": 4963,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第5章 炽天之鬼（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0599",
+      "source": "OEBPS/Text/part0599.xhtml",
+      "sha256": "4b2885ffe04f898fddcfa5d336f862f016ea932f047f14b2295b34893565f3f6",
+      "paragraphs": 90,
+      "characters": 4962,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第6章 炽天之鬼（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0600",
+      "source": "OEBPS/Text/part0600.xhtml",
+      "sha256": "115ddeb4726217d6b6cd85da323874537976b5a568e28bbd329e33e488b8375a",
+      "paragraphs": 82,
+      "characters": 4955,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第7章 炽天之鬼（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0601",
+      "source": "OEBPS/Text/part0601.xhtml",
+      "sha256": "a00b30fbab37380606c354c9e8c7621382d2cd049612017c5fee3013ea178721",
+      "paragraphs": 96,
+      "characters": 5007,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第8章 炽天之鬼（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0602",
+      "source": "OEBPS/Text/part0602.xhtml",
+      "sha256": "7ce59e174c01b713f6d5485c1cb2127e6bc74784774c74de78a996c8d96fe76b",
+      "paragraphs": 78,
+      "characters": 4090,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第9章 炽天之鬼（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0603",
+      "source": "OEBPS/Text/part0603.xhtml",
+      "sha256": "935376fd49fe8d0170556dab59c12ce8e59d5546c54ed58133ba6ceace9ee8ca",
+      "paragraphs": 72,
+      "characters": 4116,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第10章 炽天之鬼（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0604",
+      "source": "OEBPS/Text/part0604.xhtml",
+      "sha256": "32513b354a84368d4b7b29f0bfd79d24abc66c99f5da6f06e8add368677d8371",
+      "paragraphs": 80,
+      "characters": 4927,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第11章 神圣家族（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0605",
+      "source": "OEBPS/Text/part0605.xhtml",
+      "sha256": "b4292114f180da5db73826237fb29c589f22c97996beaf7102044bb5df4aa28f",
+      "paragraphs": 71,
+      "characters": 4999,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第12章 神圣家族（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0606",
+      "source": "OEBPS/Text/part0606.xhtml",
+      "sha256": "a1b4d0fc3081aedb889ea5e899418e851d08cacbaad8e8973efc3689da3075a3",
+      "paragraphs": 94,
+      "characters": 5005,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第13章 神圣家族（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0607",
+      "source": "OEBPS/Text/part0607.xhtml",
+      "sha256": "83aa7c0eded405e2cb7ab3ebd91d74e53880500ad7b2a690e76d30b17b8ea6a2",
+      "paragraphs": 87,
+      "characters": 4996,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第14章 神圣家族（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0608",
+      "source": "OEBPS/Text/part0608.xhtml",
+      "sha256": "72a1d377439cea8f2eb6606f84cc27ac90a1404950160ed73afc924b02b856ae",
+      "paragraphs": 80,
+      "characters": 4985,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第15章 神圣家族（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0609",
+      "source": "OEBPS/Text/part0609.xhtml",
+      "sha256": "fecda85547898f4f4301018ed94c1ec5e2e6d037a611a277f34b60245c4f17ad",
+      "paragraphs": 73,
+      "characters": 4991,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第16章 神圣家族（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0610",
+      "source": "OEBPS/Text/part0610.xhtml",
+      "sha256": "7c89bfe3da6d8735713fee6be294b3efddc762b83e7124c8e231c46e06482f65",
+      "paragraphs": 81,
+      "characters": 4883,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第17章 神圣家族（7）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0611",
+      "source": "OEBPS/Text/part0611.xhtml",
+      "sha256": "25502c14159576d6ed231b7012b447423805249a6c51ad50b4c5a9df01b4fc69",
+      "paragraphs": 80,
+      "characters": 5010,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第18章 神圣家族（8）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0612",
+      "source": "OEBPS/Text/part0612.xhtml",
+      "sha256": "6d79fb33e75d301f4d0852a265314e8e8ed3284ad4ff051143032391d961b3c0",
+      "paragraphs": 50,
+      "characters": 3350,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第19章 神圣家族（9）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0613",
+      "source": "OEBPS/Text/part0613.xhtml",
+      "sha256": "0cc4e446dd6011598f137e3cf9a44bd0115568eb85592459d0c46410397371e1",
+      "paragraphs": 55,
+      "characters": 3452,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第20章 神圣家族（10）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0614",
+      "source": "OEBPS/Text/part0614.xhtml",
+      "sha256": "086ebaa312166d90d16f1987af843f6ed5651bba43ec48449de6c52f523ced55",
+      "paragraphs": 81,
+      "characters": 4924,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第21章 繁樱怒放之冬（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0615",
+      "source": "OEBPS/Text/part0615.xhtml",
+      "sha256": "0aa7b90e5d8f88bb85502e6552891619decc822d27025f4f0681894d892488a7",
+      "paragraphs": 61,
+      "characters": 3971,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第22章 繁樱怒放之冬（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0616",
+      "source": "OEBPS/Text/part0616.xhtml",
+      "sha256": "22aa92cbb0fdaa3255c318e9072f09c15e5d1bd961a774a11fe8e85ad7076509",
+      "paragraphs": 75,
+      "characters": 3997,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第23章 繁樱怒放之冬（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0617",
+      "source": "OEBPS/Text/part0617.xhtml",
+      "sha256": "82fb36099d01cde20291dc8d59587349a2e820cc030e235d666086f95de78ba4",
+      "paragraphs": 92,
+      "characters": 4984,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第24章 龙与莲花（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0618",
+      "source": "OEBPS/Text/part0618.xhtml",
+      "sha256": "4c43bd348e6068111243f4af62a32fc4487579f561113bad09f2fa02c8b544f0",
+      "paragraphs": 85,
+      "characters": 5006,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第25章 龙与莲花（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0619",
+      "source": "OEBPS/Text/part0619.xhtml",
+      "sha256": "b46fef26a9f13534f61ec55f966dece03503d3376225463ca6ec3983b6cb9edd",
+      "paragraphs": 89,
+      "characters": 4854,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第26章 龙与莲花（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0620",
+      "source": "OEBPS/Text/part0620.xhtml",
+      "sha256": "28b9af1808180dbb8a5cdeb302eb14e29ae5ad9d09cbe327c52636d182d065b6",
+      "paragraphs": 96,
+      "characters": 5123,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第27章 龙与莲花（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0621",
+      "source": "OEBPS/Text/part0621.xhtml",
+      "sha256": "459bd341960f8346a89f8b2af677f603e18289a6c81f932a5816434f1bce0bf5",
+      "paragraphs": 90,
+      "characters": 4998,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第28章 红龙狂舞之夜（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0622",
+      "source": "OEBPS/Text/part0622.xhtml",
+      "sha256": "13021cae8996ae0f48114c8e1616db2c51aa17cbca318c67e1cbc77dc319e553",
+      "paragraphs": 85,
+      "characters": 5003,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第29章 红龙狂舞之夜（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0623",
+      "source": "OEBPS/Text/part0623.xhtml",
+      "sha256": "9aa32a9d8ef8a3c6b4f478a9a075e6898b410a0d01623e9f10a8e3c29c251bc3",
+      "paragraphs": 97,
+      "characters": 4987,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第30章 红龙狂舞之夜（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0624",
+      "source": "OEBPS/Text/part0624.xhtml",
+      "sha256": "61d1054089f91f0ef85e6be63eb61fda80328b239c7356c5590d6848e8f13639",
+      "paragraphs": 90,
+      "characters": 4958,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第31章 红龙狂舞之夜（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0625",
+      "source": "OEBPS/Text/part0625.xhtml",
+      "sha256": "870228fb47b778727b77d86ec954a3b63e862f24c73d700d0759052f68c987f6",
+      "paragraphs": 89,
+      "characters": 4963,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第32章 红龙狂舞之夜（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0626",
+      "source": "OEBPS/Text/part0626.xhtml",
+      "sha256": "f219abc8543900a61c170274d376a96eaed55a9ba838db4c741e685a2f4ef37c",
+      "paragraphs": 91,
+      "characters": 5003,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第33章 红龙狂舞之夜（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0627",
+      "source": "OEBPS/Text/part0627.xhtml",
+      "sha256": "3f761a266f09ca0a6a58d7446658162f0df01f80020502d635902da7d652e8bc",
+      "paragraphs": 85,
+      "characters": 4998,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第34章 红龙狂舞之夜（7）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0628",
+      "source": "OEBPS/Text/part0628.xhtml",
+      "sha256": "02ba60c27a1d15134261e67afde0c8dc63cef590da47b2dc65482fde0acc656b",
+      "paragraphs": 59,
+      "characters": 3453,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第35章 红龙狂舞之夜（8）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0629",
+      "source": "OEBPS/Text/part0629.xhtml",
+      "sha256": "0829ccba3d2769e9db20873aed14b8c86ec15548a032e0d6e9571826f22458ae",
+      "paragraphs": 65,
+      "characters": 3547,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第36章 红龙狂舞之夜（9）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0630",
+      "source": "OEBPS/Text/part0630.xhtml",
+      "sha256": "e522f8e39bd1b650e84fd3522b0df81513b496c331366bc4c203a6c5e02b4daa",
+      "paragraphs": 91,
+      "characters": 4947,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第37章 被称作老板的男孩和三骑士（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0631",
+      "source": "OEBPS/Text/part0631.xhtml",
+      "sha256": "743fadef706c24f533c9711e1a5a23706fba4022ec79fe651487bd141bfd6de3",
+      "paragraphs": 82,
+      "characters": 4969,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第38章 被称作老板的男孩和三骑士（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0632",
+      "source": "OEBPS/Text/part0632.xhtml",
+      "sha256": "778f40c260bbb937a73db52f7dde4653fbfc8b31c42557625f73bc3595ee493a",
+      "paragraphs": 82,
+      "characters": 4948,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第39章 被称作老板的男孩和三骑士（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0633",
+      "source": "OEBPS/Text/part0633.xhtml",
+      "sha256": "b76d2a9c4c92f90559b29eece8ee5bcb113096eb99f3116aee6284a4114f41ee",
+      "paragraphs": 69,
+      "characters": 4985,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第40章 被称作老板的男孩和三骑士（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0634",
+      "source": "OEBPS/Text/part0634.xhtml",
+      "sha256": "5e69fc2af46d9897f13429cdc16b8ff3fa29025df6e7aabeed52a9a48e1419bf",
+      "paragraphs": 50,
+      "characters": 3614,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第41章 被称作老板的男孩和三骑士（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0635",
+      "source": "OEBPS/Text/part0635.xhtml",
+      "sha256": "3cc52c03b34ec9cfe19ede4c7bbf74ac3f6bbac14a00be6528fefe463e5844e9",
+      "paragraphs": 60,
+      "characters": 3723,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第42章 被称作老板的男孩和三骑士（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0636",
+      "source": "OEBPS/Text/part0636.xhtml",
+      "sha256": "6f151b88aeb19878efa2264ff3c1a7b59793b1d29bdbc653454680abde54e84d",
+      "paragraphs": 95,
+      "characters": 4958,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第43章 倾国之艳——第四骑士（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0637",
+      "source": "OEBPS/Text/part0637.xhtml",
+      "sha256": "abbaefadc892eb29858b05cb28fb05b1ec675dbe5978be8aa70f1768da60ccbc",
+      "paragraphs": 57,
+      "characters": 3096,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第44章 倾国之艳——第四骑士（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0638",
+      "source": "OEBPS/Text/part0638.xhtml",
+      "sha256": "2bace2ab3c8ad1d874e7380ea8bfb18080ebf9946875377ba39e3e6e4e785708",
+      "paragraphs": 65,
+      "characters": 3188,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第45章 倾国之艳——第四骑士（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0639",
+      "source": "OEBPS/Text/part0639.xhtml",
+      "sha256": "bbc7ec017835349784c720129ea1b6ac1e7fd503cb0ef45230936379e901fa63",
+      "paragraphs": 0,
+      "characters": 0,
+      "headings": [],
+      "referenced_images": [
+        "../Images/image05094.jpeg"
+      ]
+    },
+    {
+      "stem": "part0640",
+      "source": "OEBPS/Text/part0640.xhtml",
+      "sha256": "f4fa4f7726e67586432c1d01ab18fa21857f248a8b1f3e426d20edd76782cec1",
+      "paragraphs": 4,
+      "characters": 30,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "版权信息"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0641",
+      "source": "OEBPS/Text/part0641.xhtml",
+      "sha256": "b2f7a9667f1897294a085e006a0af13831a152fcce8a57be02864eb6996d18c2",
+      "paragraphs": 54,
+      "characters": 695,
+      "headings": [],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0642",
+      "source": "OEBPS/Text/part0642.xhtml",
+      "sha256": "ac06a87e72ca5342d8708e02586a2555c564aedc702dd3d430dc71a489bd1700",
+      "paragraphs": 91,
+      "characters": 4974,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第1章 大夏龙雀（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0643",
+      "source": "OEBPS/Text/part0643.xhtml",
+      "sha256": "758d775b68eaffa873ee02147bb4ad31eff4b84077a5ebaba13ee4699b069e46",
+      "paragraphs": 57,
+      "characters": 3327,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第2章 大夏龙雀（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0644",
+      "source": "OEBPS/Text/part0644.xhtml",
+      "sha256": "e11517edd5408a346d3aa739ff0b3300bcab34ce33daf1a88726dcd79c090538",
+      "paragraphs": 58,
+      "characters": 3332,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第3章 大夏龙雀（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0645",
+      "source": "OEBPS/Text/part0645.xhtml",
+      "sha256": "910cccaa833bca6f26a5e2f14e031cf396c71fbed140419845ab74d581b33750",
+      "paragraphs": 90,
+      "characters": 4958,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第4章 机械女皇的契约（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0646",
+      "source": "OEBPS/Text/part0646.xhtml",
+      "sha256": "292335afcff1a733bfdd662263fe7b12972120c185f1d94cb397595a0639c8fa",
+      "paragraphs": 90,
+      "characters": 4991,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第5章 机械女皇的契约（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0647",
+      "source": "OEBPS/Text/part0647.xhtml",
+      "sha256": "7901d2c7e0a27445cca43be80f93e18d737d98b2cd9ec7b44c889cc190a6fbd4",
+      "paragraphs": 73,
+      "characters": 4225,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第6章 机械女皇的契约（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0648",
+      "source": "OEBPS/Text/part0648.xhtml",
+      "sha256": "181e730ae2e742da6095cb749f32934e34b9adee224e26432b2c934449bbce48",
+      "paragraphs": 70,
+      "characters": 4274,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第7章 机械女皇的契约（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0649",
+      "source": "OEBPS/Text/part0649.xhtml",
+      "sha256": "d8840d549f4240971c91364d1edcb3785d4bb5cba7680acb92c8d90a1af5186d",
+      "paragraphs": 92,
+      "characters": 4968,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第8章 炽天使的重临（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0650",
+      "source": "OEBPS/Text/part0650.xhtml",
+      "sha256": "31de81e0ffb6630c8ab3a16471152e8b933396498675ac5bfbc61dde2caf65f8",
+      "paragraphs": 96,
+      "characters": 4930,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第9章 炽天使的重临（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0651",
+      "source": "OEBPS/Text/part0651.xhtml",
+      "sha256": "4b8b30a70165f40ee891a5d2dea75385aefb9cb084d35c49a5da145e298f4d8c",
+      "paragraphs": 83,
+      "characters": 4965,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第10章 炽天使的重临（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0652",
+      "source": "OEBPS/Text/part0652.xhtml",
+      "sha256": "de8ba3860e2042a8e26250625a117b8559ff1a920d0bec9ccd0e0dbac18d649a",
+      "paragraphs": 91,
+      "characters": 4983,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第11章 炽天使的重临（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0653",
+      "source": "OEBPS/Text/part0653.xhtml",
+      "sha256": "3747f0389e052d70ac592807cdfdb566363ed38a502dc04eb3abe1d884d0cee7",
+      "paragraphs": 55,
+      "characters": 3437,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第12章 炽天使的重临（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0654",
+      "source": "OEBPS/Text/part0654.xhtml",
+      "sha256": "d25033b250a1908d458e240d8c8791217305c42a601f73a2cce5139fe2c557c7",
+      "paragraphs": 71,
+      "characters": 3440,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第13章 炽天使的重临（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0655",
+      "source": "OEBPS/Text/part0655.xhtml",
+      "sha256": "877dfd2f445bdf417d4c5204dc8ee0cae53d76f210c2251df3678f0e75632399",
+      "paragraphs": 64,
+      "characters": 3774,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第14章 中山之狼（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0656",
+      "source": "OEBPS/Text/part0656.xhtml",
+      "sha256": "14d741a7255e4a255cec99ba36c362b17cc9a31bdd7576f2c359ccc553f8e4c9",
+      "paragraphs": 67,
+      "characters": 3887,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第15章 中山之狼（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0657",
+      "source": "OEBPS/Text/part0657.xhtml",
+      "sha256": "fb2e6b64b9aa4a411623ec45871b7f6655e9ca8ec08108c2e63f040a2a797e21",
+      "paragraphs": 87,
+      "characters": 4995,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第16章 古洛诺斯的阴影（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0658",
+      "source": "OEBPS/Text/part0658.xhtml",
+      "sha256": "792dec4523bb5379e6174b1bfc4c47b33d19281112daa768e1394b2749093e8b",
+      "paragraphs": 87,
+      "characters": 4996,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第17章 古洛诺斯的阴影（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0659",
+      "source": "OEBPS/Text/part0659.xhtml",
+      "sha256": "5c2bae7cb3a70be8b09fcf61a8cd5b775bf66e31233d37bdc1f5a5504a578c3c",
+      "paragraphs": 87,
+      "characters": 4960,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第18章 古洛诺斯的阴影（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0660",
+      "source": "OEBPS/Text/part0660.xhtml",
+      "sha256": "cf287e1303cf163d75e3cda94833b0f787c1a76d6eefbd60c1476dc5dbc3dea5",
+      "paragraphs": 54,
+      "characters": 2683,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第19章 古洛诺斯的阴影（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0661",
+      "source": "OEBPS/Text/part0661.xhtml",
+      "sha256": "861920385e3053491fd703c197119471385c5e122fe05c8ef16dadaa39a88e3a",
+      "paragraphs": 49,
+      "characters": 2842,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第20章 古洛诺斯的阴影（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0662",
+      "source": "OEBPS/Text/part0662.xhtml",
+      "sha256": "0b056b6c36299887902c728aa27a6d6b44005f736a6134de0faf1e7add723516",
+      "paragraphs": 84,
+      "characters": 4951,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第21章 忍冬之女（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0663",
+      "source": "OEBPS/Text/part0663.xhtml",
+      "sha256": "c3da8a80c898ea36fa130975c5227d18c03b17389f93a0dd8672de20a592e416",
+      "paragraphs": 81,
+      "characters": 4959,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第22章 忍冬之女（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0664",
+      "source": "OEBPS/Text/part0664.xhtml",
+      "sha256": "c3c4fe246af982e047d5507c209c12d164869f1ba49cef8daf68ca1bf8d7dc90",
+      "paragraphs": 86,
+      "characters": 4989,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第23章 忍冬之女（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0665",
+      "source": "OEBPS/Text/part0665.xhtml",
+      "sha256": "6be0a00432e4c3c5b0ebcff4512deaec25bf86b5ccbe5a13118f076d3ae0161e",
+      "paragraphs": 57,
+      "characters": 3553,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第24章 忍冬之女（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0666",
+      "source": "OEBPS/Text/part0666.xhtml",
+      "sha256": "ac4e0cd40f778481430e1f7d7d7647f668f39658e69abeed81e210c1e60b4667",
+      "paragraphs": 69,
+      "characters": 3595,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第25章 忍冬之女（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0667",
+      "source": "OEBPS/Text/part0667.xhtml",
+      "sha256": "c4273ba3e94f02408cd12acef48f5e7d6b26f467bb8a6c52411a89242d606907",
+      "paragraphs": 88,
+      "characters": 4996,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第26章 屠龙者圣乔治（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0668",
+      "source": "OEBPS/Text/part0668.xhtml",
+      "sha256": "ecb37f6adce5d894b4cccfc0a599e2be7b1871e89bdf47172f7017e214e54280",
+      "paragraphs": 85,
+      "characters": 4984,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第27章 屠龙者圣乔治（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0669",
+      "source": "OEBPS/Text/part0669.xhtml",
+      "sha256": "66ea6ec2427f1063d846193f90d3a412867f64153284616e0644a98a86e223dd",
+      "paragraphs": 95,
+      "characters": 4919,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第28章 屠龙者圣乔治（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0670",
+      "source": "OEBPS/Text/part0670.xhtml",
+      "sha256": "74e0e1382222a2653c3d42ecb0982d67d08792be9950a1445456cc64d3fe47c2",
+      "paragraphs": 94,
+      "characters": 5003,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第29章 屠龙者圣乔治（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0671",
+      "source": "OEBPS/Text/part0671.xhtml",
+      "sha256": "cdbfb15cb9f66fa99f81b8dc09a4988002b537c5d39f9348524664386f7995b5",
+      "paragraphs": 80,
+      "characters": 4213,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第30章 屠龙者圣乔治（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0672",
+      "source": "OEBPS/Text/part0672.xhtml",
+      "sha256": "7a88f8039664a35d0d20ea547db270a1a9820aafb358ce31f18756c55954da08",
+      "paragraphs": 77,
+      "characters": 4303,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第31章 屠龙者圣乔治（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0673",
+      "source": "OEBPS/Text/part0673.xhtml",
+      "sha256": "c162a2da045b2e4a2b1a62c35a107af35e221e6a4a104d8a38d7c6fd021f4b7c",
+      "paragraphs": 88,
+      "characters": 5008,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第32章 远东公主的使者（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0674",
+      "source": "OEBPS/Text/part0674.xhtml",
+      "sha256": "7c24a4b8f9a85cc6c03f7fc6d1eb16baffb5bc069f69c55a95f25f4016ae881b",
+      "paragraphs": 81,
+      "characters": 4956,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第33章 远东公主的使者（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0675",
+      "source": "OEBPS/Text/part0675.xhtml",
+      "sha256": "1bf1ac91417297a2b5abc0323ccdd34d3a8e4b8f87f876826c28bc2e3fe87383",
+      "paragraphs": 102,
+      "characters": 4875,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第34章 远东公主的使者（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0676",
+      "source": "OEBPS/Text/part0676.xhtml",
+      "sha256": "8c27aa8a8647212a955b83dca504017641d3c7a3a341046d8c708a0bb1555c6f",
+      "paragraphs": 77,
+      "characters": 4524,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第35章 远东公主的使者（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0677",
+      "source": "OEBPS/Text/part0677.xhtml",
+      "sha256": "694de8730f1879e14980bef55998c8bb2f57896ce33e70a56d1af84d8a2049d1",
+      "paragraphs": 92,
+      "characters": 4645,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第36章 远东公主的使者（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0678",
+      "source": "OEBPS/Text/part0678.xhtml",
+      "sha256": "664a214b4c82a347e747e8aebd8a2ae0d0dc77a9ca587ef2b4566c83c94b7d1e",
+      "paragraphs": 88,
+      "characters": 4937,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第37章 暴风雨降临之前（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0679",
+      "source": "OEBPS/Text/part0679.xhtml",
+      "sha256": "23a5f2b434d8b7c64ce58d5e9993c03b33c796c6a77267b1c7d9534dc072b45b",
+      "paragraphs": 64,
+      "characters": 4962,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第38章 暴风雨降临之前（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0680",
+      "source": "OEBPS/Text/part0680.xhtml",
+      "sha256": "ffd7abe6bbe4d2c49bb04cc4e1e71d0a17c2acfe84c4fa62afe8053a4d176529",
+      "paragraphs": 80,
+      "characters": 4958,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第39章 暴风雨降临之前（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0681",
+      "source": "OEBPS/Text/part0681.xhtml",
+      "sha256": "c38c361c9bb19a231d744ad24215e556bbd45de7e283052708f7c8313c0fdbd4",
+      "paragraphs": 83,
+      "characters": 4910,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第40章 暴风雨降临之前（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0682",
+      "source": "OEBPS/Text/part0682.xhtml",
+      "sha256": "7a8b0d849a3abcbddb7bd24fa81d2528b068fcf34be98cb82e714be5e9ccca2a",
+      "paragraphs": 74,
+      "characters": 4244,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第41章 暴风雨降临之前（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0683",
+      "source": "OEBPS/Text/part0683.xhtml",
+      "sha256": "9960906b8da1496ba7a8ab6bcf66fc124dd3005079527c148602c2b59ecdd53c",
+      "paragraphs": 73,
+      "characters": 4353,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第42章 暴风雨降临之前（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0684",
+      "source": "OEBPS/Text/part0684.xhtml",
+      "sha256": "a99d4aa58fef96e05d4a0230a36766d027a502ad3236a8c3898e3debc7d16652",
+      "paragraphs": 98,
+      "characters": 5011,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第43章 命运前夜（1）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0685",
+      "source": "OEBPS/Text/part0685.xhtml",
+      "sha256": "73888c49bcdada14ce1c2bfc7c3b5ef5c3faf983c80c9d1fc65c1fe1e9cb1632",
+      "paragraphs": 87,
+      "characters": 4948,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第44章 命运前夜（2）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0686",
+      "source": "OEBPS/Text/part0686.xhtml",
+      "sha256": "fa15ba6532c0a1ae1f82c7dd6f310b68df33b48c90fa9ad98e7a61b601edd2da",
+      "paragraphs": 85,
+      "characters": 4948,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第45章 命运前夜（3）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0687",
+      "source": "OEBPS/Text/part0687.xhtml",
+      "sha256": "38a5610ebdc6c3756ef1644ec998f5862b389e0b3d93cf711c62c60a5fe975d0",
+      "paragraphs": 104,
+      "characters": 4985,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第46章 命运前夜（4）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0688",
+      "source": "OEBPS/Text/part0688.xhtml",
+      "sha256": "b95358a49f5f2490f6cab696ba572eaead6ea52215e815c01d803b0503a15bed",
+      "paragraphs": 82,
+      "characters": 4972,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第47章 命运前夜（5）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0689",
+      "source": "OEBPS/Text/part0689.xhtml",
+      "sha256": "9d8658cee0f250256fd7a484b02a3403347bafe1a38e6c6f60747ed6512dd5e0",
+      "paragraphs": 90,
+      "characters": 4984,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第48章 命运前夜（6）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0690",
+      "source": "OEBPS/Text/part0690.xhtml",
+      "sha256": "6cbe99dca8f85e41fa2036db9f84c1289cc2c1c52d5dada172acc020e1f7f8ef",
+      "paragraphs": 80,
+      "characters": 4979,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第49章 命运前夜（7）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0691",
+      "source": "OEBPS/Text/part0691.xhtml",
+      "sha256": "04dc8136b4774a4c416c1896b0b61f97c0bab04433c8668316df5506bfb3ca9c",
+      "paragraphs": 54,
+      "characters": 3088,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第50章 命运前夜（8）"
+        }
+      ],
+      "referenced_images": []
+    },
+    {
+      "stem": "part0692",
+      "source": "OEBPS/Text/part0692.xhtml",
+      "sha256": "0894fccc46a5c40d3e51a07b532d2aecb1f2c8a14d6f4d97cf1188996b1269d4",
+      "paragraphs": 64,
+      "characters": 3128,
+      "headings": [
+        {
+          "paragraph": 1,
+          "text": "第51章 命运前夜（9）"
+        }
+      ],
+      "referenced_images": []
+    }
+  ],
+  "navigation": [
+    {
+      "title": "天之炽Ⅱ：女武神1",
+      "src": "Text/part0591.xhtml"
+    },
+    {
+      "title": "版权信息",
+      "src": "Text/part0592.xhtml"
+    },
+    {
+      "title": "第1章 夜雨声烦之春（1）",
+      "src": "Text/part0594.xhtml"
+    },
+    {
+      "title": "第2章 夜雨声烦之春（2）",
+      "src": "Text/part0595.xhtml"
+    },
+    {
+      "title": "第3章 夜雨声烦之春（3）",
+      "src": "Text/part0596.xhtml"
+    },
+    {
+      "title": "第4章 夜雨声烦之春（4）",
+      "src": "Text/part0597.xhtml"
+    },
+    {
+      "title": "第5章 炽天之鬼（1）",
+      "src": "Text/part0598.xhtml"
+    },
+    {
+      "title": "第6章 炽天之鬼（2）",
+      "src": "Text/part0599.xhtml"
+    },
+    {
+      "title": "第7章 炽天之鬼（3）",
+      "src": "Text/part0600.xhtml"
+    },
+    {
+      "title": "第8章 炽天之鬼（4）",
+      "src": "Text/part0601.xhtml"
+    },
+    {
+      "title": "第9章 炽天之鬼（5）",
+      "src": "Text/part0602.xhtml"
+    },
+    {
+      "title": "第10章 炽天之鬼（6）",
+      "src": "Text/part0603.xhtml"
+    },
+    {
+      "title": "第11章 神圣家族（1）",
+      "src": "Text/part0604.xhtml"
+    },
+    {
+      "title": "第12章 神圣家族（2）",
+      "src": "Text/part0605.xhtml"
+    },
+    {
+      "title": "第13章 神圣家族（3）",
+      "src": "Text/part0606.xhtml"
+    },
+    {
+      "title": "第14章 神圣家族（4）",
+      "src": "Text/part0607.xhtml"
+    },
+    {
+      "title": "第15章 神圣家族（5）",
+      "src": "Text/part0608.xhtml"
+    },
+    {
+      "title": "第16章 神圣家族（6）",
+      "src": "Text/part0609.xhtml"
+    },
+    {
+      "title": "第17章 神圣家族（7）",
+      "src": "Text/part0610.xhtml"
+    },
+    {
+      "title": "第18章 神圣家族（8）",
+      "src": "Text/part0611.xhtml"
+    },
+    {
+      "title": "第19章 神圣家族（9）",
+      "src": "Text/part0612.xhtml"
+    },
+    {
+      "title": "第20章 神圣家族（10）",
+      "src": "Text/part0613.xhtml"
+    },
+    {
+      "title": "第21章 繁樱怒放之冬（1）",
+      "src": "Text/part0614.xhtml"
+    },
+    {
+      "title": "第22章 繁樱怒放之冬（2）",
+      "src": "Text/part0615.xhtml"
+    },
+    {
+      "title": "第23章 繁樱怒放之冬（3）",
+      "src": "Text/part0616.xhtml"
+    },
+    {
+      "title": "第24章 龙与莲花（1）",
+      "src": "Text/part0617.xhtml"
+    },
+    {
+      "title": "第25章 龙与莲花（2）",
+      "src": "Text/part0618.xhtml"
+    },
+    {
+      "title": "第26章 龙与莲花（3）",
+      "src": "Text/part0619.xhtml"
+    },
+    {
+      "title": "第27章 龙与莲花（4）",
+      "src": "Text/part0620.xhtml"
+    },
+    {
+      "title": "第28章 红龙狂舞之夜（1）",
+      "src": "Text/part0621.xhtml"
+    },
+    {
+      "title": "第29章 红龙狂舞之夜（2）",
+      "src": "Text/part0622.xhtml"
+    },
+    {
+      "title": "第30章 红龙狂舞之夜（3）",
+      "src": "Text/part0623.xhtml"
+    },
+    {
+      "title": "第31章 红龙狂舞之夜（4）",
+      "src": "Text/part0624.xhtml"
+    },
+    {
+      "title": "第32章 红龙狂舞之夜（5）",
+      "src": "Text/part0625.xhtml"
+    },
+    {
+      "title": "第33章 红龙狂舞之夜（6）",
+      "src": "Text/part0626.xhtml"
+    },
+    {
+      "title": "第34章 红龙狂舞之夜（7）",
+      "src": "Text/part0627.xhtml"
+    },
+    {
+      "title": "第35章 红龙狂舞之夜（8）",
+      "src": "Text/part0628.xhtml"
+    },
+    {
+      "title": "第36章 红龙狂舞之夜（9）",
+      "src": "Text/part0629.xhtml"
+    },
+    {
+      "title": "第37章 被称作老板的男孩和三骑士（1）",
+      "src": "Text/part0630.xhtml"
+    },
+    {
+      "title": "第38章 被称作老板的男孩和三骑士（2）",
+      "src": "Text/part0631.xhtml"
+    },
+    {
+      "title": "第39章 被称作老板的男孩和三骑士（3）",
+      "src": "Text/part0632.xhtml"
+    },
+    {
+      "title": "第40章 被称作老板的男孩和三骑士（4）",
+      "src": "Text/part0633.xhtml"
+    },
+    {
+      "title": "第41章 被称作老板的男孩和三骑士（5）",
+      "src": "Text/part0634.xhtml"
+    },
+    {
+      "title": "第42章 被称作老板的男孩和三骑士（6）",
+      "src": "Text/part0635.xhtml"
+    },
+    {
+      "title": "第43章 倾国之艳——第四骑士（1）",
+      "src": "Text/part0636.xhtml"
+    },
+    {
+      "title": "第44章 倾国之艳——第四骑士（2）",
+      "src": "Text/part0637.xhtml"
+    },
+    {
+      "title": "第45章 倾国之艳——第四骑士（3）",
+      "src": "Text/part0638.xhtml"
+    },
+    {
+      "title": "天之炽Ⅱ：女武神2",
+      "src": "Text/part0639.xhtml"
+    },
+    {
+      "title": "版权信息",
+      "src": "Text/part0640.xhtml"
+    },
+    {
+      "title": "第1章 大夏龙雀（1）",
+      "src": "Text/part0642.xhtml"
+    },
+    {
+      "title": "第2章 大夏龙雀（2）",
+      "src": "Text/part0643.xhtml"
+    },
+    {
+      "title": "第3章 大夏龙雀（3）",
+      "src": "Text/part0644.xhtml"
+    },
+    {
+      "title": "第4章 机械女皇的契约（1）",
+      "src": "Text/part0645.xhtml"
+    },
+    {
+      "title": "第5章 机械女皇的契约（2）",
+      "src": "Text/part0646.xhtml"
+    },
+    {
+      "title": "第6章 机械女皇的契约（3）",
+      "src": "Text/part0647.xhtml"
+    },
+    {
+      "title": "第7章 机械女皇的契约（4）",
+      "src": "Text/part0648.xhtml"
+    },
+    {
+      "title": "第8章 炽天使的重临（1）",
+      "src": "Text/part0649.xhtml"
+    },
+    {
+      "title": "第9章 炽天使的重临（2）",
+      "src": "Text/part0650.xhtml"
+    },
+    {
+      "title": "第10章 炽天使的重临（3）",
+      "src": "Text/part0651.xhtml"
+    },
+    {
+      "title": "第11章 炽天使的重临（4）",
+      "src": "Text/part0652.xhtml"
+    },
+    {
+      "title": "第12章 炽天使的重临（5）",
+      "src": "Text/part0653.xhtml"
+    },
+    {
+      "title": "第13章 炽天使的重临（6）",
+      "src": "Text/part0654.xhtml"
+    },
+    {
+      "title": "第14章 中山之狼（1）",
+      "src": "Text/part0655.xhtml"
+    },
+    {
+      "title": "第15章 中山之狼（2）",
+      "src": "Text/part0656.xhtml"
+    },
+    {
+      "title": "第16章 古洛诺斯的阴影（1）",
+      "src": "Text/part0657.xhtml"
+    },
+    {
+      "title": "第17章 古洛诺斯的阴影（2）",
+      "src": "Text/part0658.xhtml"
+    },
+    {
+      "title": "第18章 古洛诺斯的阴影（3）",
+      "src": "Text/part0659.xhtml"
+    },
+    {
+      "title": "第19章 古洛诺斯的阴影（4）",
+      "src": "Text/part0660.xhtml"
+    },
+    {
+      "title": "第20章 古洛诺斯的阴影（5）",
+      "src": "Text/part0661.xhtml"
+    },
+    {
+      "title": "第21章 忍冬之女（1）",
+      "src": "Text/part0662.xhtml"
+    },
+    {
+      "title": "第22章 忍冬之女（2）",
+      "src": "Text/part0663.xhtml"
+    },
+    {
+      "title": "第23章 忍冬之女（3）",
+      "src": "Text/part0664.xhtml"
+    },
+    {
+      "title": "第24章 忍冬之女（4）",
+      "src": "Text/part0665.xhtml"
+    },
+    {
+      "title": "第25章 忍冬之女（5）",
+      "src": "Text/part0666.xhtml"
+    },
+    {
+      "title": "第26章 屠龙者圣乔治（1）",
+      "src": "Text/part0667.xhtml"
+    },
+    {
+      "title": "第27章 屠龙者圣乔治（2）",
+      "src": "Text/part0668.xhtml"
+    },
+    {
+      "title": "第28章 屠龙者圣乔治（3）",
+      "src": "Text/part0669.xhtml"
+    },
+    {
+      "title": "第29章 屠龙者圣乔治（4）",
+      "src": "Text/part0670.xhtml"
+    },
+    {
+      "title": "第30章 屠龙者圣乔治（5）",
+      "src": "Text/part0671.xhtml"
+    },
+    {
+      "title": "第31章 屠龙者圣乔治（6）",
+      "src": "Text/part0672.xhtml"
+    },
+    {
+      "title": "第32章 远东公主的使者（1）",
+      "src": "Text/part0673.xhtml"
+    },
+    {
+      "title": "第33章 远东公主的使者（2）",
+      "src": "Text/part0674.xhtml"
+    },
+    {
+      "title": "第34章 远东公主的使者（3）",
+      "src": "Text/part0675.xhtml"
+    },
+    {
+      "title": "第35章 远东公主的使者（4）",
+      "src": "Text/part0676.xhtml"
+    },
+    {
+      "title": "第36章 远东公主的使者（5）",
+      "src": "Text/part0677.xhtml"
+    },
+    {
+      "title": "第37章 暴风雨降临之前（1）",
+      "src": "Text/part0678.xhtml"
+    },
+    {
+      "title": "第38章 暴风雨降临之前（2）",
+      "src": "Text/part0679.xhtml"
+    },
+    {
+      "title": "第39章 暴风雨降临之前（3）",
+      "src": "Text/part0680.xhtml"
+    },
+    {
+      "title": "第40章 暴风雨降临之前（4）",
+      "src": "Text/part0681.xhtml"
+    },
+    {
+      "title": "第41章 暴风雨降临之前（5）",
+      "src": "Text/part0682.xhtml"
+    },
+    {
+      "title": "第42章 暴风雨降临之前（6）",
+      "src": "Text/part0683.xhtml"
+    },
+    {
+      "title": "第43章 命运前夜（1）",
+      "src": "Text/part0684.xhtml"
+    },
+    {
+      "title": "第44章 命运前夜（2）",
+      "src": "Text/part0685.xhtml"
+    },
+    {
+      "title": "第45章 命运前夜（3）",
+      "src": "Text/part0686.xhtml"
+    },
+    {
+      "title": "第46章 命运前夜（4）",
+      "src": "Text/part0687.xhtml"
+    },
+    {
+      "title": "第47章 命运前夜（5）",
+      "src": "Text/part0688.xhtml"
+    },
+    {
+      "title": "第48章 命运前夜（6）",
+      "src": "Text/part0689.xhtml"
+    },
+    {
+      "title": "第49章 命运前夜（7）",
+      "src": "Text/part0690.xhtml"
+    },
+    {
+      "title": "第50章 命运前夜（8）",
+      "src": "Text/part0691.xhtml"
+    },
+    {
+      "title": "第51章 命运前夜（9）",
+      "src": "Text/part0692.xhtml"
+    }
+  ],
+  "groups": [
+    {
+      "number": 172,
+      "title": "夜雨声烦之春",
+      "documents": [
+        "part0594",
+        "part0595",
+        "part0596",
+        "part0597"
+      ],
+      "analysis_file": "ch172-tz2-spring.md"
+    },
+    {
+      "number": 173,
+      "title": "炽天之鬼",
+      "documents": [
+        "part0598",
+        "part0599",
+        "part0600",
+        "part0601",
+        "part0602",
+        "part0603"
+      ],
+      "analysis_file": "ch173-tz2-ghost.md"
+    },
+    {
+      "number": 174,
+      "title": "神圣家族",
+      "documents": [
+        "part0604",
+        "part0605",
+        "part0606",
+        "part0607",
+        "part0608",
+        "part0609",
+        "part0610",
+        "part0611",
+        "part0612",
+        "part0613"
+      ],
+      "analysis_file": "ch174-tz2-family.md"
+    },
+    {
+      "number": 175,
+      "title": "繁樱怒放之冬",
+      "documents": [
+        "part0614",
+        "part0615",
+        "part0616"
+      ],
+      "analysis_file": "ch175-tz2-winter.md"
+    },
+    {
+      "number": 176,
+      "title": "龙与莲花",
+      "documents": [
+        "part0617",
+        "part0618",
+        "part0619",
+        "part0620"
+      ],
+      "analysis_file": "ch176-tz2-lotus-war.md"
+    },
+    {
+      "number": 177,
+      "title": "红龙狂舞之夜",
+      "documents": [
+        "part0621",
+        "part0622",
+        "part0623",
+        "part0624",
+        "part0625",
+        "part0626",
+        "part0627",
+        "part0628",
+        "part0629"
+      ],
+      "analysis_file": "ch177-tz2-red-night.md"
+    },
+    {
+      "number": 178,
+      "title": "被称作老板的男孩和三骑士",
+      "documents": [
+        "part0630",
+        "part0631",
+        "part0632",
+        "part0633",
+        "part0634",
+        "part0635"
+      ],
+      "analysis_file": "ch178-tz2-three-knights.md"
+    },
+    {
+      "number": 179,
+      "title": "倾国之艳——第四骑士",
+      "documents": [
+        "part0636",
+        "part0637",
+        "part0638"
+      ],
+      "analysis_file": "ch179-tz2-fourth-knight.md"
+    },
+    {
+      "number": 180,
+      "title": "大夏龙雀",
+      "documents": [
+        "part0642",
+        "part0643",
+        "part0644"
+      ],
+      "analysis_file": "ch180-tz2-dragon-raven.md"
+    },
+    {
+      "number": 181,
+      "title": "机械女皇的契约",
+      "documents": [
+        "part0645",
+        "part0646",
+        "part0647",
+        "part0648"
+      ],
+      "analysis_file": "ch181-tz2-contract.md"
+    },
+    {
+      "number": 182,
+      "title": "炽天使的重临",
+      "documents": [
+        "part0649",
+        "part0650",
+        "part0651",
+        "part0652",
+        "part0653",
+        "part0654"
+      ],
+      "analysis_file": "ch182-tz2-return.md"
+    },
+    {
+      "number": 183,
+      "title": "中山之狼",
+      "documents": [
+        "part0655",
+        "part0656"
+      ],
+      "analysis_file": "ch183-tz2-wolf.md"
+    },
+    {
+      "number": 184,
+      "title": "古洛诺斯的阴影",
+      "documents": [
+        "part0657",
+        "part0658",
+        "part0659",
+        "part0660",
+        "part0661"
+      ],
+      "analysis_file": "ch184-tz2-shadow.md"
+    },
+    {
+      "number": 185,
+      "title": "忍冬之女",
+      "documents": [
+        "part0662",
+        "part0663",
+        "part0664",
+        "part0665",
+        "part0666"
+      ],
+      "analysis_file": "ch185-tz2-honeysuckle.md"
+    },
+    {
+      "number": 186,
+      "title": "屠龙者圣乔治",
+      "documents": [
+        "part0667",
+        "part0668",
+        "part0669",
+        "part0670",
+        "part0671",
+        "part0672"
+      ],
+      "analysis_file": "ch186-tz2-saint-george.md"
+    },
+    {
+      "number": 187,
+      "title": "远东公主的使者",
+      "documents": [
+        "part0673",
+        "part0674",
+        "part0675",
+        "part0676",
+        "part0677"
+      ],
+      "analysis_file": "ch187-tz2-envoy.md"
+    },
+    {
+      "number": 188,
+      "title": "暴风雨降临之前",
+      "documents": [
+        "part0678",
+        "part0679",
+        "part0680",
+        "part0681",
+        "part0682",
+        "part0683"
+      ],
+      "analysis_file": "ch188-tz2-before-storm.md"
+    },
+    {
+      "number": 189,
+      "title": "命运前夜",
+      "documents": [
+        "part0684",
+        "part0685",
+        "part0686",
+        "part0687",
+        "part0688",
+        "part0689",
+        "part0690",
+        "part0691",
+        "part0692"
+      ],
+      "analysis_file": "ch189-tz2-eve.md"
+    }
+  ],
+  "analysis_files": [
+    "ch172-tz2-spring.md",
+    "ch173-tz2-ghost.md",
+    "ch174-tz2-family.md",
+    "ch175-tz2-winter.md",
+    "ch176-tz2-lotus-war.md",
+    "ch177-tz2-red-night.md",
+    "ch178-tz2-three-knights.md",
+    "ch179-tz2-fourth-knight.md",
+    "ch180-tz2-dragon-raven.md",
+    "ch181-tz2-contract.md",
+    "ch182-tz2-return.md",
+    "ch183-tz2-wolf.md",
+    "ch184-tz2-shadow.md",
+    "ch185-tz2-honeysuckle.md",
+    "ch186-tz2-saint-george.md",
+    "ch187-tz2-envoy.md",
+    "ch188-tz2-before-storm.md",
+    "ch189-tz2-eve.md"
+  ],
+  "reading_ledger": [
+    {
+      "id": 1,
+      "first": "tz2:part0592:P0001",
+      "last": "tz2:part0594:P0070",
+      "blocks": 122,
+      "status": "read",
+      "note": "第二册两部分均版权只标题作者无ISBN日期出版方。1876克里特夜雨开场先温柔报额外招生，再枕压杀；读者先见危害、莉尚在回想帮助。她由男孩缩避摸头改握手尊重，装睡凭眼球细节识出，不凭玄感。母美用将落繁樱与空眼荒原并置，岛上情妇野种是流言不确证。西七岁求学为治母非单求声望；常规名额被垄断，老师用画展红衣主教推荐找旁路，亲画淡底让其上色有帮助与代作双面，不提炼作弊教程或母病医学。"
+    },
+    {
+      "id": 2,
+      "first": "tz2:part0594:P0071",
+      "last": "tz2:part0595:P0050",
+      "blocks": 78,
+      "status": "read",
+      "note": "莉借画讲虔诚升旗故事迎合主教是真策略而非作品旁白认证小西虔诚。休息室点亮本熄蜡烛、先看粗野再黄金圣徽反转阶层预期；来者称学生家长未报父名。校园骑士团自谓护莉、莉不知，其结盟目标与领袖私人怕父再娶不同，后补内情不合一。母亲独待贝父温柔是可见但缘由未明，不以男人物化她的谩骂当事实。西反击被辱母妹后发生、平静砸石不等无情绪。男孩见亮灯车声叫爸爸，依据岛上稀有车，尚未确认来者身份。"
+    },
+    {
+      "id": 3,
+      "first": "tz2:part0595:P0051",
+      "last": "tz2:part0597:P0006",
+      "blocks": 95,
+      "status": "read",
+      "note": "强光误叫父因脸相似、车稀有；后见数十车与军/莉亲报父才纠正。母对贝父温柔被叙述解作认错相似男人，不凭她自主恋爱推断。西不愿拥抱因能保护却未护，与父柔弱幻想不合。烟燃半支给选择时限，他到门口才答愿，仍承父也是伤家者；父权力论是诱导取舍非普遍爱的真理。莉知道装乖仍帮，装睡眼球识别后补自己童年同经验，具体照护继承链；成功回来/失败也回来松动只许成功。男孩治母之外又承被赶就要回，多动机分次说。父教皇身份到临别才向他说明，读者较早能猜不等幼童已知。"
+    },
+    {
+      "id": 4,
+      "first": "tz2:part0597:P0007",
+      "last": "tz2:part0598:P0043",
+      "blocks": 92,
+      "status": "read",
+      "note": "贵宾列车等12小时、全家收礼遇与贝父拒母有同权力改变，但把只余惧/被欺是西当下体会不作者事实。妹妹未尝糖问新城、西自己也忘味，亲情有年龄与记忆差。同行回城却母妹先走、西留月台受训，与周围团聚相反；人流礁石比依众动他静。托雷斯挡日光显压却拿巧克力，西先握因惊讶、顾对方面才吃；骑士强硬外表与大男孩并存。私聊父权受枢会制约、婚姻代价多托说法，西猜父远看又自否，不当亲见。章首前导摘句是后文重现，不把摘要与正文计两次独立场景。"
+    },
+    {
+      "id": 5,
+      "first": "tz2:part0598:P0044",
+      "last": "tz2:part0599:P0039",
+      "blocks": 92,
+      "status": "read",
+      "note": "废弃工业区先给地表锈架废站、向下斜道和转运平板车，才揭地下仍生产，过时解释修正但残骸真废。钢水火柱及运输纵横先有功能再神国感。叹息墙刚讲永不摧便实验体破，绝对称谓与现场危险相接，出口另一道门确挡住逃逸，不是一门全部无限强。托雷斯听警报恭敬拉手转暴力拽退保护，刀枪无效后按小西头闪仍受伤，本领强不等能胜。黑甲怪物后露苍白细腿才确认孩童，医者挡视线也漏局部；死亡和新实验对象传话增强威胁。95%脑坏死和神经侵蚀仅幻想叙述不医理；提母妹令孩子压住怕，保护和强迫接受试验并存。"
+    },
+    {
+      "id": 6,
+      "first": "tz2:part0599:P0040",
+      "last": "tz2:part0600:P0027",
+      "blocks": 78,
+      "status": "read",
+      "note": "教授出场油脸开拉链使层层恐怖暂松，转谈技术铿锵后又误猜小西想能吃吗，小西内心否认而嘴不说，不把他真读心。少年之死被概括事故，小西的未平复与教授技术物化冲突；实验责任归军监督是教授自述，死亡契约不认可普遍正当。灯从四方亮才识自己坐冰库中央与甲群位置，湿冷消毒味有先兆。第一次见怪未识甲、露腿知孩，再看古甲才重释。神经技术、十万一、紫瞳适格全小说设定/教授说法；他也承不问孤儿理由，不全知。新目标群高处军官低处孩的视线与军徽动作共同显权力。"
+    },
+    {
+      "id": 7,
+      "first": "tz2:part0600:P0028",
+      "last": "tz2:part0601:P0034",
+      "blocks": 89,
+      "status": "read",
+      "note": "托雷斯护送与不忍同在仍撤到平台，自己为妹做骑士给小西可理解的具体动机。教授一直调参数未看场→高平台才见两实验场，十米门隔让小西不知对手，视域差不是全员失察。军部以平行非干预狭义辩权限，副官礼与真实竞争并存，平行实验不稀有但对手是优选黑龙。小西口说很好与体征冲突，教授能读心跳液体不等知恐惧全部想法。先说电火花却真电暴，语义轻与身体强对比；耳机噪音又使安抚效弱。椅看像刑具、坐觉包裹舒适、后变锁束，分阶段两面非一眼定性。神经/神学/电流均小说，不给现实操作。"
+    },
+    {
+      "id": 8,
+      "first": "tz2:part0601:P0035",
+      "last": "tz2:part0602:P0031",
+      "blocks": 93,
+      "status": "read",
+      "note": "教授承诺极限前救出，私下亲承无人知极限无救援；托雷斯惊说明先前不是共同明知骗局，不能洗成全安全。控制住咽喉无声被教授解为意志仍在，是书内解释不医学判据。军部见耦合80本可停、教授追92竞争，加速目标不等单保命。幻觉跳荒原果尸/殿堂水/青铜钟后入四岁雨夜，以失母拥抱的记忆给动机，改过去是西幻觉愿望非真的改时空。梦里握刀爬膝走、现实甲攥空手对应，身体动作在两线有不同对象；主角不知控制台，读者见耦合高同时体征危险，进展与存活分开。奥副官眼色升隔门人为让双实验相见，平行不干预的前说被实际改动推翻。"
+    },
+    {
+      "id": 9,
+      "first": "tz2:part0602:P0032",
+      "last": "tz2:part0603:P0037",
+      "blocks": 84,
+      "status": "read",
+      "note": "实验转强迫实战：有电缆时控制台重置左臂真有效也推体征危险；托决定生命先于前途、教授终于伸安全阀，西跃起扯断缆同失外控与外援，无线体征仍在，不能说仪器全没用。黑龙奉放手令才爆发，肢端甲断传痛但没直接断人体腕，保持人/甲尺度区别。奥放任掐人后见己方将死才叫停，前后目标一致保己筹码。西幻觉承认旧事已发生不能改、此时恨城明说，早治母护妹动机不取消。接驳全红却有生命信号右手仍动是新异常，角色惊疑恶魔非已确证附体；残甲液体黑画布花比依颜色/甩洒结果，不把血腥当默认风格。"
+    },
+    {
+      "id": 10,
+      "first": "tz2:part0603:P0038",
+      "last": "tz2:part0604:P0046",
+      "blocks": 81,
+      "status": "read",
+      "note": "托不在身侧先被教授临报告才察→第三甲出只炽天使可止的条件→断链分两孩再拔舱救，后揭托面，不凭空天降无职业/设备基础；临时第三甲如何武装未逐步写，别称全程已伏。违规可能终监但两派都乐免追，权力例外实际成。黑龙=龙德本名由醒后告，不能此前紫瞳猜他。父暗第三台看完全且说未想叫停，补先前位置盲区不回填全员知。输血两日恢复而黑龙一天，胜负/体损分开。严肃重大问题竟饿吗、肚响证，照护转日常降宏大层。军籍徽章权利与火焰差、楼层军衔和炽天自决分组织来源，军部非统一敌，不把骑士保护等于人人忠主。"
+    },
+    {
+      "id": 11,
+      "first": "tz2:part0604:P0047",
+      "last": "tz2:part0605:P0037",
+      "blocks": 71,
+      "status": "read",
+      "note": "通门权限只够一扇、父背挡第二椅、绕后才见，各视点限制有具体物理。父续交易承考验仅暂保家人、下一层团长/东方总督，目标逐级延后，不把通过实验当永久安全。技术讲解沿最初竟最强的疑问→史前零件耗尽→为何东方，不纯百科；教皇承自己知极少，宗教公开史与内幕角色说法不同。征东方为遗迹并非已完成，三年军成/22退是计划，不外推神经年龄科学。托窗外见吻戒能知交易成，回忆其当年司机早在场补其知识来源，但砸整个世界是托猜。父说第一眼选中与到岛原意仅迁/现场改意相接，不写从生就全盘预谋。"
+    },
+    {
+      "id": 12,
+      "first": "tz2:part0605:P0038",
+      "last": "tz2:part0606:P0057",
+      "blocks": 91,
+      "status": "read",
+      "note": "六份文件按签字动作实际给牧财/秘书长/戒/军籍/银行年金/屋产权，标题光环与可用资源挂钩；年金说每月160不纠称年金。四季压多年训练：春跑累托说别跑却惯在前树等、西明知故继续，保护与高压并存，撕心脏诊断是小说人物危险选择不训练建议；夏128次对抗但教授仍追黑龙，秋参会低耳语显智，冬棋盘巨格+机械算损显军政分能力。1881十二/回第六年可包首尾，不乱列年表错。家族私谈亲认切母脑决断，补旧幻觉的独立角色口供；不等异端祭子罪属实。早餐花/汤偏好、母等与妹追闹、西无所谓但防刺动作显照顾，荣华不抵家空寂。"
+    },
+    {
+      "id": 13,
+      "first": "tz2:part0606:P0058",
+      "last": "tz2:part0607:P0044",
+      "blocks": 81,
+      "status": "read",
+      "note": "哥哥从撤厨仆到改搜裙袋，因为认识不是仆对抗而妹能争得，权威有反馈后的调整，巧克力骨头各用途非同偷吃。药一针改半针、拉丁不及格取消及过给两份，是具体关切/控制，不当药量指南。叩门本普通却绕警卫无通报才险，老邮差仪态/家徽验章→家族邮差特许解释异常，非所有礼貌人可信。托谈顶层先自承道听途说，机器家族/法律例外限世界说明。托以为获邀犹豫，西视线到母才说想见仇者，荣耀/挑战/复仇同邀请不同需要。去封邑路窄无人/谷河声龙喻与地图合法进入相连；三百遍提醒/只有12岁打断成人婚姻劝，有互动口气不是固定口头禅。"
+    },
+    {
+      "id": 14,
+      "first": "tz2:part0607:P0045",
+      "last": "tz2:part0608:P0043",
+      "blocks": 86,
+      "status": "read",
+      "note": "托承照顾有任务与攀附私心，西记其只说一次妹妹而愿让喜欢人幸福，利益未取消真情；此前救命行为也保留。宏桥用深谷石柱水雾让云中视觉有来源。托送离无资格，半途以教皇随员令折返才得入，通行理由变不凭空跟进；父责未报邀请，他服西意确漏职责。家长抱孩子甜点慈祥真场面、西感缺的可放松家族，与被害母仇怨并存，不叫全是假骗局。葡萄汁似酒实儿饮、女孩握扯耳语/领门与座位示范使他较不孤独；后面动机未解。镜厅反射许多自身、位置中近上首具体待遇。路胡婚生排序和西法律外身份分别，不以年龄排行混法定。"
+    },
+    {
+      "id": 15,
+      "first": "tz2:part0608:P0044",
+      "last": "tz2:part0609:P0039",
+      "blocks": 76,
+      "status": "read",
+      "note": "自介模板名字母亲成就轮流，前几人家长代补谦虚未说成就、路16入学胜佩17令脸变，不同省略实际竞争。西说母东方名别无爵后你们没忘她，模板破裂有先例准备；随后叙述明纠托想法：来本查蛛丝马迹非必发难，人人骄母触怒才脱口，不能过读全早算好。家长笑挥下一位空拳，不显动摇不证明无罪。闲聊马老/职位愿望→赠马推荐与教职，资源分配有具体信件与履行承诺，赠珠舞裙非只排财富词。离席想赶回妹晚安，又礼物触第二反话引冈挑战，家长叫娱乐暗惩；是托推导顺势控制，冈是否预授意未定。"
+    },
+    {
+      "id": 16,
+      "first": "tz2:part0609:P0040",
+      "last": "tz2:part0610:P0046",
+      "blocks": 80,
+      "status": "read",
+      "note": "晚宴惩/选拔先托推顺势，随后两人专甲与预备中校肩章明示早备对决，不论冒犯与否，纠上一块只顺势的解释。嗅煤早知地下机械是此时才补西早观察，先前只寒香，不夸充分公平伏笔。镜墙移显托，西先惊后笑，对方同笑摸鼻互通识甲强弱，具体内容后才说。海格架战地可用/巴别初次用区分设备不是随便换称。父不知冈是谁、托提供资料，父非全知。装甲强30%更高/首扔手套无先检故难指作弊，几条终止条件五分钟先列，与谁先取龙牙仅一把、退选闪虎连接。托断言选错战场是其信心未成效；杀人者更有效率为叙述概括不当普遍人性规则。"
+    },
+    {
+      "id": 17,
+      "first": "tz2:part0610:P0047",
+      "last": "tz2:part0611:P0038",
+      "blocks": 73,
+      "status": "read",
+      "note": "冈握松利爪识接入故障正确，过推西不如黑龙全能力；重剑真重击却需复平衡，蒸汽溢近看台时间走。家长便宜孩子言露冈不是王培养对象，父反刺客可杀君不等价值高，托插话引赌30秒命换永久邀，有具体文件目标非无条件替人送死。枪真顶后托也怕，训练信心与恐惧并存。赌声打断西失接反后仰，却腿刃反切腕；摸鼻身体习惯到甲爪实际摘面甲，媒介条件改变动作。近身黏钩限制长剑动力优势，不是数值加大；狂化后从未再现→托据旧动作训练新打法、128对抗铺大训练但具体拳法此时后补，首次实战非已保证必胜。30秒含余地与实际秒数分别。"
+    },
+    {
+      "id": 18,
+      "first": "tz2:part0611:P0039",
+      "last": "tz2:part0612:P0037",
+      "blocks": 79,
+      "status": "read",
+      "note": "倒数10至0胜负拆阶段：控制对手未认输/未失能且秒未尽，转身走误判完局，动力弱仍限制被抱挣不掉；托未教残忍非其全没训练。冈竞争前途与喜欢女孩欲望支撑绝望反扑，不只为了拖主角。枪响托倒→西回忆实说过多句连串、偏没听叮嘱，真假自责分开，不认世界全因他。林中自辩不重要/私心/我骗他与心痛冲突，反复说对方笨尝试硬心未成；拿石头到松石放弃有实际动作。托后来活着解释空包+卫士按倒不许声，具体此时才补，不称前文已有充分可推线索；他尾随怕西未解除失控，仅知外表伤不知内心长论。皮手套摘握传温验证活体局部，不现实诊断/药理/狼知识。"
+    },
+    {
+      "id": 19,
+      "first": "tz2:part0612:P0038",
+      "last": "tz2:part0614:P0014",
+      "blocks": 82,
+      "status": "read",
+      "note": "托活握温后少年才号哭，之前不哭非没有痛，托女孩子笑是人物性别话不通用规范。桥雕损/铁门扭/夏宫外伤留狂化代价，家长利用与防反并谈，贝受罚后揭奉命亲近而仍真努力，不能凭此证此前全假。金永久邀+中校章真给，但托明说不是赌赢、是家族利用价值赠；承诺已烧毁物不等权力全消。托强调听话vs隐忍须自己判断，具体内情未查且不肯定谁下令，与读者已闻家族承认命令形成知识差。讲完隐忍西焚礼物仍拒赠资源而再努力，动作不是全悟言听计从。西称一看贝试探是事后自述，不能抹前叙述真实吸引/温暖；训练公开后不再抗黑龙适用条件变化。"
+    },
+    {
+      "id": 20,
+      "first": "tz2:part0614:P0015",
+      "last": "tz2:part0615:P0013",
+      "blocks": 80,
+      "status": "read",
+      "note": "1884十五岁少校仍因拒礼，后证焚章并非无成本，政军逐年仍有所得。护妹看庆典具体视域/六卫分配/母留车，妹吵原为见父临场才明，西改不抱下是关切改变行动；兄不武装体弱抱妹变重保留能力限制。哥哥连问连短答有角色节奏，猫狗比依声音回应不等贬人。踩裙露体使妹开心是西刻薄伤人真行为，不美化体贴/恶作剧无代价，也非文学技巧建议。父看妹不冷敌，托由镜腿侧刚能看眼，推女像母仍标猜；公主封与年金父私争女不知。庆典身份平等表演与后酒会筛客分层，母静等2h西仍不愿久等。护卫布置后人群挡回路、母竟出车危险在既定条件中，不替书中戒备称已安全。"
+    },
+    {
+      "id": 21,
+      "first": "tz2:part0615:P0014",
+      "last": "tz2:part0616:P0033",
+      "blocks": 81,
+      "status": "read",
+      "note": "找母蓝裙本显眼→随贵族群同东方丝绸而失辨，场景背景改变可见性，不物颜色变；护母安全布置并未防父从窗过触发她追。守门骑士先赠婚钱显普通窘，与护大贵族身份差有真交往；西入门凭本就邀与军徽非以暴突破。托称未邀不可能入/西猜父不在均被后母与换礼服父出现推翻，人物判断标范围。贝红酒截道歉说两清，男伴当得意、西反认旧夜伤人后果；不全以她任务否定情绪。角落哭声识母、墙臂半封空间构骚扰，沉默被当可追/同意后才识认知状态，是贵族误判不正当性证据。父本人握臂驱人、非标志衣被漏认，母眼空转有神采，父退一步如敌非确定治愈。"
+    },
+    {
+      "id": 22,
+      "first": "tz2:part0616:P0034",
+      "last": "tz2:part0617:P0047",
+      "blocks": 89,
+      "status": "read",
+      "note": "父要卫送走→摸烟空口袋→转身看伸手→推眼镜→牵手舞，熟托解释烦躁/藏眼有长随经历，并未让所有宾客读出。裙随旋转开到收同前册TC4可作对照，不另造新花比理论。西本怕见面却见母有生机说算了，具体观察改当前需要，不取消后果；舞完父即离，西拥母遮目/呆滞，再母仍争找父，不能称完全复苏。有人怕母记起事，是未知身份窃语/推测手术残留，不自动全查清。警报打断舞后离场接宣战，非宣布舞导致战争。登陆先贫少年挖菌猎犬警→误熊→日光雾揭船炮队，军事到来有外部普通视角；西不阻吹哨因信胜券，后果待验。莲花名因国号但不真盛花，托承不知来由，不全知。"
+    },
+    {
+      "id": 23,
+      "first": "tz2:part0617:P0048",
+      "last": "tz2:part0618:P0043",
+      "blocks": 88,
+      "status": "read",
+      "note": "远射碎像确中、西误推对方必投降，日间山花骑车轻到日落无降书转重，景色与收到消息共变不是天气自动象征。托说武器非全无效提醒臼炮/滚石，备副汽包与雾战收益明确，炽天强仍材料/射区限制。足印杂乱→平民逃队→猜君先走空城又想示弱，推理保留可能；青年解手到近处发现甲，枪对眼不杀与前主张投降一致。城门开贵纱丢与兵弃枪支逐条支持信心但未查全；西曾读军部资料才知建筑地震木基与标志，不无故世界全知，木处理只是小说内说法。无线报告能清晰来自侦察机动分工，雾仍看不见友，报告多好不等全安全。轻木市集水渠日常结构可能后参与战术，待核后效。"
+    },
+    {
+      "id": 24,
+      "first": "tz2:part0618:P0044",
+      "last": "tz2:part0619:P0041",
+      "blocks": 83,
+      "status": "read",
+      "note": "布熊联妹旧物激发善意、伸手搅雾才见十八九，回想先逃队男女老人缺孩（此前确列无孩）触错，面甲刚摘又增近击风险；不是一善心必受惩罚规则，红水银爆物仅幻想不复述制作。臼炮广场射区早知慢转难准→空城误入，强甲可碎片避非直击，初伤者真死。训练有思路但怕错不下令，托有方案却非指挥官队不从，紧急滚石时才执行，权限/情势变化。人海先被解拖住不让会黑龙，后炮沉默未遭破坏→其实校弹并推着弹点，托也后知漏算，不能全程神指导。指挥官战利品保护阵非西知战术；救少数要付人命，西羞怒而非安心。战场只胜即对是角色临悟不通用正当判断。"
+    },
+    {
+      "id": 25,
+      "first": "tz2:part0619:P0042",
+      "last": "tz2:part0620:P0037",
+      "blocks": 85,
+      "status": "read",
+      "note": "存活逐号报告到九号生被炮截断，声的中止比抽象损失具体；西看不见外矛，外视角给钢铁壁被刺，通信仍能听托故误以无伤。黑龙真突来救、锡兰拼命拖又调整射，西早猜敌方不救被行动修正，援军意愿不等立即抵达。剑风忽听不见→回看才见托跪，先前截断矛柄不呈细节后补贯体，能作延后释伤但不夸可预判全部。托说不是空包与三年前对照，西抱想救却伤更大必须放，帮助限身体状态。拿妹妹作活因眼亮后托承妹早夭，初见像小女孩才那么说；不能将全部照护认纯骗/临终强念万能。阵亡明确，士兵外记只见狂杀王者疲，少知私下对话。西归罪抵抗后又恨不起来是其混乱内心非战争免责。"
+    },
+    {
+      "id": 26,
+      "first": "tz2:part0620:P0038",
+      "last": "tz2:part0621:P0031",
+      "blocks": 90,
+      "status": "read",
+      "note": "锡兰王问弱家人使西说不下，脱甲自认公平但明知对方致伤；偏侧冲出误判伏杀→王丢剑护孩子→孩子叫老师/不听撤留下→临死讨夸，原解释被行动纠。最后才见石头重回童年攥石、敌我识别动摇，不能写所有弱者等同主角/对话已永久改其立场。莲花为何国号先托不知后王答根相连，地方名按不同来源逐步释，非已证植物学。西没当场杀王但秋经审处决，有限放过不保证活。战役两天与九月准备善后分时，归来窗角托缺席/梦少了非全无悲。门虚掩违碧儿巡夜惯例→冷旧床→灰→炭被水灭后才拿枪叫潜人，具体排查非直觉全知；异审权限独立于教皇说明何以能拘家人。"
+    },
+    {
+      "id": 27,
+      "first": "tz2:part0621:P0032",
+      "last": "tz2:part0622:P0026",
+      "blocks": 85,
+      "status": "read",
+      "note": "执行官恭请给大氅/口称英雄、截至此时都好有期限，礼貌与拘押威胁并存；借西斯廷非本部追问地址令中校称只执行者，不确定是否真不知。案卷照片签名构真有证物但来源受控，西按母认知/旧术/舞推诬害，不能仅照片就判罪真。代理反复小手术/补完/保护的轻辞和强制火刑选择对比，西拍枪表达不等真有能力闯，离甲被算时机。留母受拘于旧狱但丝褥清洁真布置，两面并存不称没苦；手温只让西安心未证明所有医学健康。喊母与冷谈判声变化有对象，不给他固定冷酷声线。猫记忆七天等原叙述概括不现实常识；母不懂回家承诺西仍说，是情感用途非信息传达效率。"
+    },
+    {
+      "id": 28,
+      "first": "tz2:part0622:P0027",
+      "last": "tz2:part0623:P0024",
+      "blocks": 83,
+      "status": "read",
+      "note": "同门新年获邀顺进/今需通报被斧拦，两次条件变而不权限任变。西用命逼宫求特赦，史宾分教皇签名和枢会批准解释越权后果；西从归父无情到承受制度受制，同时仍问权力何用，不能解释权威就道德说服全。三叹息分阻止/说明/递早藏木盒石，父给石意义西列两种疑问未确答，不擅解释父暗示何种行动。手术医生以印手续签处刑人却疑罪，专业技术不等独立事实认证。审判代理怕对教皇多得罪→让人看过程和清场，局部权限可谈但非救命自由。医生自称银绝不感染/无伤与切脑惩罚冲突，仅人物安抚不现实医疗。席位由初单对审变医生第三，西礼貌握手称拜托和未带武器只是表面，待后核实实际行动。"
+    },
+    {
+      "id": 29,
+      "first": "tz2:part0623:P0025",
+      "last": "tz2:part0624:P0020",
+      "blocks": 93,
+      "status": "read",
+      "note": "医生被伤仍留命是西据其敢当面看母推非同党，只能说明角色推断，不客观证明全案。关门借旧囚牢坚固暂挡，审察连续解释声突停觉不对，敌非全盲；临时清场和安慰母真有用但不瞒全程。万能钥此前未展示、飞艇送甲此时新来，不能把整个营救夸成事先完整铺陈；上层也按权限质问谁能调飞艇，尚未直名父下令。飞艇云层相对安全降高为准投成被击毁，收益与代价同因位置。预备三轮延迟与脚步/指麻/嘶声变，不是原词重复原地；烛台光踩灭蜡油泼有具体动作暗扩非神术。母被救抱仍不识西而挣，盾需护头，战斗持续照顾对象有新约束。"
+    },
+    {
+      "id": 30,
+      "first": "tz2:part0624:P0021",
+      "last": "tz2:part0625:P0018",
+      "blocks": 88,
+      "status": "read",
+      "note": "西此时亲解父石=已得甲该挥，且叙述说父如约送红龙改确认前飞艇支援父；石含义从先两猜到自选理解，不必升格父从头所有算好。救母也真伤执行官，强甲容量/究极盾价值新解释，敌两剑上下协同时举盾暂失母护的约束在场；旧近格战术现在不狂化也熟，前“公开对黑龙无效”是托判断非全部敌无效。对认输敌仍钉机械脚踝为防偷袭，承上冈故事可对照但不当现实处置指导。电话战报与沙盘把现场伤亡换成上层测试，未全阻止升级；执行官看到焚城弹才溃，敌亦被弃。西忆旧人墙后选掷矛空爆救部分敌仍烧伤骑士/飞艇死，局部成功不说无伤英雄。武器性能全幻想不现实配方。"
+    },
+    {
+      "id": 31,
+      "first": "tz2:part0625:P0019",
+      "last": "tz2:part0626:P0016",
+      "blocks": 87,
+      "status": "read",
+      "note": "改型伤在此前矛腹已写此刻揭人伤，密弹削甲→矛贯有累积物性，不宣前枪全无作用。休息地点地图已给、战车从民宅墙出，先入后砌解释此时新补，不能说普通屋真能驶入。维修能源/装甲/膝需时不同，备件有才六分，人不能换件且再兴奋剂可能死，争论限制无声神速修复。蒙面教授口误密涅瓦→部下纠路过机械师，有协作口气与证据风险而非真躲所有人。西猜当狗对象真旧压榨，教授我们的狗护短触暖，但未取消实验伤；不能因此一律藏好心。修甲不能带母出全城，援助范围明。布防图几分钟前消息/住宅豪门禁大炮路线/使馆外交限制是方案未保证，焚图毁罪证有代价。西承手术方案有诱惑、为母记忆中的爱改用战，拒父不等拒母愿望。"
+    },
+    {
+      "id": 32,
+      "first": "tz2:part0626:P0017",
+      "last": "tz2:part0627:P0011",
+      "blocks": 86,
+      "status": "read",
+      "note": "巷窄龙牙易卡改闪虎，短刀对甲短对人巨，尺度随对象换；切线路非真割人喉，母挣着逃令得反复抱回、丢刀护头，只剩妈妈别怕语言，持续疲惫约束。双弩指挥见盾临改分射，真诱中仍未彻底伤甲，失败不抹正确局部战术；修膝又伤/武架取空/失血累积不是每场重置。炽天队让路先疑陷阱，突到骑士敬托再见血莲花才识旧战友，留矛地上怕直接交作证，忠诚有实际受限交付；黑龙枪向天念旧诗非无能力开枪，首次抗命明确。上层问谁监听、谁管闸门被答不属己，使系统有限非一声令万能；使馆容忍有取新甲技术利益未纯人道。"
+    },
+    {
+      "id": 33,
+      "first": "tz2:part0627:P0012",
+      "last": "tz2:part0628:P0009",
+      "blocks": 83,
+      "status": "read",
+      "note": "围观先只能听隔墙撞击各想象，钟响像魔后钟楼撞塌释真正声因；面甲落才见男孩纠机械恶鬼形象。西同频听黑龙念诗，故不是读者特知被硬塞角色；其猜黑龙也四面受敌仍猜。母不识武装儿仍怕抓脸爪背而非刃面，毯来自前补给有持有源。黑龙亲说反战/战友存活与执行侵略同在，援敌因骑士道不为了倒向教皇，拒团长支持，合作不自动结盟；史宾政客武器只能战是其立场非作者普遍论。教授否认甲抗所有炮却指出超机动，观者看超重误笨，爆光中卸外挂少数见才解释，之前未充分说明全配置，不夸早可推所有。伤厚甲能挡碎不能正炮，节能/机动模式转换待续。"
+    },
+    {
+      "id": 34,
+      "first": "tz2:part0628:P0010",
+      "last": "tz2:part0629:P0037",
+      "blocks": 87,
+      "status": "read",
+      "note": "卸外挂换机动同时降防每步战损，敌退远射不再硬近身，主修好腿又坏不是双方停脑。母上盾如舟放开手是依敌骑士不攻徒手女性判断，局部有效后狙手仍杀，不能全军相同道德。200%/三倍能量极限仅幻想，主动狂化唯一一次却未启动，树脸/恶魔/钟分别不动使熟噩梦变空白，有基线反变而非强者必无敌。军令只红龙不女人给骑士放母空间，上层来不及追令；使馆此前想甲而落门弃无甲母，外交安全须对谁有价值。闸对甲脆对母不可越，具体兑现锡兰王问弱家人，比抽象世界残酷更准。母回认父影又认儿说世界真好→枪→西世界不好，语句重复随不可逆事件改，不诊断痴病治愈。父不戴镜湿衣抱女与公开权者分场。历史只一叛乱/不公细节/名号消失，不替现场多方混成完整公开战史。"
+    },
+    {
+      "id": 35,
+      "first": "tz2:part0629:P0038",
+      "last": "tz2:part0630:P0061",
+      "blocks": 89,
+      "status": "read",
+      "note": "叙述明确母遗体仍受火刑掩真，对外罪案完成与实际枪杀手术都抹去，补第一册不应据档定母罪。半年后少年判逐/妹妹拒富贵随行并非一贯猫式赖皮，部分离乡到学院战争再赎简述合回第一册现年19；删繁是此前已实写不是未读内容。家长说无碰甲是其估计，读者知第一册格斗并非真的无接触，保角色误知。新青年线昆先线人拉女孩/当脚垫有工作牛皮道具与一金币收入，不能因未来同伴就洗净前帮助猎者。托盘救器皿薪赔压力→女孩不接托盘到吻，他两手被占尴尬，动作有用途和变化，非帮忙必恋（前已有情愫）。男爵延踩为示阶级，听老板一声起身真使其落水，招募信封只自愿来、公共勿名，不越推整复仇方案。"
+    },
+    {
+      "id": 36,
+      "first": "tz2:part0630:P0062",
+      "last": "tz2:part0631:P0054",
+      "blocks": 84,
+      "status": "read",
+      "note": "昆脱侍服说老板回与店主威胁不构犹豫，同路走姿被旧识训练来解释但只有德隆猜骑士非现实步态鉴定。走后又回男爵以为报复却找艾莲，不完整邀请由旁白补自由与靠山；艾主动推男爵/吻/拉手跑，鞋卡缝令昆蹲摘再抱，前肩作人阶今平稳抱喜欢人对照具体用途非身份自动变善。唐自以猎贵女后先上她车/沉默→觉诱饵/碧报姓名军衔才知旧识，外姿舞好不等贵族血。人和女人歧义被他继续玩，碧冷声重复下车到踢+仍扔伞，拒调戏真行动非默认互情。白信封同招募但他得先想去后不可退，非昆立即接受模板。阿方索屋乱按效率其实有序，炉光透镜研究零件体现职业，原温度材质规则只小说。"
+    },
+    {
+      "id": 37,
+      "first": "tz2:part0631:P0055",
+      "last": "tz2:part0632:P0053",
+      "blocks": 81,
+      "status": "read",
+      "note": "阿方索平声危险被唐按刺剑利刃误解→知爆物松手又接→最后说明已拆关键部件且考虑朋友乱动，先危险说法不假但条件迟给制造不同反应；不复述武器结构或稳爆配方。唐叫鬼叫被阿按实际语速驳，人物声线从回应方式区别。第三白信非面对招募而蜘蛛巢旧礼寄修，战役报日出曾用腕表现修复有前持续用途；阿解释取回权力是其读意，不已实现。唐迟疑如何开口昆进门第一句说完，阿先关门也非无关关注（冷雨热炉）。保密夹明晨归、军部友线明确来源但阿承事件最不确定/记录不讲全真，足音推穿甲、只2幸存等为情报说法，不能全作独立事实。昆身高=更强与阿政治失势不同尺度，不是两人一智一蠢所有面向。"
+    },
+    {
+      "id": 38,
+      "first": "tz2:part0632:P0054",
+      "last": "tz2:part0633:P0042",
+      "blocks": 71,
+      "status": "read",
+      "note": "三信搁炉边未烧全睡/昆独坐与收信最喜相应，阿分析不是立刻抹情。唐教昆推女孩是其自辩谁都赚、所谓为了让他干下去，不洗牵害。昆父叫木匠/母遗愿后揭父骑士旧伤退役失妻与真正母话不同，托词是父自己，不把打子酗酒免责。第一次命骑士名句系照搬小说自觉帅，父哭揭经历/断剑信，思整夜后再同句是知代价后愿选，不凭金句本身说服。父字斟低求推荐是有成本能力上限；离港以为不送后钟声见父在自己避打无阶楼顶，何爬不明保留，昆爬桅挥巾是回应非神秘理解。阿被收养童年不孤苦、教堂家被权夺火死神父有具体因，群众渐移教堂/初雪废墟表时间与利益，不外推所有信徒天性冷酷。"
+    },
+    {
+      "id": 39,
+      "first": "tz2:part0633:P0043",
+      "last": "tz2:part0634:P0045",
+      "blocks": 72,
+      "status": "read",
+      "note": "阿赌报复是自述详细时间秋学/借本/挑数学竞争缺口/对手输经费自尽，法律无罪仍仇朋雇凶，入军护命又有实用动机；不提炼现实逼人自害流程。唐身世仅自述富/阿看咖啡糖/衣鞋气质猜贵未确，朋友决定不查，不硬补隐藏家族。公牛鲸孔雀组合不协调比喻后以工作分工/共同需要支持，不是动物标签替代行为。骑士名额教廷非军部、被贵族抢→胡混，再劫西赌对手，轻称数学关照是反讽不真友好。唐避珠只取钱已防追踪却漏家币齿纹，店戒哨/军法监看才捕，不是高层无因全知。被去领饰木桩仍嘴硬/阿摇头知没招，招募旧事未完，勿把西预先计划全部劫匪行动。"
+    },
+    {
+      "id": 40,
+      "first": "tz2:part0634:P0046",
+      "last": "tz2:part0636:P0015",
+      "blocks": 80,
+      "status": "read",
+      "note": "副官宣传西凭自己与读者所见父/教授资源不同，保声音来源不认证全无家世。表扬昆话后选三、骑士衔仍未解决只是预备少尉，实际帮助阶段不夸完整晋升。作业簿与军官身份并置、西 only战场可带悲凉唐听昆兴奋，三同答但理由/理解不同，漂亮笑话回昆刚说唐漂亮现场互学非固定台词。回忆说最终未带他们锡兰（普通甲非炽天），其具体与零碎宣传年表不强补。艾莲先主动走、后欠母病债被警拦，男爵供偿与接母她才回，告别含自责/预判非作者证女人必慕荣，唐先想可骗老板女儿是未实行方案。昆以实际失去支持去找老板，阿唐醒知他声但口仍拒未能判会否去。信开竟金戏票非军令，候选人应约成本租礼服/寻通道，后续待看。"
+    },
+    {
+      "id": 41,
+      "first": "tz2:part0636:P0016",
+      "last": "tz2:part0637:P0009",
+      "blocks": 89,
+      "status": "read",
+      "note": "贵宾通道实车道解释三步行找不到，不是个体都笨；租服胸紧来源后者识贫局部不错但猜无票错。阿唐真到场承诺与嘴否认不一，阿保昆/唐追妞仅口头解释，阿内心后补自己机械师舞台也要战场，不只为友情。昆接坚果先以侍者看后双手肩认老板，他人已起身不同知情；身高却无锋被阿唐疑能否领，昆直接抱，观察解释分人。票靠碧朋友非西重得身份，三同听不同重点（阿政治/唐嫉琴手/昆许夺位）成声线。百签恢复军籍为父最后支持不是资源无限，西承没下一步只需朋友是马斯顿具体所得，不过读全一场复仇部署。改称西泽尔口吞殿下习惯未一瞬清空。舞台打断把目光转回剧，三反应异与碧怀疑尚未解释。"
+    },
+    {
+      "id": 42,
+      "first": "tz2:part0637:P0010",
+      "last": "tz2:part0638:P0043",
+      "blocks": 91,
+      "status": "read",
+      "note": "宝儿唱演技差但舞好是本叙述分能力，别观众人气证全技能强。后台骂艺术与经纪偷看/推公爵晚饭后拒，演员自己艺术愿有职业主体。先闻微苦草雨香→查蓝龙胆→找C.B→亲笔确认是多条感知验证，不嗅味就知全；经纪猜花贵大人物未证。5分钟茶糕收物换服有实际行动，明双方知道装乖互动不全伪情。退军因继父威胁/借西抹档后应许隐下属，不全是色诱成情爱；现在她主动还人情、西忧失自由，不召回驾驶而要上流情报，长处有条件。西承退步仍有系统经验，不以3年失学说全无能力。经纪人以只禁入没禁敲+尊观众她自己说的话逼返场，试探规则有对话任务；花不过敏/偏好仅西记住，花语为本地作品说法不标准事实。"
+    },
+    {
+      "id": 43,
+      "first": "tz2:part0638:P0044",
+      "last": "tz2:part0642:P0042",
+      "blocks": 122,
+      "status": "read",
+      "note": "宝儿说准备嫁退/懂生活是自我评估，西要平静抢妹她独处反猜魔鬼复仇，不能以旁观一句认证真正全动机。经纪禁敲改咳催西未听暗示，宝儿假双选留下或留下实际逼离，整理领结先笑后郑重形象为甲将交际职业经验给任务。身高俯身迁就有3年变化，不全暧昧解。她最后未急换舞衣坐窗抒感与方才热辣构不同场合。女武神2版权仍无出版日期ISBN，目录51编号片全范围已确认。1888楚25归夏，十天路走4月逐属国欢迎电报先到帝都定性胜战，政治影响有路程/消息过程，不从白描夸布局全唯一因；父皇星见恋罪与葬地旧谜，在目前叙述层给墓碑/祭动作落实，国家宗教说法限虚构不移现实。"
+    },
+    {
+      "id": 44,
+      "first": "tz2:part0642:P0043",
+      "last": "tz2:part0643:P0034",
+      "blocks": 83,
+      "status": "read",
+      "note": "墓柱记随者名、骑兵真扛新柱添加，悼亡有劳动与材料；白柱无名只是下属猜女孩，楚额抵想同少女是叙述给亲密但名未明，不补恋人身份。朱砂习惯舔糖→无糖只有刀→卸甲药管→不走→伤枪驱逐，主想自由不等兽懂恩，重复期待让驯服失效具体；不当虐动物或兴奋剂做法。楚已有新战马兵器才放最后旧群，未纯牺军浪漫。夏皇气聪明/怒掐女/太监避镇纸打坏八音盒有权力下的身体与声音后果。密谋升官调防是规程性削资源，表忠/贿名单私利同在；太监以皇习故怒赌忠诚后接名单只是当下有效，不把全皇心已知。太监估还朝十天半月读者见楚已在城郊当日要入，先有信息差，待后核实。"
+    },
+    {
+      "id": 45,
+      "first": "tz2:part0643:P0035",
+      "last": "tz2:part0645:P0008",
+      "blocks": 89,
+      "status": "read",
+      "note": "皇自想封赏剧本被有节奏震动打断误地震，公爵过门三级急报压缩剩余准备时间；旧三日前600公里报不足不等对方瞬移。出迎有尊/惧两面太监改解释自家迎客还能收违规物，女孩崴鞋从撤到结尾还挣走，宫政时间不清空身体后果。楚用旧赐乘辇免拜今才用，过去步拜不证永敬，权限实际行使改变皇体感；新甲否定损军虚弱假设，但具体何时打造仍众人猜。战死47000伤21000与保五年为楚报告和预测分开，不能把数字当外部统计。金吾卫首领犹豫再奉眼神拖人显示权归，非新甲当场杀太监；皇主动许处死换信、楚阻轻言杀，只换人不补已死。楚包揽杀包括不该杀是其政治自述，不确认清白贤君论。间谍速写因相机大不携带有信息来源与媒介限制。"
+    },
+    {
+      "id": 46,
+      "first": "tz2:part0645:P0009",
+      "last": "tz2:part0646:P0005",
+      "blocks": 87,
+      "status": "read",
+      "note": "两国甲竞争父史凭速写推速度/不可比炽天与性能不明同时分，技术推不实测结论。原罪普3与密涅瓦新炽同缺试骑、若失败被吞机制给父催工利益；史仍暗帮仨且父说无需特别报非真全弃。父从楚自己敌改儿敌后咳血服药又批，衰病具体身体未诊断病种。校长四人从外观喜/厌到档案反比：顺眼西异审黑袋，修士阿危险，像流氓昆最正常；分类职业记录不能力全评。拒不适合→强推荐改考虑，提醒危险而非威胁有旁白明确，老师介绍来源暗推荐人未名不能补史。最后学科志不同、昆不识国际政治是角色背景，最好混是校长讽刺不真实学科评价；父关系不好用与更强推荐并存非所有门路都无用。"
+    },
+    {
+      "id": 47,
+      "first": "tz2:part0646:P0006",
+      "last": "tz2:part0647:P0001",
+      "blocks": 86,
+      "status": "read",
+      "note": "转神学因欧米茄直视死疑问，校长先答极光神又止需辨伪经，知识保门槛非上课即知全部。正文六对翅随后分三对有本地说法不齐，不补天使学标准。校园每跑腿必寒门是本书环境叙述不是现实社会规律，穆对建物有情也替男生探底两面。女师讲机械生命，阿有旧神父上/下讲法背景才懂逻辑、别人记笔未证明愚蠢；只阿看法不当教育理论。古拉丁隐语被西此前一年学识懂，南方方言作另队切口有友交学习来源，交错对话三方知识不同。穆被礼物说刺怒再温哄喜/脚下蹭让性权力关系具反应，唐旁观只知表情家徽而推未来被弃未证；吹口哨厌恶实喜为唐自辩不当女性心理事实。问情圣色狼使唐挠头非全知恋爱导师。"
+    },
+    {
+      "id": 48,
+      "first": "tz2:part0647:P0002",
+      "last": "tz2:part0648:P0012",
+      "blocks": 84,
+      "status": "read",
+      "note": "小机械鸟从贵重材料到尾触振翅再全场追，西伸手自落、女叫名字才揭旧识，穆未给名故旁观能合理知认识，但为何鸟识手未解不补遥控AI。双推荐信读者后见：佛长夸+辞兼职威胁学院招牌、薇短信动用旧承诺，同目的理由不同，校长说欠人情有后证而非父权万能。西当时想避讲堂因旧阶级痛，不等真无兴趣机械。三骑暗档谈貌/美色威权多本地档案+流言，不能把所有恋情和管理效果当实测；女自带机械才能与代价同保。三人不是故背老板，而老板已赴约；碧来送茶即一致礼谢送走，声音断接令秘密可感，她不知缘由，职业暖茶不等心理全知。阿区分西有价值与西求人谁更需谁，诊断神经伤来自密涅瓦角色记录未实测未来能否驾甲。"
+    },
+    {
+      "id": 49,
+      "first": "tz2:part0648:P0013",
+      "last": "tz2:part0649:P0025",
+      "blocks": 83,
+      "status": "read",
+      "note": "冰淇淋被三骑按暧昧多法猜，切实际香草/红莓真吃，闺房地下120米水泥管床工作台无椅+华衣镜+唯一奢冰箱，把社交像和工作生活并置；蓝灯变红需立刻出门给环境实际值守职责，不归蓝灯象征忧郁。旧少年被摸说活的和被当试验体比较，工程女14立志巨炮环游、西心想铁路有限仍真向往，感性与逻辑同在。新旧吃同物如今他先问交易，她看信任降；西明确不问无关绯闻，因未婚夫是某家族剑才戒备，亲密不抵政治位置。她承传闻有真有假不全洗清，宣保他三方共同决断为新口供，亚帮助尚未兑现。新炽制造与父旧史前材料说冲突提出问题，不能用未来叙述补技术。"
+    },
+    {
+      "id": 50,
+      "first": "tz2:part0649:P0026",
+      "last": "tz2:part0650:P0021",
+      "blocks": 88,
+      "status": "read",
+      "note": "薇与西的冰淇淋会面逐步落实为试驾与家族继承交易：可爱说辞后，西要求谈交易，私生身份不会威胁格家继承才是明确条件；支持范围是帮助亚成为家主，并非无限服从。拥抱既可庆祝合作也含旧日温情，原文容许并存，不硬定纯情或色诱。教授叹她变了，西先误以为共同感慨，后补变小气、不给冰淇淋，短句补谓语改变所指。地下遗址初设地的说法立刻被薇指出资料已毁、并不知道，合作不等知识完全一致。新机由旧件重组与新技术减损，红龙改型实验失败仍有母未救成的结果，不能称已经解决神经损伤。"
+    },
+    {
+      "id": 51,
+      "first": "tz2:part0650:P0022",
+      "last": "tz2:part0651:P0014",
+      "blocks": 89,
+      "status": "read",
+      "note": "陈列馆先逐具讲功能与失败限制，最后欧米茄使西从鉴赏转为旧灾疑问；教授根据穿不了人推技术验证，西据亲见知道可被别种存在穿，是人物知识边界。教授说经费不足，西据秘书经历反问拨款，薇指出其挥霍、教授再揭竞争机关夺预算，压力有具体来由，不把缺钱仅作笑话。夸炽天使后立刻耷拉承认老旧，情绪表态和实际劣势并存。试驾可能死亡、理论无先例由薇补，承诺并非可靠验证；西为妹妹接受，合作利益一致不等私人忠诚。"
+    },
+    {
+      "id": 52,
+      "first": "tz2:part0651:P0015",
+      "last": "tz2:part0652:P0014",
+      "blocks": 83,
+      "status": "read",
+      "note": "路易吉来谈钱被拒，转为私人可自由支配资金，再提试驾骑士复仇；对方逐层追问谁出钱为何，捐助非万能控制。普罗米修斯先风光与墙剑，后才揭原来一直在旁、被误当铁架，此前未独立写铁架，不能称早有可复算伏笔。两个月夜里喝茶车接送和疲惫先由碧及三人观察，到实验场实见才揭实验；阿凭自愿拦唐救人冲动，不等大家不关心。薇出场声、高跟脚步先辨，再半身机械，两称教授和副总长显人物各认其位置，旁白明确权力身份。"
+    },
+    {
+      "id": 53,
+      "first": "tz2:part0652:P0015",
+      "last": "tz2:part0653:P0011",
+      "blocks": 88,
+      "status": "read",
+      "note": "实验12分钟纪录被昆理解为能恢复战力，薇分清实验取数据成功不等西能离外接设备驾甲，结果口径不同。阿主动问定制、唐先抗议死亡再改谈配色，是行动回应承诺而非一句都不怕。薇因进度继续，医生以白月前例劝停，压力明确但不证明继续正确。梦里循火光求岛休息，见十字架避开、以看不见火光自信脱逃，肩发才揭一直背着；仅是梦的空间改写，不当真实逃生因果。实表从曲线到折线、针乱抖，旧医组长未经历所以误判崩溃，教授凭记录纠狂化，人物知识差有任期原因，医疗数字只作小说情境。"
+    },
+    {
+      "id": 54,
+      "first": "tz2:part0653:P0012",
+      "last": "tz2:part0654:P0040",
+      "blocks": 84,
+      "status": "read",
+      "note": "三骑主动控枪再各驾不同甲配合，战术有明确能源包目标但仍失败；阿武装迟来同败，不把配合写为必胜。薇举火被众人认为愚蠢，西抱喊妈妈才后揭本想引开用电缆、并没预知拥抱；改为连自己电击，既有原计划也有意外承担，不神化全算准。梦中火光的恐惧到现实温暖白光相接是主感知，并未真母复生。醒来按蓝光屋顶管道白发逐层认处，薇让床睡椅的照护有物理位置；此段明确有靠椅，前述只铁床无椅是初步印象需修正。她口说小问题仍取得数据与读者见失控重伤并存，医生/研究目标需分。"
+    },
+    {
+      "id": 55,
+      "first": "tz2:part0654:P0041",
+      "last": "tz2:part0655:P0057",
+      "blocks": 88,
+      "status": "read",
+      "note": "创口让西不能靠椅背、清理耗到昏睡，薇再把自己毯盖他、她冷蜷腿，同一毯转移具体温度代价；她拒告自己噩梦，亲近仍有边界。邻室唐教授喊疼、昆笑、阿淡处理，同受伤分反应，教授问谁设计医生恭答您，事实答复形成笑。原诚先公开忠勇英雄、当下议改投再回叙商人篡位，献妻只是议论，不能确事实。他先交易自赎、真交黄金换欠条再得猎枪，信用有实际结果不只嘴皮。叶隐居名盛使锅改铁锹炒菜、改名声后反得休息，是具体后果反转；出仕前已想留，不全因一席说服。外交游历后来说明本有考察西方任务，甩手形象修正。"
+    },
+    {
+      "id": 56,
+      "first": "tz2:part0655:P0058",
+      "last": "tz2:part0657:P0011",
+      "blocks": 85,
+      "status": "read",
+      "note": "原诚高举酒壶似欲打、叶递空杯，对峙后实际倒酒，同一器物动作在结尾改用途，仆人仍受威压。宏大理想谈完原诚追问花钱，讨论回到两百公斤黄金；叶从甲胄机会落到入场券，不以演讲替已得技术。国主宣不受支配、叶提醒登顶也受人民制约，双方不因此变同一动机。拟嫁女只是计划，是否愿意是叶推断非已获同意。夜探车厢挤、胸肌不能移后备厢回应字面，佛要求安静自己高叫喝酒，角色标准被现场动作破坏，不当酒驾指南。"
+    },
+    {
+      "id": 57,
+      "first": "tz2:part0657:P0012",
+      "last": "tz2:part0658:P0008",
+      "blocks": 84,
+      "status": "read",
+      "note": "实验四月仍无原型，西知道自己退步、偷探是急而非自信。一处悬崖分派群像：佛装备爬休息想笑他人，昆徒手超过且十岁灯塔旧经验支撑，唐有钩还替佛查索，阿调整义肢，不同办法解决同题，西体弱待助由薇带上。到顶唐吊儿郎当改低声具体提醒蒸汽反光，职业在当场操作显，不只称最优秀。雾遮只声→风扫云见全貌，信息随环境可见条件变化，铁路反光先推应该非已经核验。生产者仍无调配已交军队装备权，佛抱怨自己甲被敌用不等可遥控取回。"
+    },
+    {
+      "id": 58,
+      "first": "tz2:part0658:P0009",
+      "last": "tz2:part0659:P0005",
+      "blocks": 84,
+      "status": "read",
+      "note": "观敌分阶段改战术：阿先推高重心倒地30秒，昆唐接任务，薇按高度/火力问怎么打，昆改跳；加巨剑即主动认打不到，真正试火后各承现武器不行，西只条件估龙能突破，未实证胜率。靶场薄壳不等无伤，医疗不敢入。最后逃骑规则出界能免，阿据调炮时间认为有机会，却手动调炮更快推翻；同时骑士舱升起侧脸让西识弟，机械动作既改变逃命条件又供辨身份。不能把此前未露面说已知胡安，童年威胁是此处回叙，糖含血不作暴力招法传授。"
+    },
+    {
+      "id": 59,
+      "first": "tz2:part0659:P0006",
+      "last": "tz2:part0660:P0004",
+      "blocks": 86,
+      "status": "read",
+      "note": "薇开枪未命中巨甲却令胡安回舱、目标脱界，救援成效不靠击败强敌；炸场仅拖进度不伤核心。众人以为救无关者，车上才知己方间谍、由亚资源安插，西小时救猫记忆也不能证明此次单纯恻隐，保留多层动机。唐绕窄路是重车对机车条件决定，不是迷路，桥方案到时给，来时未写桥不夸伏笔。换座取备用枪，昆挺胸挤佛脸延续车空间；没有外骨骼女自己压不住枪需阿机械臂，能力随装备在场与否变化。仅分析虚构行动结构，不输出爆物改造细节。"
+    },
+    {
+      "id": 60,
+      "first": "tz2:part0660:P0005",
+      "last": "tz2:part0661:P0039",
+      "blocks": 89,
+      "status": "read",
+      "note": "桥毁挡机车却巨甲跳过，救场阶段成功非全逃脱；枪后坐反伤薇骨折阿义肢裂肩脱，能做的人随伤势收窄。西说毕竟弟、昆先误不许打，下一句既弟当然我打，补句改行动承担不是和解。后视镜破反去眩光，唐欢呼忽略距头半米风险。湿路限制轮车不限制巨甲，红扳手逃命装置到时新给，勿称早埋。强光唐失明由西口令继续，昆看刀车、阿看酒瓶、薇看西，瞬间依位置/关切分配视见。诱抬脚单腿受击下坡滑崖，是条件组合，不是弱点一提就成；教授指令事后回补并非读者早全知，胡安及时弹舱真实未死。"
+    },
+    {
+      "id": 61,
+      "first": "tz2:part0661:P0040",
+      "last": "tz2:part0662:P0073",
+      "blocks": 83,
+      "status": "read",
+      "note": "胡安反复身份威吓以为对方听不懂语言，枪口令身体勾出幼年糖血恐惧却想不起细事；西知道旧事胡安只残感，不均等回忆。西不杀，隐藏骑士骨是事后揭备用计划未使用。叶自称同席旧交，卢真的记起那宴却没记起叶、拿醉忘解释缺口，后揭叶烟火师确在场但不认识，是真场合配假关系，不当社交欺骗教程。刚问如何认识伯爵被军响中断，疑问没有回答不能写为完美话术胜。李承无法解释围兵仍按保护任务表明会开枪，未接禁打高阶友军指令，权力场靠任务/权限冲突展开。"
+    },
+    {
+      "id": 62,
+      "first": "tz2:part0662:P0074",
+      "last": "tz2:part0663:P0071",
+      "blocks": 82,
+      "status": "read",
+      "note": "李拒搜无令未全解危机，少将去取令；薇冷脸原来骨折疼冒汗不是常态冷酷，赞美全未听因找西。不同躲法依身份：师徒公开交际、三人借朋友备用制服、西流血独藏，不能全靠一个头衔。军绿粗帐被西误小国老兵，药文才知叶尼塞；按队列触物缺佩剑察人、主人持剑伏后，感知有训练来源但“不在=一定有人”后证支持本场非通用推理。搏斗误触皮肤迟疑丢优势，地闸亮后揭女孩浴桶，早不叫有遮体条件，不把不喊等默认好意。味辨药只小说不医疗指南。"
+    },
+    {
+      "id": 63,
+      "first": "tz2:part0663:P0072",
+      "last": "tz2:part0664:P0072",
+      "blocks": 82,
+      "status": "read",
+      "note": "剑割领才项链暴露、旋转被女见、问母遗物后由要交人改护，帮助触发可定位但她为何识链尚未解释。公主自公开浴态阻搜，外卫身份有基础，她没先许无条件护到底。迎宾两老谦让堵道，瓦从中走入实际队重新动，人物性格在阻滞任务中展示；脚步穿巨大琴声是叶听感以锤比喻。教皇先听卢傀儡概括/画像羊群，见本人黑狮纠印象，不等所有教皇真同。古洛诺斯未毁、崖十余米有可自爬，胡安黑夜惊恐误弹舱，胜靠判断失误非绝灭技术；银面已备新骑士。源文此处万国开幕仍剩三个月，与前五日前时间说法不齐，标待核不强补年表。"
+    },
+    {
+      "id": 64,
+      "first": "tz2:part0664:P0073",
+      "last": "tz2:part0666:P0011",
+      "blocks": 82,
+      "status": "read",
+      "note": "两女孩前后门跑声使戒备，碧拿文件称未婚妻、宝遮脸登场三骑被支开；私密身份知者不同。婚书同物分关切：宝要照片长相、碧看国玺外援、西略过大印只看母歪签；照片沉色中粉丝带让孩子有生气不只是炫色词。碧盼政治婚救局而西推也许退婚，均未结果，不用期待当事实。宝先装不知漂亮后讲已调查、名次下降原系军职性格被贵公子贬，不等容貌实退。项链为何护被西推认母联系，尚公主未亲证。西回家伤因搏斗再裂，前行动后果保留；老师曾说只铁床，后床靠椅两物以后一处修正资料不要造无椅rule。"
+    },
+    {
+      "id": 65,
+      "first": "tz2:part0666:P0012",
+      "last": "tz2:part0667:P0028",
+      "blocks": 86,
+      "status": "read",
+      "note": "脚步沉重判断十余老兵与三友不同是真线索，原罪来人只是西假设，开门是未婚妻推翻险猜。公主命随员外候、骑警路人孩子反应让地位占据街道，喝茶才放松；同粉带连照片与成人，不抹军人。她亲证护为未婚夫亦名誉、不许读成已爱情，母亲遗命意义；说走西问初见告别，她答赶下午活动，离开未即退婚。公主私下要求坦白及盖世英雄，未定婚。舞会西真未去且对方未追，二者急各所指，养伤拖测试是旧枪伤持续后果，不以公主到场消解主任务。"
+    },
+    {
+      "id": 66,
+      "first": "tz2:part0667:P0029",
+      "last": "tz2:part0668:P0027",
+      "blocks": 87,
+      "status": "read",
+      "note": "新红龙酷似黑龙因时间不足改旧设计，非全新奇迹。教授心穿甲比喻从婚事转实际穿甲邀请；火中取栗先常义被利用后改为主动取所在乎物、西补只有那一颗，双方转义有限适用。试从站走到踢球到刀切，后讲各测平衡反应，工程师欢呼不等全恢复；西体征与少数旧人比较揭原地木球距昔高速攻击远，教授兴奋有鼓舞意。重复第一册苹果演示此处主回忆已死同学，酸甜雨水/伞湿裙未觉把当时热闹改成失去的安乐窝，不称早就预谋一切。入侵警报到此无身份，强安保史不保证这次必守。"
+    },
+    {
+      "id": 67,
+      "first": "tz2:part0668:P0028",
+      "last": "tz2:part0669:P0027",
+      "blocks": 85,
+      "status": "read",
+      "note": "入侵者图不全、热中幻觉不确定跟脚；蒸汽入炉焰低才露积炭门，见门仍焊死不能入，发现不等已取秘密。卫长以空手推可生擒、假坠后被袭，武器事后露不是一直赤手；本分析不传伤人细节。贝被疑卧底后真调异审是第一册结果承接。教授要李非官衔/美貌而是自行驾甲权限，贝甲封库又通道已锁取不到，新红龙不适他，援军到不等资源可立即用；同军阶能力资源调配分开，有明确阻力可补旧权威/帮助方法。"
+    },
+    {
+      "id": 68,
+      "first": "tz2:part0669:P0028",
+      "last": "tz2:part0670:P0024",
+      "blocks": 92,
+      "status": "read",
+      "note": "封路地图必须过交会被屠甲破墙改变，不假设地图错。贝据昔红龙放心，佛据当下未调新甲/两小刀恐惧，同人不同时间知识。贝见角落缺甲刀、深足印再找背影后开枪掩护，是观察后协作但偷袭仍被女孩瞳反影识败；不要教袭击技巧。双投掷只划血未终结，屠同战术连掷看似耗库存，实插墙限制活动，西到最后才察目标空间改变，正确猜部分不等读懂全局。甲左胸破同时人肋伤/润滑液与血，身体甲胄关联按此段明确而非所有甲断处都人体断。援未至，拖延假设未保证。"
+    },
+    {
+      "id": 69,
+      "first": "tz2:part0670:P0025",
+      "last": "tz2:part0671:P0018",
+      "blocks": 88,
+      "status": "read",
+      "note": "贝主动代部下接缆、脱重衣取速度，拿到才发现缆重失闪避，勇气没解决搬运物理条件。薇外骨架盾挡枪但火传热、同材剑刺热盾破，防护非全能；她救贝受重伤、枪从射击物改支撑，半白发旗袍美到烧焦水泡仍有眼锐。骂西先妹妹朋友敌人再无人护女孩、最后交易棋子低声怕不守诺，称谓/音量/观众可听范围变化；末句只有贝听，不能写西已知听懂。梦层最后温暖苏伽罗与教授恐惧最底理论不同，仅梦机制不可心理医学结论。"
+    },
+    {
+      "id": 70,
+      "first": "tz2:part0671:P0019",
+      "last": "tz2:part0672:P0031",
+      "blocks": 93,
+      "status": "read",
+      "note": "薇倒像叶却外骨骼压贝爬不动，喻轻与实际重随后相撞；低声前文说唯贝听，西梦后却想守诺句，记录此边界表述张力，不补远距听力解释。主梦获密码自启未接缆，教授也惊，预备救法未实行不伪归功。拔一核心仍余三，强状态不等无甲物理极限，小燃料舱半分钟仍约束，贝旧见强就放心再次被佛纠。墙上敌掷武器原先限位后成为主取用资源，同物处境改变。主抱敌进货运线远离众人，教授听短令开关闸，地图基础有地下货运但具体卸货口此刻揭，不夸全公平伏笔。药膏送来实际照护、嘴归婚家交代，不硬认只能利益或纯爱。"
+    },
+    {
+      "id": 71,
+      "first": "tz2:part0672:P0032",
+      "last": "tz2:part0673:P0037",
+      "blocks": 83,
+      "status": "read",
+      "note": "燃料真耗尽落败不被意志取消。屠龙英雄无底线是敌说，西以疯狂回绝，非作者写作价值观。战场本早晨记成残阳明确主记忆着色非年时错误。李三遍同警告声不变、威慑先于露面，屠信退西落车后才给远端枪，封枪干冰与工程师收尾可见武器使用成本，但敌舱空未确认击杀。公主国家网知道红黑代号不知真名，护未婚夫与这次才知红龙分开。她知道拒家来自碧与教廷会谈，不神知。她责舞会不打招呼仍可拒，亲近未消对等条件；教授脚老茧伤与薇重伤比落差，问脉睁眼笑不真实医疗建议。"
+    },
+    {
+      "id": 72,
+      "first": "tz2:part0673:P0038",
+      "last": "tz2:part0674:P0035",
+      "blocks": 86,
+      "status": "read",
+      "note": "降反噬后5机分工新制造只是宣布开工，昆能顶一段非对等无限，展示版无特殊优势不等总最强。教授骷髅门亲没进、甲自活传闻，他不能确认而西亲见仍疑幻觉，证据级别不同。第二请柬吸引西非恋诗必动而想知东方为何识己，加伤不能训具体空档。叶衣西式、本地壮侍者白麻不搭是布置实际限制。西躲以为无人察、家长喊早已来，不证读心，目视来处未详别补。礼物令胡安亮却再提西怒，礼不自动说服。再见旧家少年用已升任对照西退步，前册家族不是空名单有后果；后非一律反派全能。"
+    },
+    {
+      "id": 73,
+      "first": "tz2:part0674:P0036",
+      "last": "tz2:part0675:P0043",
+      "blocks": 89,
+      "status": "read",
+      "note": "筷子使贵族各失手、西熟练来自为近母而自学非母亲教，叶换刀叉实解尴尬，陈物可带身份但不单标签。叶说父女教友虔诚、心见踏桌争吵并补才学宗教，外交话与实际有落差，不能采为信仰事实。相亲为技术联姻途径尚未成交。卦凶先令路变色后借国栋梁转吉使缓和，胡直接问英雄获得豪辞，家长允许才玩；这里是叶如何释话影响场面，不是占卜有效或命运预测。西无想问拒推筒，待后结果不先写被卜服。"
+    },
+    {
+      "id": 74,
+      "first": "tz2:part0675:P0044",
+      "last": "tz2:part0676:P0031",
+      "blocks": 90,
+      "status": "read",
+      "note": "叶把拒卜重解释成敢以己改命者不惧结果，西拿筒又被拦再答，劝说经历选择与心中弱点，不先验正确。末掷红液先按血叙引旧死景，再家长擦番茄酱与倒瓶纠正，是限于主误认的写法，不真神迹；硬币竖砖缝无卦，叶停止且礼物转话题，不强行解。路以叶没再提婚断其厌西，实际西末留见家长，读者后知路推断不足。宴灯熄门闭与门外欢语并置，私谈空间由送客顺序实际造；原文西说首次接家不抹早看过不是会谈。词如水银月光与静寒绑定转气氛，非所有白色等权威。"
+    },
+    {
+      "id": 75,
+      "first": "tz2:part0676:P0032",
+      "last": "tz2:part0677:P0042",
+      "blocks": 88,
+      "status": "read",
+      "note": "家长宣家从不弃/手术为保护/尽力救母都当其口供，西亲见切术和母死仍抵抗，不能就此洗白或反断全假。以飞艇/流放减刑为默许证据但尚独立未核；两边下注只要王出本家解释不必选同技术。叶后台说卜骗局、故事真仍可碰巧，否定把凶吉当可靠结论；他自以为看未来仍是自己的感受。通信床头唯一电话铜线接铁路具体费用满足原控每日汇报需要，不仅异国炫设。逐句给候婿身份让原诚从怕屠夫到嫌私生再利图竖耳，仍公主未同意；父访木桥自设防人被女断挡父，权力不在家中自动畅通。"
+    },
+    {
+      "id": 76,
+      "first": "tz2:part0677:P0043",
+      "last": "tz2:part0678:P0036",
+      "blocks": 86,
+      "status": "read",
+      "note": "画像经电话口述/一小时/画师惯山水而失真是有媒介步骤的误差，女嫌丑不能当西真人评价。原诚嘴掀腥血送剑、回屋别人恭喜触母旧事，承女没答应不能逼，公开安排和真同意分开；献妻源此后叙疑传来由不硬独立核。叶先许事后才查订婚，聪明人信息缺口引麻烦，下一任务非话术无懈。三周空白各人未再来、制造封闭西不知，不当放弃已成。妹信字面报安他不信，小熊只玩具+旧许房间理解有共同经历基础，但真实审信流程此为西推。入门寒风/硫味先警后解释，甲非制式观察不能确认女驾驶，声音加工男女不明。"
+    },
+    {
+      "id": 77,
+      "first": "tz2:part0678:P0037",
+      "last": "tz2:part0679:P0023",
+      "blocks": 75,
+      "status": "read",
+      "note": "刺客问婚约从卡纸念、越问变喜欢谁，西据罕见精细动作和朋友八卦猜唐、以向刀前进逼退后揭。推理只本场朋友熟悉不作危险试探通用法，客厅高允许甲翻身具体空间。新甲出线真兑现，红龙修旧伤油漆仍可见，不随名字新即全新。四友甲亮与主想锡兰旧护队对照，不同经历使同喜讯情绪不同。教授英雄人格/芯片只是小说内初步假说及幻想机制，不能变心理学知识或创作必需；刀鞘限制又保、超模后失战力设条件，未来需追兑现。"
+    },
+    {
+      "id": 78,
+      "first": "tz2:part0679:P0024",
+      "last": "tz2:part0680:P0040",
+      "blocks": 81,
+      "status": "read",
+      "note": "五甲生日同举酒，一句去他妈的随角色语气和酒量不同；西不惯先吐、老酒鬼笑后也吐却血，重复动作先喜后实代价，胃出血是书医粗诊不医学。教授拼因老师托家房子不愿失、预算既粗鄙又实目标，不能抹他早浪费。西觉得朋友也自愿狂徒是当下理解非作者替全部同意。观摩无椅伞仍打湿鞋使贵族不适，酒壶/赌局利益才留，礼貌不能战暴力。胡演示看似砍宾客后揭实甲靶，甲何时放未先写不强称公平；后震声胡据上次夜探误认，实际另两普同型，先前经验也可误导。"
+    },
+    {
+      "id": 79,
+      "first": "tz2:part0680:P0041",
+      "last": "tz2:part0681:P0039",
+      "blocks": 79,
+      "status": "read",
+      "note": "两普训练先胡误疯、看精准改不是疯、想自己完备可救又被一手压，判断随新动作更新；镜面甲反影暴露偷袭与前瞳影相似，重复只对照。双敌因被干扰暂合并离，未真和好。胡甲头断但舱不在头无身伤，精神垮非战死；路出钱只获部分安排，米承一直有另组，最初承可供骑士不等承胡成英雄，作者留交易范围。薇实际权大却无枢席、佛带输液石膏来，头衔决定此场出席不是强者想来即来。米原也枢卿原来隐藏观察，佛这次才知，别把其猜全能。石膏缘跌床找酒补因不全归胃病。"
+    },
+    {
+      "id": 80,
+      "first": "tz2:part0681:P0040",
+      "last": "tz2:part0682:P0035",
+      "blocks": 79,
+      "status": "read",
+      "note": "米讲优势并未讲关键技术、听众缺知识无法问，教皇问真敌鬼武者对方承无数据，这一承认不能用佛讥作已证打不过。五对五、禁补给、薄壳仍近战巨刃的赛制影响胜负，争论具体成本/单位而非纯喊旧时代。米账上拨款与五台都是真部分，漏私人献金造成低成本假象，读者此前见捐款能对照，实际成本未给不得复算。佛叫反对被掌声物理盖、同野狗从傲视变无人听，喻随权力处境转不是固定作者辱称；输液架改拐杖让伤中上台可见行动代价。"
+    },
+    {
+      "id": 81,
+      "first": "tz2:part0682:P0036",
+      "last": "tz2:part0683:P0046",
+      "blocks": 85,
+      "status": "read",
+      "note": "佛上台祝福拥抱表面长辈私下威胁，台下只见抱久/贴面，不知已谈5对3/场地；炸弹始终未核真，米事后猜假也非确认，不能写成真实携爆。规则真由米当众宣布暂兑现，背后真正主人另人，外观声身高相似才旁人误认，此处明确米非实验场主人，修先前泛称不要混。主人认为场地才关键且古洛故意供看，是其部署说明、并非保证对方必来；禁挑佛因由未全给。训练先2对1胜后说明二代残组，不作打三代已证；第二潜袭打破以为巨型不会潜行。突然空降火炮身份待下块揭，不先认阿。"
+    },
+    {
+      "id": 82,
+      "first": "tz2:part0683:P0047",
+      "last": "tz2:part0684:P0067",
+      "blocks": 94,
+      "status": "read",
+      "note": "阿支援却近炮空降、隐藏树上如何爬未知，类型标签被行动拓宽但无须概括所有角色必须反差；昆听需要先喜后答喝彩助威，短答推迟补用途挫预期。宝舞台台词失败、私下多姿，不能等同完全没演技。西问赔率到交代身后：分房产年金5份、昆给父碧不交父、妹不缺钱寄旧物，是关系差别落实不同处置，尚未执行。宝先佣金玩笑再怒拒、主动求参战，西以先助自由为由拒、她反问无资本保护，用对话保持分歧。最后抚脸先细美手后粗指茧揭骑士旧迹，感觉修正玉喻、动作接具体职业历史，不只贴性感形容。"
+    },
+    {
+      "id": 83,
+      "first": "tz2:part0684:P0068",
+      "last": "tz2:part0685:P0051",
+      "blocks": 82,
+      "status": "read",
+      "note": "宝抚脸转拍肩、独念骑士誓到同念，告别互称骑士，再见特强调活回来，尚未证明必归。薇重伤外骨骼支撑才站梳妆出门，艳丽不等伤消；向未婚夫称西踏板、拥吻真实，不能把前救命只认骗或判全纯爱情。小鸟允娶此处薇亲口童话骗局，与先西童想并存。侍者先按车旗迎大使、看东方脸改拦、请柬黄金再迎，风停才显狼旗；地位识别被偏见打断，不是旗一露全顺。卢的关系真提供赌请柬，早假旧交后来多来往成朋友有过程，叶仍核心装备情报拿不到，入圈不等全权限。小说新罗马/拜占庭卢称谓混用不补历史学。"
+    },
+    {
+      "id": 84,
+      "first": "tz2:part0685:P0052",
+      "last": "tz2:part0686:P0049",
+      "blocks": 85,
+      "status": "read",
+      "note": "赌一面倒众确信反使庄家赚不了，路嫌冈散必胜非想护西，敌共享输赢目标仍局部冲突。叶押炽非保证卜真、卢真热心劝免损，假初交后来实际关照。赌数8000到1.5万而叶只5000中间他人下注可不强判算错。路对自己与外人话兄和/私恨不同，读者已有献金基准。贝由路看粗衰小腿舞训认到她自身心里不知高兴否，冈把杀西当替两人报仇她未承认同愿。失宠→无资源→无舞台→择订婚→才知衰，是有中间条件的人生变化，不能用落魄外貌独证懒或堕落。冈不娶附复仇条件是控制，不美化爱情。"
+    },
+    {
+      "id": 85,
+      "first": "tz2:part0686:P0050",
+      "last": "tz2:part0687:P0050",
+      "blocks": 86,
+      "status": "read",
+      "note": "贝哭原文明确她自己也分不清为西还是错人生，不硬解爱情/后悔唯一。路嫌打女但先看体面，后来眼色拖人；叶先拉起有现场动作不同。叶据盘口猜胜率<10是角色市场推不等真实战力概率；楚大注翻盘口非胜负已定、路喜可赚又嫉隐藏支持同一事件双后果。楚先对部下尊敌不屈、又否认你懂，独举杯骑士王补共同理想，关灯支走使另一理由有私密条件，不断定先说全假。昆昔告男爵新妹为钱是具体自责，不纯被害；艾受债母胁不自主嫌贫。三友骂不同仍陪，唐给领巾开车门、阿系却不会，帮忙有技能边界。军威转向碧要钱落回家财管理。"
+    },
+    {
+      "id": 86,
+      "first": "tz2:part0687:P0051",
+      "last": "tz2:part0688:P0042",
+      "blocks": 96,
+      "status": "read",
+      "note": "唐开门给昆装身份、假酒点贵求气场，旁人看真军衔不知表演。昆听歌感动却不懂词，阿翻才故乡名；艾自己的心声澄清唱几十次并非每次思昆，也因自己喜欢，不让男主感动替她定意。艾怕回炫地位不坐、昆结巴改问饿，唐以为不会追女，后补旧夜忙互留食，她才坐下吃，是外行误评后共同习惯恢复关系而非万能搭讪句。昆许钱权朋友内知都不足仍姿态撑，不将豪言当已清债；艾伸手因男爵现退，冲动再次遇实际阻力。不同城市距离比唐主观好感变化不是实比人价值。"
+    },
+    {
+      "id": 87,
+      "first": "tz2:part0688:P0043",
+      "last": "tz2:part0689:P0043",
+      "blocks": 83,
+      "status": "read",
+      "note": "唐依先到点歌规矩护，男爵换竞价仍同规则、阿钱多但系含材料定金不无限、蓝戒压过，西钱袋干瘪真救不了；唐隐项链只摸没拿，身份未揭，不断猜豪门。公主忽助可止这次争执不等艾债清/自由婚成，她先称骑士再公主护女，阿不解为只向未婚示爱、公主亲承此判断，不能强塞爱情唯一动机。帘子先遮人、军人铁墙再开露主人，店主不知有实际遮挡与接酒流程。围桌言笑得安暂，由外部头衔资源改局不是几人豪言自己已赢。"
+    },
+    {
+      "id": 88,
+      "first": "tz2:part0689:P0044",
+      "last": "tz2:part0690:P0034",
+      "blocks": 81,
+      "status": "read",
+      "note": "公主离开香酒仍留，朋友兴高艾惧，帮助只压场未解除男爵控制；她说明哥哥骑警，骑士先据军界权限轻视，实际对方掌唐阿违法把柄/贵族秘闻可扩大罪，规则优势不保证对手照规则走。男爵知刺客与义臂枪改藏身，使原有技能方案失效；情报源来自刚去赌局听故事，不无因全知。阿第一次徒抱昆被推倒后改钢索，能力与任务联系。西选择代价尚未说是什么，威胁其主目标明日参战和妹，冲突从钱争变即时救人vs后续事业，非靠更大喊身份全赢。对艾虐待仅分析困境与反应不复写细节。"
+    },
+    {
+      "id": 89,
+      "first": "tz2:part0690:P0035",
+      "last": "tz2:part0691:P0040",
+      "blocks": 86,
+      "status": "read",
+      "note": "艾说归男爵是威逼下保昆退，不当自愿择爱。昆说走反复从怒到哭腔仍冲开人，和最初蛮牛冲锋能力联同心碎。唐威胁百种痛随后旁白明未学刑讯只是空话，不收入技能事实。西突然救人背景连家长放下劝，他对男爵说母家往事对方不懂，非每个对话为听者全理解。六响朋友误杀、阿看头完整验呼吸纠正活/耳伤，专业由可见结果辨不全靠性格直觉。门内警只棍被冲散、门外有长官枪多人再围，局部冲出未全脱。西人质怎么带是出门后回补不夸前完整动作连续；力量弱拖得费力仍有威势。只提结构后果不传强制伤害程序。"
+    },
+    {
+      "id": 90,
+      "first": "tz2:part0691:P0041",
+      "last": "tz2:part0692:P0064",
+      "blocks": 78,
+      "status": "read",
+      "note": "教官一人压三先看似拘捕，骑甲围却护背放走，制服军徽授予前情支持真实团体立场；军团复仇龙德并非忽承叛国无罪，同人不同组织关系可分。命令拘人仍有更高者来就无能的时间窗口，非无限抗令。蒸汽遮视说法由全体再放汽行动配合，但放走后仍须游河1km、湿衣冷弱艾、家禁/教廷未知/机关远，多次帮助各有范围。西湿外衣未必有用仍搭，他自己承不知，不夸必保暖。车阻先戒武、硝烟掺清香尚未命名、云开月照公主，身份到光才核；粉带被拿手里不同公态。国旗车外交身份使路障主动开，实际送至机关不是赢测试，卷尾战前未比赛、婚未成、艾债未明、母秘密未解。收束眼前能参战且主仍惧望，不能写全解决或下一册结局。"
+    }
+  ],
+  "notes": [
+    "Volume II includes both 女武神1 and 女武神2, part0591-part0692 inclusive; part0693 爱死你 excluded.",
+    "Previous 171 chapter analyses, 77 close-reading entries, all old book indexes and manifests retained unchanged.",
+    "96 numbered body fragments grouped into 18 consecutive same-title units, ch172-ch189; two sets of front matter excluded from body grouping.",
+    "Local copyright pages do not state publisher, date or ISBN; no print edition inferred.",
+    "Two referenced covers not analyzed; 26 shared assets are not 26 illustrations.",
+    "Local age, meeting-count and narration-order limitations recorded without speculative repair.",
+    "Raw novel text, readers, extraction and package retained in private session work directory, not bundled into the skill.",
+    "Six core judgments, nine method bodies and post-draft continuity workflow preserved exactly.",
+    "No original-writing outcome experiment, installation or publication."
+  ]
+}
