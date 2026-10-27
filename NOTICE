@@ -1,0 +1,49 @@
+# Third-party materials / 第三方材料声明
+
+本声明是 [LICENSE](LICENSE) 的范围说明，不是对第三方材料的重新授权，
+也不替代各项适用法律或原权利人的许可。
+
+## 小说引文与作品来源
+
+本项目分析以下江南作品的本地文字版本：
+
+- 《此间的少年》及后记：来源 ID 为 cijian。
+- 《龙族Ⅰ、Ⅱ、Ⅲ上／中／下、Ⅳ》：lz1、lz2、lz3a、lz3b、lz3c、lz4。
+- 《九州·缥缈录》六册：pm1–pm6。
+- 《天之炽Ⅰ、Ⅱ》（Ⅱ含本地两部分）：tz1、tz2。
+
+作品名、作者和版本限制见[书目索引](references/books/index.md)，
+具体片段保留来源编号、定位或短引。清单记录的是本地版本，不代表与某一纸本逐字一致。
+
+书中直接引文、转录片段及其他归第三方所有的受保护表达，均不纳入本项目的
+CC BY 4.0 或 MIT 授权。相关著作权及其他适用权利仍归各自权利人。
+贡献者自己的分析、评论和说明中有权许可的部分，按 LICENSE 授权。
+来源编号、作品描述或项目许可不会赋予使用者重用原作受保护表达的额外权利。
+
+引用用于评论和写法分析；本声明不表示已取得原权利人的单独授权，也不保证每处引用
+在所有使用场景和法域都符合引用例外。再使用者应分别核对第三方部分的使用依据。
+仓库不随附小说全文、电子书或逐段 reader；不能从本项目许可推导出对原著全文的授权。
+
+## 外部项目与工具
+
+[外部项目调研备忘](references/maintenance/related-skills.md)保留了以下项目的
+仓库、核查提交及具体文件链接：
+
+- tianyayu6/jiangnan-writer：https://github.com/tianyayu6/jiangnan-writer
+- zuoyou12/longzu.skillls：https://github.com/zuoyou12/longzu.skillls
+- cyberk1895/jiang-nan-skill：https://github.com/cyberk1895/jiang-nan-skill
+- Carl24-star/jiang-nan-perspective：https://github.com/Carl24-star/jiang-nan-perspective
+
+项目阅读流程使用过 book-to-skill：
+https://github.com/virgiliojr94/book-to-skill 。
+
+外部项目的原文、代码、图片及其他受保护材料仍适用其各自的权利和原有许可。
+链接、调研或使用工具，不表示本项目取得了改变其许可的权利。
+本项目独立编写的概述和评论中有权许可的部分，按 LICENSE 授权；
+不能把这些概述当成对第三方原材料的授权。
+
+## 名称与背书
+
+作者姓名、作品名和项目名用于说明来源或研究对象，不表示江南、出版方、
+外部项目维护者或相关权利人参与、授权或认可本项目。
+本项目的许可不授予冒称官方项目、制造背书或关联关系的权利。

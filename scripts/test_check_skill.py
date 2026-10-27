@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 SleepyLGod and contributors
 """Regression checks for Git metadata exclusion and new-document discovery."""
 from __future__ import annotations
 
@@ -43,6 +45,20 @@ class PackageDiscoveryTests(unittest.TestCase):
 
         with patch.object(check_skill.os, 'walk', walk_with_new_document):
             self.assertIn(check_skill.ROOT / 'chapters' / new_name, check_skill.distribution_files(check_skill.ROOT))
+
+    def test_missing_license_text_is_reported(self) -> None:
+        files = check_skill.distribution_files(check_skill.ROOT)
+        missing = check_skill.ROOT / 'LICENSES' / 'MIT.txt'
+        with patch.object(check_skill, 'distribution_files', return_value=[p for p in files if p != missing]):
+            with self.assertRaisesRegex(ValueError, 'missing license file: LICENSES/MIT.txt'):
+                check_skill.check()
+
+    def test_unlisted_license_directory_file_is_rejected(self) -> None:
+        files = check_skill.distribution_files(check_skill.ROOT)
+        extra = check_skill.ROOT / 'LICENSES' / 'unlisted-book.txt'
+        with patch.object(check_skill, 'distribution_files', return_value=[*files, extra]):
+            with self.assertRaisesRegex(ValueError, 'unexpected packaged file: LICENSES/unlisted-book.txt'):
+                check_skill.check()
 
 
 if __name__ == '__main__':

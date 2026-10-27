@@ -1,0 +1,34 @@
+# Licensing scope / 许可范围
+
+Copyright (c) 2026 SleepyLGod and contributors.
+
+本仓库按文件用途分别授权，不是对同一份材料提供任选协议。
+
+## 文字与整理：CC BY 4.0
+
+除下述例外外，本项目贡献者有权许可的文字、分析、说明及资料编排，采用
+Creative Commons Attribution 4.0 International（CC BY 4.0）。范围包括
+SKILL.md、README.md、patterns.md、cheatsheet.md、glossary.md、chapters/、
+references/、sources/ 中归贡献者所有的可许可部分，以及本许可范围说明和 NOTICE。
+
+完整条款见 [LICENSES/CC-BY-4.0.txt](LICENSES/CC-BY-4.0.txt)。
+官方条款：https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+使用这些内容时，按 CC BY 4.0 提供适当署名、许可链接并说明修改。
+署名可采用“SleepyLGod and contributors, jiangnan-fiction-craft”，并链接到
+https://github.com/SleepyLGod/jiangnan-fiction-craft 。这只是可用的署名示例，
+不增加 CC BY 4.0 以外的条件，也不表示项目或原作作者认可某项使用。
+
+## 脚本与测试：MIT
+
+scripts/ 下的脚本及回归测试采用 MIT License，不适用上面的 CC BY 4.0。
+完整条款及版权声明见 [LICENSES/MIT.txt](LICENSES/MIT.txt)。
+
+## 第三方材料与标准许可文本
+
+小说引文及其他第三方受保护材料不在本项目的 CC BY 4.0 或 MIT 授权范围内；
+范围与来源见 [NOTICE](NOTICE)。只能许可贡献者有权授权的部分，不能通过本仓库
+的许可转授原著或其他项目的权利。
+
+LICENSES/ 中的标准许可文本用于传达各自的条款，保留其原有声明；上述路径范围
+不用于改写这些标准条款。本项目不对事实、通用方法或不受保护的内容主张额外权利。

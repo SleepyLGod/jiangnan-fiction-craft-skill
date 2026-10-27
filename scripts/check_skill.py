@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 SleepyLGod and contributors
 """Check local navigation, source bounds, and the distributable skill files."""
 
 from __future__ import annotations
@@ -15,6 +17,10 @@ from urllib.parse import unquote, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
+LICENSE_FILES = {
+    Path("LICENSE"), Path("NOTICE"),
+    Path("LICENSES/CC-BY-4.0.txt"), Path("LICENSES/MIT.txt"),
+}
 LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 CITATION = re.compile(
     r"\b(cijian|lz[124]|lz3[abc]|pm[1-6]|tz[12]):"
@@ -72,7 +78,13 @@ def check() -> dict[str, int]:
     errors: list[str] = []
     files = distribution_files(ROOT)
     packaged = set(files)
-    markdown = {path: path.read_text(encoding="utf-8") for path in files if path.suffix == ".md"}
+    for relative in sorted(LICENSE_FILES):
+        if ROOT / relative not in packaged:
+            errors.append(f"missing license file: {relative}")
+    markdown = {
+        path: path.read_text(encoding="utf-8") for path in files
+        if path.suffix == ".md" or path.relative_to(ROOT) in {Path("LICENSE"), Path("NOTICE")}
+    }
     graph: dict[Path, set[Path]] = {path: set() for path in markdown}
     links = 0
     for path, text in markdown.items():
@@ -146,9 +158,12 @@ def check() -> dict[str, int]:
     allowed_top = {"SKILL.md", "README.md", "patterns.md", "cheatsheet.md", "glossary.md", ".gitignore"}
     for path in files:
         relative = path.relative_to(ROOT)
-        if (len(relative.parts) == 1 and path.name not in allowed_top) or (
-            len(relative.parts) > 1 and relative.parts[0] not in allowed_roots
-        ) or path.suffix not in {".md", ".json", ".py", ""}:
+        allowed_location = (
+            path.name in allowed_top if len(relative.parts) == 1
+            else relative.parts[0] in allowed_roots
+        )
+        allowed_extension = path.suffix in {".md", ".json", ".py", ""}
+        if relative not in LICENSE_FILES and not (allowed_location and allowed_extension):
             errors.append(f"unexpected packaged file: {relative}")
             continue
         if re.search(r"(?:/Users/|/private/|/tmp/|file://)", path.read_text(encoding="utf-8")):
@@ -168,7 +183,7 @@ def check() -> dict[str, int]:
         raise ValueError("\n".join(errors))
     return {
         "files": len(files), "chapters": len(chapters), "manifests": len(manifests),
-        "markdown_links": links, "full_source_anchors": citations,
+        "markdown_links": links, "full_source_anchors": citations, "license_files": len(LICENSE_FILES),
     }
 
 
@@ -180,7 +195,7 @@ def main() -> int:
         print(f"Skill check failed:\n{exc}", file=sys.stderr)
         return 1
     print(json.dumps(result, ensure_ascii=False, indent=2))
-    print("Structure verified; original text and writing quality were not tested.")
+    print("Structure and license-file presence verified; original text and writing quality were not tested.")
     return 0
 
 
