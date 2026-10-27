@@ -1,22 +1,27 @@
-# 快速选择：先看当前缺什么
+# 快速选择：先看当前要决定什么
 
-按现稿的问题选读，不把下表当作逐项必查的规则。方法取舍见[patterns](patterns.md)，按书回查见[书目索引](references/books/index.md)。
+构思、查例或修改都可从问题进入，不必先有现稿。下表用于找参考，不是逐项必查的规则。需要比较几种写法时，先读[六组取舍](patterns.md#comparisons)；按书回查见[书目索引](references/books/index.md)。
 
 | 当前问题 | 先问 | 具体证据 |
 |---|---|---|
-| 词句都正确，却没有口气 | 哪个词改变语气？是叙述者、心声还是出口的话？ | 声音来源查[语言L1–L3、L6](references/techniques/close-reading-language.md)；衔接、句长、说明位置与段尾查[句段细读](references/techniques/close-reading-sentence-flow.md)；接话等按[方法页首表](patterns.md)选例 |
+| 词句都正确，却没有口气 | 哪个词改变语气？是叙述者、心声还是出口的话？ | 声音来源查[语言L1–L3、L6](references/techniques/close-reading-language.md)；接话等按[方法页首表](patterns.md)选例 |
+| 句子接不上，或不知道段尾停在哪里 | 前句给下一句留下什么？下一段接感知、辨认还是新意向？ | [句段S1、S4、S5](references/techniques/close-reading-sentence-flow.md) |
+| 一句话单独成段，和把长句改短有什么不同 | 改的是句子长度、句内展开，还是段落边界？ | [句段页首区分与用途表](references/techniques/close-reading-sentence-flow.md)；S2只用于已有心声与出口差异的场面 |
+| 旧事或原因，放在动作前还是回应后说明 | 希望读者先明白什么？人物和读者知道的一样多吗？ | [说明位置的比较](patterns.md#choice-explanation)，接S1、S3 |
 | 感慨像格言贴上去 | 此刻看见了什么变化，后面又如何回应？ | [语言L4](references/techniques/close-reading-language.md)；[TJ4、TJ5](references/books/piaomiao-03-close-reading.md)对照身体与日常 |
 | 难过只有情绪形容词 | 身体或物件能否带回前面实际付出的东西？ | [语言L5](references/techniques/close-reading-language.md)；[TC3、TC5](references/books/tianzhichi-01-close-reading.md)的残糕与递烟；[TY9、TY11](references/books/tianzhichi-02-close-reading.md)的吐酒与夜班旧习 |
 | 景物没有画面 | 从哪里看、先见什么、什么提供尺度与材质？ | [描写D1、D2](references/techniques/close-reading-description.md)；[TC2、TC4](references/books/tianzhichi-01-close-reading.md)的感官与伞；[YM2、YM8](references/books/piaomiao-05-close-reading.md)的玉环与冰河 |
-| 动作一团快 | 一轮动作后能否认出姿势、位置和物件状态？ | [描写D3](references/techniques/close-reading-description.md)；[CZ3、CZ4](references/books/piaomiao-04-close-reading.md)的分粮与辨痕 |
-| 角色只有标签或口头禅 | 同一条件下各人请求、担心、回应有什么不同？ | [人物C1–C3](references/techniques/close-reading-character.md)；[YM3、YM4](references/books/piaomiao-05-close-reading.md)的漏接与反问；[TJ1、TJ2](references/books/piaomiao-03-close-reading.md)；[TY7、TY8](references/books/tianzhichi-02-close-reading.md)的同刻关注与婚书；[ch02](chapters/ch02-cijian-routines.md)、[ch04](chapters/ch04-cijian-recognition.md)、[ch09](chapters/ch09-cijian-withdrawal.md)查档案式人物 |
+| 风景没有推动事件，要不要删掉 | 它有没有让空间、声音或时间变得可感？当前阅读是否需要这次停留？ | [描写取舍](patterns.md#choice-description)与下文成文后取舍，不能只按事件是否改变决定 |
+| 连续打斗一团快，认不出姿势和位置 | 一轮动作后能否认出姿势、位置和物件状态？ | [描写D3](references/techniques/close-reading-description.md)；[CZ3、CZ4](references/books/piaomiao-04-close-reading.md)的分粮与辨痕 |
+| 同场对话像一个人在说，或角色只有标签、口头禅 | 各人想办什么事，怎样请求、担心和回应？还是需要区分各自注意到了什么？ | 先看[说话与关注的区别](patterns.md#choice-character)；[人物C1–C3](references/techniques/close-reading-character.md)；[YM3、YM4](references/books/piaomiao-05-close-reading.md)的漏接与反问；[TJ1、TJ2](references/books/piaomiao-03-close-reading.md)；[TY7、TY8](references/books/tianzhichi-02-close-reading.md)的同刻关注与婚书；[ch02](chapters/ch02-cijian-routines.md)、[ch04](chapters/ch04-cijian-recognition.md)、[ch09](chapters/ch09-cijian-withdrawal.md)查档案式人物 |
+| 沉默的人，怎样让人看见他的选择 | 他选择记录、命名或保留了什么？这种表达是否符合他实际知道和在意的东西？ | [人物C4](references/techniques/close-reading-character.md)，只提供一种记录表达的例子，不包办所有沉默人物 |
 | 主角期待没有根据，反转凭空 | 布置是否同时支持当前解释与真实用途？ | [情节P1](references/techniques/close-reading-plot.md)；[CY7](references/books/piaomiao-02-close-reading.md)的分次补解 |
-| 伏笔只是再次出现 | 先前用途、持续持有和当前使用条件是什么？ | [情节P2](references/techniques/close-reading-plot.md) |
-| 跨章选择断开、关系变化只靠总结 | 前场说定或做出的事，后场具体接着处理什么？ | [《Ⅱ》楚夏线](references/techniques/long-arc-longzu-02.md)，只覆盖一条卷内线，不替代全书规划 |
-| 多线只是轮流出现、切场后看不出联系 | 一处的行动，在另一处变成了什么条件？ | [《殇阳血》多线回读](references/techniques/multi-line-piaomiao-03.md)，区分传令执行、退军经过与不同线的结果 |
+| 早先的工具现在能否派上用场，或伏笔只是再次出现 | 是要解决眼前问题，还是让人重新理解关系、选择旧物去向？前一种的用途、持有和当前条件是什么？ | [物件三种用途的比较](patterns.md#choice-object)，接P2、D4／P3及旧书处置；[折刀完整交付链](references/techniques/long-arc-longzu-02.md#knife) |
+| 跨章选择断开，邀约之后的关系变化只靠总结 | 前场说定或做出的事，后场具体接着处理什么？ | [跨章与跨线的区别](patterns.md#choice-connection)；[邀约的接受、准备与后续到访](references/techniques/long-arc-longzu-02.md#invitation)，只覆盖一条卷内线 |
+| 几个角色各有目标却没有互相影响，多线只是轮流出现 | 一处的行动，在另一处变成了什么条件？影响是否只有单向，还是确有对方的应变？ | [跨章与跨线的区别](patterns.md#choice-connection)；[《殇阳血》多线回读](references/techniques/multi-line-piaomiao-03.md)，只覆盖一段战役 |
 | 重大事件后只剩感慨 | 是否仍有一项关系需要被人物重新认识？ | [情节P3](references/techniques/close-reading-plot.md) |
-| 重试和复访很拖 | 哪些不变可压缩，哪次变化值得展开？ | [情节P4](references/techniques/close-reading-plot.md)；[CY3](references/books/piaomiao-02-close-reading.md)的握位比较 |
-| 帮忙等于被爱，合作自动和解 | 对方表达了什么、能改变哪件事？ | [patterns](patterns.md)的帮助方法；ch39、ch77 |
+| 人物一遍遍尝试，哪些写、哪些略过 | 变的是办法、对手的应付，还是人物对失败的理解？ | [重复的比较](patterns.md#choice-repetition)，接P4、CY3和[ch112](chapters/ch112-lz4-recursive-dream.md) |
+| 帮忙等于被爱，合作自动和解；揭示真相后又认定此前帮助全假 | 已发生的帮助、后来得知的目的、关系承诺，各有什么证据？ | [帮助方法](patterns.md#帮助之后的人物选择)；[新身份下保留原有关系证据](references/techniques/long-arc-longzu-02.md#揭示后怎样保留原有的关系证据)；ch39、ch77 |
 | 赢一项就宣布全局结束 | 目标、撤离、伤势与后续各到哪一步？ | [patterns](patterns.md)的任务方法；ch16、ch67、ch101、ch117；[TC6、TC7](references/books/tianzhichi-01-close-reading.md)的修门与指令变化 |
 | 自述或记录直接变成事实 | 来源是否独立，结尾有无后证？ | ch99、ch105；[BH4](references/books/piaomiao-06-close-reading.md)的半事实与真箭；[跨书取舍](references/techniques/cross-book-methods.md)；[《蛮荒》PM7](references/books/piaomiao-01-close-reading.md)对照记载遗漏 |
 | 称呼不见关系、探索只有形容词 | 有无称呼基线？人物凭什么认路，发现后改了什么行动？ | [《蛮荒》PM1、PM3](references/books/piaomiao-01-close-reading.md) |
@@ -51,7 +56,7 @@
 
 **取舍：** 细节不改变事件，也可能改变空间、声音和时间感；回忆不必每段推动下一动作；直接抒情不一律删除。判断条件与证据见[跨书取舍](references/techniques/cross-book-methods.md)。
 
-**交付：** 构思交付故事安排，正文交付正文，修改标明具体位置；不要把检查清单写进小说。尊重当前人物、视角和已知事实。新示例标为原创，不借原作人物替换用户角色。
+**交付：** 查例交付相关片段和区别，适用性判断说明所需条件与尚缺信息；构思交付故事安排，正文交付正文，修改标明具体位置。交付前对照用户明确提出的篇幅、格式和必需内容，修正遗漏。不要把检查清单写进小说。尊重当前人物、视角和已知事实。新示例标为原创，不借原作人物替换用户角色。
 
 **分镜：** 先辨认一次行动或信息变化，再决定动作、空间、停顿与旁白的承担；不按句号机械切格。本skill未研究漫画原作或验证分镜效果。
 

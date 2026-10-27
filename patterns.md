@@ -1,6 +1,6 @@
 # 写作方法与证据
 
-编辑归纳，非作者理论。按当前问题选读，重复证据共用入口，不逐条套用。
+编辑归纳，非作者理论。先看当前要做的选择，再回到细读中的原文安排与条件；重复证据共用入口，不逐条套用。下面的取舍是编辑比较，不是作者起稿过程或已验证的读者效果。
 
 | 当前问题 | 选例 |
 |---|---|
@@ -13,6 +13,21 @@
 | 预先布置／延后辨认 | [情节P1–P4](references/techniques/close-reading-plot.md)；[TY10后辨认](references/books/tianzhichi-02-close-reading.md#ty10) |
 | 技术步骤、条件与分阶段结果 | [TC6修门](references/books/tianzhichi-01-close-reading.md#tc6-门合得更紧为什么这一小步反而修好了)；[YM7射击条件](references/books/piaomiao-05-close-reading.md#ym7)；[YM9救援后果](references/books/piaomiao-05-close-reading.md#ym9) |
 | 探索与记载 | [PM3路线](references/books/piaomiao-01-close-reading.md#pm3)；[PM7遗漏](references/books/piaomiao-01-close-reading.md#pm7) |
+
+<a id="comparisons"></a>
+
+## 六组相近写法怎样选择
+
+这些比较接已有分析，不另立通用规则。先选相关的一组；需要具体用词、动作和阅读顺序时，再读右栏细读。
+
+| 要决定什么 | 怎么比较与选择 | 回查证据 |
+|---|---|---|
+| <a id="choice-explanation"></a>原因和旧事何时说明 | 要让读者先带着原因理解动作，可提前交代；要先呈现感受或回应，再补理解它的背景，可延后。S1先说淋雨造成的冷，伤痛后补伤因；S3紧跟起身澄清紧张，却在吃东西的回应之后补共同夜班。移动说明会改变读者先知道什么，不自动改变人物所知。先核对叙述者有无权限，后置不天然更含蓄。 | [句段S1](references/techniques/close-reading-sentence-flow.md#s1)、[S3](references/techniques/close-reading-sentence-flow.md#s3) |
+| <a id="choice-description"></a>描写让人停留，还是帮助辨认 | 已有离校时间与回望情境时，D1用风经过地面、灌木与叶声让日常变得可感；要随接近过程展开空间与尺度，选D2；连续动作后辨不清姿态，选D3的一次停顿。它们分别改变停留感、空间展开和动作辨认；删去不改变事件，不代表阅读感受不变。急迫行动能容纳多长停留，要回到当前节奏判断。 | [描写D1–D3](references/techniques/close-reading-description.md) |
+| <a id="choice-character"></a>人物说得一样，还是看得一样 | 台词都像一个人时，C1先区分各人要办的事和请求、顾虑、换题等回应。需要同一瞬间表现不同关注时，TY7选取不同人物所见，不重播全套动作。前者改变话语在做什么，后者改变叙述让谁注意什么；关注差异不能单独解决措辞和句法的全部声线问题。跨人物呈现还须符合既定视角。 | [人物C1](references/techniques/close-reading-character.md)、[TY7](references/books/tianzhichi-02-close-reading.md#ty7) |
+| <a id="choice-object"></a>物件改变行动，还是改变认识与去向 | 要让工具解决眼前问题，P2连同折刀链核对用途、交付与持有、能力和当前距离；要让人物迟到地理解关系，D4／P3靠处理物件发现原有记录，逐项增加信息；已有卖、留、送的处置任务时，旧书例用不同待遇显出在意。三种作用可以并存，但一项成立不保证另两项成立；不是所有旧物都要藏秘密或在高潮救场。 | [P2、P3](references/techniques/close-reading-plot.md)、[折刀链](references/techniques/long-arc-longzu-02.md#knife)、[D4](references/techniques/close-reading-description.md)、[旧书处置](chapters/ch10-cijian-departure.md#方法与原因) |
+| <a id="choice-repetition"></a>同样失败，哪些值得展开 | 确有成长却输赢不变时，CY3比较对手被迫改变的握位，让成效和差距同时可见；决定每轮写多少时，P4把篇幅留给办法、意外或认识的变化，ch112把强攻失败接到辨认威胁的准备。没有变化的经过可以略写；不是每次失败都证明成长，也不要求每轮同时增加经验和代价。 | [CY3](references/books/piaomiao-02-close-reading.md#cy3-十三次仍败进步落在对手握枪的位置)、[P4](references/techniques/close-reading-plot.md)、[ch112](chapters/ch112-lz4-recursive-dream.md#方法与原因) |
+| <a id="choice-connection"></a>跨章续接一件事，还是跨线传递影响 | 楚夏线沿邀约的接受、准备、改道与后续到访，继续处理同一件未完成事项；殇阳血则让命令、执行、对手应变和撤退经过，把一处行动变成另一处的条件。先后出现、前后照应与直接因果要分别确认。营地承受突围后果，不等于救友反过来决定全军胜负；切场不要求等长或所有线在同一点结束。 | [邀约链](references/techniques/long-arc-longzu-02.md#invitation)、[传令与应变](references/techniques/multi-line-piaomiao-03.md#transmission)、[路线后果](references/techniques/multi-line-piaomiao-03.md#camp)、[不同结果](references/techniques/multi-line-piaomiao-03.md#convergence) |
 
 ## 办事带出人物
 
