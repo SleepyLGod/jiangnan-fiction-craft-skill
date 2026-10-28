@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: MIT
 # Copyright (c) 2026 SleepyLGod and contributors
-"""Regression checks for Git metadata exclusion and new-document discovery."""
+"""Regression checks for package discovery, licensing, and workflow scope."""
 from __future__ import annotations
 
 from collections.abc import Iterator
@@ -58,6 +58,18 @@ class PackageDiscoveryTests(unittest.TestCase):
         extra = check_skill.ROOT / 'LICENSES' / 'unlisted-book.txt'
         with patch.object(check_skill, 'distribution_files', return_value=[*files, extra]):
             with self.assertRaisesRegex(ValueError, 'unexpected packaged file: LICENSES/unlisted-book.txt'):
+                check_skill.check()
+
+    def test_workflow_is_discovered_and_checked(self) -> None:
+        files = check_skill.distribution_files(check_skill.ROOT)
+        self.assertIn(check_skill.ROOT / '.github/workflows/check.yml', files)
+        self.assertEqual(check_skill.check()['files'], len(files))
+
+    def test_unlisted_workflow_file_is_rejected(self) -> None:
+        files = check_skill.distribution_files(check_skill.ROOT)
+        extra = check_skill.ROOT / '.github/workflows/unlisted-book.txt'
+        with patch.object(check_skill, 'distribution_files', return_value=[*files, extra]):
+            with self.assertRaisesRegex(ValueError, 'unexpected packaged file: .github/workflows/unlisted-book.txt'):
                 check_skill.check()
 
 

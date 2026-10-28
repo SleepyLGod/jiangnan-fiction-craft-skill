@@ -21,6 +21,7 @@ LICENSE_FILES = {
     Path("LICENSE"), Path("NOTICE"),
     Path("LICENSES/CC-BY-4.0.txt"), Path("LICENSES/MIT.txt"),
 }
+REPOSITORY_FILES = {Path(".github/workflows/check.yml")}
 LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 CITATION = re.compile(
     r"\b(cijian|lz[124]|lz3[abc]|pm[1-6]|tz[12]):"
@@ -163,7 +164,7 @@ def check() -> dict[str, int]:
             else relative.parts[0] in allowed_roots
         )
         allowed_extension = path.suffix in {".md", ".json", ".py", ""}
-        if relative not in LICENSE_FILES and not (allowed_location and allowed_extension):
+        if relative not in LICENSE_FILES | REPOSITORY_FILES and not (allowed_location and allowed_extension):
             errors.append(f"unexpected packaged file: {relative}")
             continue
         if re.search(r"(?:/Users/|/private/|/tmp/|file://)", path.read_text(encoding="utf-8")):

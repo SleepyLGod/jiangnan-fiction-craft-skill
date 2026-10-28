@@ -1,6 +1,6 @@
 # jiangnan-fiction-craft
 
-以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前版本 **0.19.3**：补齐文字与脚本的分路径许可、第三方材料声明及相应检查，保留已有分析和用法。
+以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前版本 **0.19.4**：补充 Codex 项目内安装与验证说明、一个完整编辑示例和自动结构检查，保留已有分析和用法。
 
 已纳入《此间的少年》及后记、《龙族》六册、《九州·缥缈录》六册及《天之炽》两册，共189份章节分析、原89例细读、S1–S5五组句段分析、一条卷内关系线和[一段战役多线回读](references/techniques/multi-line-piaomiao-03.md)。逐卷范围、版本限制与来源见[书目索引](references/books/index.md)。
 
@@ -24,6 +24,8 @@
 
 阅读材料按问题加载，不需要每次通读全部书目，也不把分析表或检查清单写进小说。
 
+第一次使用可看[完整编辑示例](references/maintenance/usage-example.md)：从一段原创告别原稿出发，查两条材料，解释取舍，再给局部修改和未解决部分。这是AI 编写的演示，不是效果测评。
+
 ## 目录
 
 ```text
@@ -35,9 +37,10 @@ chapters/                 189份章节分析；原文件名和编号保留
 references/
   techniques/             语言、句段、描写、人物、情节、跨章与跨书分析
   books/                  书目总索引、逐卷索引及逐卷局部细读
-  maintenance/            来源规则、更新记录与其他项目调研
+  maintenance/            来源规则、安装验证、使用示例、更新记录及项目调研
 sources/                  15份来源清单及《龙族》逐册状态
 scripts/check_skill.py    无第三方依赖的结构检查
+.github/workflows/        提交与 PR 的自动结构检查
 LICENSE                   文字与脚本的许可范围
 NOTICE                    小说引文与第三方材料声明
 LICENSES/                 CC BY 4.0、MIT 完整条款
@@ -45,9 +48,33 @@ LICENSES/                 CC BY 4.0、MIT 完整条款
 
 `SKILL.md`给出使用方式；`cheatsheet.md`集中具体问题；`patterns.md`比较方法；书目页负责定位原有分析。逐卷细读留在各书入口下，不把同一片段重复提炼成新的通用规则。
 
-## 安装与使用边界
+## 安装与验证（Codex）
 
-将整个仓库目录作为一个skill使用，保留上述相对路径。目录内的`SKILL.md`是入口；本版本不会自动安装到其他位置。
+先支持 Codex 的项目内安装。准备 Git，在你写作项目的根目录打开终端，运行：
+
+```sh
+mkdir -p .agents/skills
+git clone --branch v0.19.4 --depth 1 https://github.com/SleepyLGod/jiangnan-fiction-craft-skill.git .agents/skills/jiangnan-fiction-craft
+```
+
+这会安装完整仓库及配套材料，保留相对路径。固定版本的克隆会提示处于 detached HEAD，这是按标签安装的正常状态；不要只复制 `SKILL.md`。若目标目录已存在，先确认其版本及有无自己的改动，不覆盖它。
+
+在 Codex 中打开这个写作项目，检查 skill 选择列表中是否出现 `jiangnan-fiction-craft`，再显式调用：
+
+> 使用 $jiangnan-fiction-craft，先读取它的 SKILL.md，再查人物 C1。告诉我该条目的相对路径、书源定位和一条适用边界。先不写小说；如果未找到，请直接说明。
+
+预期找到 `references/techniques/close-reading-character.md` 的 C1，定位包含 `cijian:ch9:P0002–P0011`，并指出这一条不能把人物固定成永远相同的反应。回答里能复述 skill 名称不等于读到了文件：可查看读取记录，核对实际路径。未出现在列表时，检查目录中是否直接有 `SKILL.md`，并重启 Codex 后再看；避免同时放置多个同名副本。
+
+只想核对安装文件且本机有 Python 3.10 或以上，可在写作项目根目录运行：
+
+```sh
+python3 .agents/skills/jiangnan-fiction-craft/scripts/check_skill.py
+python3 -B -m unittest discover -s .agents/skills/jiangnan-fiction-craft/scripts -p test_check_skill.py
+```
+
+安装位置依据 [Codex 官方说明](https://learn.chatgpt.com/docs/build-skills)。实际验证范围见[安装验证记录](references/maintenance/installation.md)。本轮验证了公开仓库下载、文件完整性和 Codex 的 skill 发现；没有通过模型回答验证上述提问，也没有测评写作效果。其他宿主、全局安装和桌面选择器的手动操作尚未验证。
+
+## 使用边界
 
 仓库包含分析、必要短引、来源指纹与覆盖记录，不包含小说全文、电子书、逐段reader或本机转换工作目录。原文锚点对应记录中的本地文字版本，不是纸书页码；版本未与指定纸本逐字校勘。
 
@@ -60,7 +87,7 @@ LICENSES/                 CC BY 4.0、MIT 完整条款
 | 范围 | 许可 |
 |---|---|
 | 贡献者有权许可的文字、精读分析、方法说明与资料编排 | [CC BY 4.0 完整条款](LICENSES/CC-BY-4.0.txt) |
-| `scripts/` 下的脚本和回归测试 | [MIT 完整条款](LICENSES/MIT.txt) |
+| `scripts/` 下的脚本、回归测试及 `.github/workflows/` 自动检查配置 | [MIT 完整条款](LICENSES/MIT.txt) |
 | 小说引文和其他第三方受保护材料 | 不在上述授权范围内，见 [NOTICE](NOTICE) |
 
 文字可按 CC BY 4.0 使用、修改和商用，需适当署名、链接许可并注明修改；脚本按 MIT 保留版权和许可声明。独立分析的许可不等于原著授权。本项目不声称获得原作作者、出版方或所调研项目的官方背书。
@@ -73,6 +100,8 @@ LICENSES/                 CC BY 4.0、MIT 完整条款
 python3 scripts/check_skill.py
 python3 -B -m unittest discover -s scripts -p test_check_skill.py
 ```
+
+GitHub Actions 在提交到 `main`、提交 PR 或手动触发时运行同样两项命令，使用 Python 3.11，不调用模型；工作流只有仓库内容读取权限。
 
 检查相对链接与章节锚点、书目可达性、来源定位边界、分析编号与清单对应、打包范围及许可文件是否齐全。许可文件检查不认证每处第三方引用的合法性，也不代替回读原文或实际写作比较。文件格式通过不表示文学效果通过。
 

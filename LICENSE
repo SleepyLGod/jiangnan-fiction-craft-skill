@@ -16,12 +16,13 @@ references/、sources/ 中归贡献者所有的可许可部分，以及本许可
 
 使用这些内容时，按 CC BY 4.0 提供适当署名、许可链接并说明修改。
 署名可采用“SleepyLGod and contributors, jiangnan-fiction-craft”，并链接到
-https://github.com/SleepyLGod/jiangnan-fiction-craft 。这只是可用的署名示例，
+https://github.com/SleepyLGod/jiangnan-fiction-craft-skill 。这只是可用的署名示例，
 不增加 CC BY 4.0 以外的条件，也不表示项目或原作作者认可某项使用。
 
-## 脚本与测试：MIT
+## 脚本、测试与自动检查配置：MIT
 
-scripts/ 下的脚本及回归测试采用 MIT License，不适用上面的 CC BY 4.0。
+scripts/ 下的脚本、回归测试，以及 .github/workflows/ 下的自动检查配置，
+采用 MIT License，不适用上面的 CC BY 4.0。
 完整条款及版权声明见 [LICENSES/MIT.txt](LICENSES/MIT.txt)。
 
 ## 第三方材料与标准许可文本
