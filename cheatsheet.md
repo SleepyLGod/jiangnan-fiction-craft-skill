@@ -1,6 +1,6 @@
 # 快速选择：先看当前要决定什么
 
-构思、查例或修改都可从问题进入，不必先有现稿。下表用于找参考，不是逐项必查的规则。需要比较几种写法时，先读[六组取舍](patterns.md#comparisons)；按书回查见[书目索引](references/books/index.md)。
+构思、查例或修改都可从问题进入，不必先有现稿。下表的“先问”用于定位，不是写法本身；沿右栏读具体条目的原文安排与条件，再决定当前作品能借鉴什么，不必通读整页。需要比较几种写法时，先读[六组取舍](patterns.md#comparisons)；其他局部选择见[具体选例](patterns.md#examples)，按书回查见[书目索引](references/books/index.md)。
 
 | 当前问题 | 先问 | 具体证据 |
 |---|---|---|
@@ -9,10 +9,12 @@
 | 一句话单独成段，和把长句改短有什么不同 | 改的是句子长度、句内展开，还是段落边界？ | [句段页首区分与用途表](references/techniques/close-reading-sentence-flow.md)；S2只用于已有心声与出口差异的场面 |
 | 旧事或原因，放在动作前还是回应后说明 | 希望读者先明白什么？人物和读者知道的一样多吗？ | [说明位置的比较](patterns.md#choice-explanation)，接S1、S3 |
 | 感慨像格言贴上去 | 此刻看见了什么变化，后面又如何回应？ | [语言L4](references/techniques/close-reading-language.md)；[TJ4、TJ5](references/books/piaomiao-03-close-reading.md)对照身体与日常 |
-| 难过只有情绪形容词 | 身体或物件能否带回前面实际付出的东西？ | [语言L5](references/techniques/close-reading-language.md)；[TC3、TC5](references/books/tianzhichi-01-close-reading.md)的残糕与递烟；[TY9、TY11](references/books/tianzhichi-02-close-reading.md)的吐酒与夜班旧习 |
-| 景物没有画面 | 从哪里看、先见什么、什么提供尺度与材质？ | [描写D1、D2](references/techniques/close-reading-description.md)；[TC2、TC4](references/books/tianzhichi-01-close-reading.md)的感官与伞；[YM2、YM8](references/books/piaomiao-05-close-reading.md)的玉环与冰河 |
+| 难过只有情绪形容词 | 身体或物件能否带回前面实际付出的东西？ | [L5酸痛带回采花的付出](references/techniques/close-reading-language.md#l5-身体反应延伸到先前的付出ⅰ的放映厅)，用于前文已有具体付出的受挫场面；[TC3、TC5](references/books/tianzhichi-01-close-reading.md)的残糕与递烟；[TY9、TY11](references/books/tianzhichi-02-close-reading.md)的吐酒与夜班旧习 |
+| 声音、身体感受写得笼统，或动作前后的感觉没有区别 | 哪个动作改变了声音、气味、温度或身体状态？是感受变化，还是感知后才辨认出原因？ | [TC2上油后的微声、受热后的柔韧与疼痛](references/books/tianzhichi-01-close-reading.md#tc2)；[CY4换热酒再写混合气味](references/books/piaomiao-02-close-reading.md#cy4-一场酒雨先有换冷酒的动作)；[TC4伞罩过来后才辨认、裙摆随转身收拢](references/books/tianzhichi-01-close-reading.md#tc4) |
+| 景物没有画面 | 从哪里看、先见什么、什么提供尺度与材质？ | [描写D1、D2](references/techniques/close-reading-description.md)；[YM2、YM8](references/books/piaomiao-05-close-reading.md)的玉环与冰河 |
+| 比喻好看，却与眼前交涉无关 | 它改变了双方怎样解释这笔交易，还是只换了说法？ | [TC8蛇与狮子](references/books/tianzhichi-01-close-reading.md#tc8-对方讲蛇回答却换成被拔爪的狮子)，用于已有两种利益解释的交涉；修辞之后仍看资源和结果 |
 | 风景没有推动事件，要不要删掉 | 它有没有让空间、声音或时间变得可感？当前阅读是否需要这次停留？ | [描写取舍](patterns.md#choice-description)与下文成文后取舍，不能只按事件是否改变决定 |
-| 连续打斗一团快，认不出姿势和位置 | 一轮动作后能否认出姿势、位置和物件状态？ | [描写D3](references/techniques/close-reading-description.md)；[CZ3、CZ4](references/books/piaomiao-04-close-reading.md)的分粮与辨痕 |
+| 连续打斗一团快，认不出姿势和位置 | 一轮动作后能否认出姿势、位置和物件状态？ | [描写D3](references/techniques/close-reading-description.md) |
 | 同场对话像一个人在说，或角色只有标签、口头禅 | 各人想办什么事，怎样请求、担心和回应？还是需要区分各自注意到了什么？ | 先看[说话与关注的区别](patterns.md#choice-character)；[人物C1–C3](references/techniques/close-reading-character.md)；[YM3、YM4](references/books/piaomiao-05-close-reading.md)的漏接与反问；[TJ1、TJ2](references/books/piaomiao-03-close-reading.md)；[TY7、TY8](references/books/tianzhichi-02-close-reading.md)的同刻关注与婚书；[ch02](chapters/ch02-cijian-routines.md)、[ch04](chapters/ch04-cijian-recognition.md)、[ch09](chapters/ch09-cijian-withdrawal.md)查档案式人物 |
 | 沉默的人，怎样让人看见他的选择 | 他选择记录、命名或保留了什么？这种表达是否符合他实际知道和在意的东西？ | [人物C4](references/techniques/close-reading-character.md)，只提供一种记录表达的例子，不包办所有沉默人物 |
 | 主角期待没有根据，反转凭空 | 布置是否同时支持当前解释与真实用途？ | [情节P1](references/techniques/close-reading-plot.md)；[CY7](references/books/piaomiao-02-close-reading.md)的分次补解 |

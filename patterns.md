@@ -1,17 +1,29 @@
 # 写作方法与证据
 
-编辑归纳，非作者理论。先看当前要做的选择，再回到细读中的原文安排与条件；重复证据共用入口，不逐条套用。下面的取舍是编辑比较，不是作者起稿过程或已验证的读者效果。
+编辑归纳，非作者理论。先看当前要做的选择，再回到细读中的原文安排与条件；重复证据共用入口，不逐条套用。页首选例通向局部写法，六组比较帮助区分相近方案，后面的通用方法用于导航，不能代替细读。下面的取舍是编辑比较，不是作者起稿过程或已验证的读者效果。
+
+<a id="examples"></a>
+
+## 从具体选择进入细读
+
+下表只提示安排与条件，完整分析留在原页；不是要求每篇都采用这些写法。
 
 | 当前问题 | 选例 |
 |---|---|
 | 补句：安慰或笑点 | [BH3安慰](references/books/piaomiao-06-close-reading.md#bh3)；[TY5笑点](references/books/tianzhichi-02-close-reading.md#ty5) |
+| 身体反应怎样带回前面的付出 | [L5冷意落到采花跑疼的关节](references/techniques/close-reading-language.md#l5-身体反应延伸到先前的付出ⅰ的放映厅)：受挫时回接已写出的付出，区别于单纯加重身体反应；须有那项前文准备 |
+| 声音、身体状态怎样随动作变化，感知后怎样辨认原因 | [TC2上油组回后的微声、热水中的柔韧与疼痛](references/books/tianzhichi-01-close-reading.md#tc2)；[TC4先觉得雨小，再抬头辨认伞，转身时裙摆展开又收拢](references/books/tianzhichi-01-close-reading.md#tc4) |
+| 感官比喻怎样从动作中长出来 | [CY4换冷酒、热度蒸出混合气味，再到酒雨](references/books/piaomiao-02-close-reading.md#cy4-一场酒雨先有换冷酒的动作)：沿接触与感知展开，区别于静态罗列五感；须有相应材料与停留时间 |
+| 同一场面，哪些原因先说、哪些后说 | [S3先澄清起身紧张，回应后补夜班旧事](references/techniques/close-reading-sentence-flow.md#s3)：读者知情的时点不同，人物不因此自动知情；须有共同经历与叙述权限。[与S1比较](#choice-explanation) |
 | 重复：交付或口令 | [TC5传递](references/books/tianzhichi-01-close-reading.md#tc5)；[TY3间隔变化](references/books/tianzhichi-02-close-reading.md#ty3) |
-| 句段、描写与感官 | [描写D1–D4](references/techniques/close-reading-description.md)；[句段S1–S5](references/techniques/close-reading-sentence-flow.md) |
+| 句段、空间、停顿与物件发现 | [描写D1–D4](references/techniques/close-reading-description.md)；[句段S1–S5](references/techniques/close-reading-sentence-flow.md) |
 | 光线、拿取与所见 | [CY5光线](references/books/piaomiao-02-close-reading.md#cy5)；[YM2玉环](references/books/piaomiao-05-close-reading.md#ym2) |
-| 群像与关注 | [人物C1–C4](references/techniques/close-reading-character.md)；[TY7不同关注](references/books/tianzhichi-02-close-reading.md#ty7) |
+| 群像：改变接话，还是分配同刻所见 | [人物C1–C4](references/techniques/close-reading-character.md)；[TY7车身、酒瓶、额发各有所见](references/books/tianzhichi-02-close-reading.md#ty7)，不重播全套动作，须允许跨人物呈现；[与回应策略比较](#choice-character) |
 | 接话没有接住需要 | [TJ1打断](references/books/piaomiao-03-close-reading.md#tj1)；[CZ2背熟](references/books/piaomiao-04-close-reading.md#cz2)；[YM3漏接](references/books/piaomiao-05-close-reading.md#ym3) |
 | 预先布置／延后辨认 | [情节P1–P4](references/techniques/close-reading-plot.md)；[TY10后辨认](references/books/tianzhichi-02-close-reading.md#ty10) |
-| 技术步骤、条件与分阶段结果 | [TC6修门](references/books/tianzhichi-01-close-reading.md#tc6-门合得更紧为什么这一小步反而修好了)；[YM7射击条件](references/books/piaomiao-05-close-reading.md#ym7)；[YM9救援后果](references/books/piaomiao-05-close-reading.md#ym9) |
+| 技术步骤、条件与分阶段结果 | [TC6门合紧却已解除自锁，再用钥匙验证](references/books/tianzhichi-01-close-reading.md#tc6-门合得更紧为什么这一小步反而修好了)：旁观误判依赖已交代的中间状态，区别于临时宣布假失败；[YM7射击条件](references/books/piaomiao-05-close-reading.md#ym7)；[YM9救援后果](references/books/piaomiao-05-close-reading.md#ym9) |
+| 同样失败，怎样看出进步而仍有差距 | [CY3对手被迫前移握位，最强防守仍未用](references/books/piaomiao-02-close-reading.md#cy3-十三次仍败进步落在对手握枪的位置)：须能前后比较且确有因果，区别于只用胜负表示成长；[与篇幅分配比较](#choice-repetition) |
+| 比喻怎样改变交涉的前提 | [TC8从农夫与蛇换成被拔爪的狮子](references/books/tianzhichi-01-close-reading.md#tc8-对方讲蛇回答却换成被拔爪的狮子)：已有利益争议时重新安排交易角色，区别于装饰性类比；对方并未因此被说服结束 |
 | 探索与记载 | [PM3路线](references/books/piaomiao-01-close-reading.md#pm3)；[PM7遗漏](references/books/piaomiao-01-close-reading.md#pm7) |
 
 <a id="comparisons"></a>
@@ -57,7 +69,7 @@
 
 **何时用：** 制度和说教没有落到行动。
 **怎么做：** 明确资源、程序和劳动；比较提出者或执行者改变后谁接受、谁承担代价。
-**区别：** 情境未必完全相同，不把全部差异都归身份；劝告还要看谁有条件承担失败。见[ch06](chapters/ch06-cijian-authority.md)、[ch54](chapters/ch54-lz3a-knot.md)。
+**区别：** 情境未必完全相同，不把全部差异都归身份；劝告还要看谁有条件承担失败。见[ch06](chapters/ch06-cijian-authority.md)、[ch54](chapters/ch54-lz3a-knot.md)；分配份额与军阶造成的顾虑，另见[CZ3分粮解除拘束](references/books/piaomiao-04-close-reading.md#cz3-主帅同吃一顿先解决最后一份够不够分)。
 
 ## 回忆与当前场景
 
@@ -75,7 +87,7 @@
 
 **何时用：** 人物猜什么都对，或身份揭示清空前文。
 **怎么做：** 列观察、当前解释与反证，检查新信息重释了什么；对读者延迟揭示时，仍留下可辨认的布置。
-**区别：** 查证词是否同源是审稿检查；布置误读是呈现方法，两者不能互相替代。见[ch99](chapters/ch99-lz3c-clown.md)、[ch105](chapters/ch105-lz4-boy-funeral.md)、[情节P1](references/techniques/close-reading-plot.md)。
+**区别：** 查证词是否同源是审稿检查；布置误读是呈现方法，两者不能互相替代。见[ch99](chapters/ch99-lz3c-clown.md)、[ch105](chapters/ch105-lz4-boy-funeral.md)、[情节P1](references/techniques/close-reading-plot.md)；局部痕迹怎样支持此前所见，另见[CZ4银簪血痕](references/books/piaomiao-04-close-reading.md#cz4-棋盘已经干净银簪上还有一痕血)。
 
 ## 帮助之后的人物选择
 
