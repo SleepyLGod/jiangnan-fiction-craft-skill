@@ -1,0 +1,104 @@
+# SPDX-License-Identifier: CC-BY-4.0
+name: 一次真实使用反馈
+description: 记录一次使用的具体得失、读取过程和归因证据；有用、无用或出错都可以。
+title: "[使用反馈] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        一次反馈对应一个真实任务，不用评分，也不用为了填表重新测试。
+        前四项必填；读取记录和归因选填，不知道的写“未记录”或“不清楚”。
+        这是公开 Issue，只提交愿意公开的稿件与脱敏记录，不需要上传整部小说或完整聊天历史。
+  - type: textarea
+    id: environment
+    attributes:
+      label: 版本与使用环境
+      description: 按实际可见信息填写；模型只显示别名时保留别名，不推测底层版本。
+      placeholder: |
+        Skill 版本、标签或提交（不知道可写不清楚）：
+        模型及推理强度（如可见）：
+        使用的软件及版本：
+        安装方式、系统（如已知）：
+    validations:
+      required: true
+  - type: textarea
+    id: task
+    attributes:
+      label: 原始任务与必要稿件
+      description: 保留当时的要求；只需能理解问题的稿件片段，可脱敏，并说明有无省略。
+      placeholder: |
+        原始提问：
+        必要稿件片段：
+        当时明确的篇幅、格式、人物、视角或事实限制：
+        希望解决什么：
+    validations:
+      required: true
+  - type: textarea
+    id: first_result
+    attributes:
+      label: 第一次结果
+      description: 保留首轮输出，后续重写另标轮次，不替换首次结果。过长可附脱敏文件；只贴片段时说明省略了什么。未生成回答也可贴错误。
+      placeholder: |
+        首轮输出或错误：
+        是否删节、脱敏：
+        后续交流（如有，另标轮次）：
+    validations:
+      required: true
+  - type: textarea
+    id: gains_and_losses
+    attributes:
+      label: 哪里有用，哪里没用或变差
+      description: 指到具体建议、句子或遗漏，说明实际采用或拒绝的原因；没有的部分写“无”或“暂不能判断”。
+      placeholder: |
+        有用的具体位置，以及帮助我作出的选择：
+        没用、变差、改错事实或遗漏要求的具体位置：
+        实际采用／拒绝了什么，为什么：
+        尚未采用或无法判断的部分：
+    validations:
+      required: true
+  - type: textarea
+    id: reading_trace
+    attributes:
+      label: 实际读取与报错记录（选填）
+      description: 有工具记录时贴相关部分；只由模型口头声称读过的，要单独标明。没有记录不用补跑。
+      placeholder: |
+        实际读取的文件、条目或路径：
+        工具返回、截断、空读或报错：
+        记录来源（工具记录／仅模型自述／未记录）：
+    validations:
+      required: false
+  - type: dropdown
+    id: suspected_cause
+    attributes:
+      label: 可能涉及哪一类（选填，可多选）
+      description: 这是待核对的猜测，不是责任判定；不需要替维护者诊断。
+      multiple: true
+      options:
+        - 暂不能判断
+        - 内容：未覆盖所需问题
+        - 内容：原文、定位或归纳疑点
+        - 组织：入口、指向或相近材料难以区分
+        - 模型执行：误读、选错或未落实要求
+        - 运行环境：安装、发现、文件访问或工具问题
+        - 表达偏好不同，未必是错误
+    validations:
+      required: false
+  - type: textarea
+    id: attribution_evidence
+    attributes:
+      label: 归因证据、出现次数与未明事项（选填）
+      description: 把观察与猜测分开。已有一次或多次记录都可提交，无需专门复测；内容疑点可提供条目和原文定位，不必粘贴长段原著。
+      placeholder: |
+        直接观察到的事实：
+        它支持哪种原因，为什么：
+        其他可能原因、尚缺的证据：
+        目前只遇到一次／已有重复记录／不清楚：
+        若已有重复，是否为不同任务、模型或环境：
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        整理时分别说明“哪里有用、哪里没用、证据支持什么原因及还缺什么”。
+        材料已存在但入口有误，与材料本身有误分开处理；正确材料已读到但未执行，与工具无法读取分开处理。
+        没有原文可核对时，不认定提取或归纳出错；一次反馈也不直接当成稳定问题或新增规则的依据。

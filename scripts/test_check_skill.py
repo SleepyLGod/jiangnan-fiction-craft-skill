@@ -72,6 +72,13 @@ class PackageDiscoveryTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, 'unexpected packaged file: .github/workflows/unlisted-book.txt'):
                 check_skill.check()
 
+    def test_unlisted_issue_template_is_rejected(self) -> None:
+        files = check_skill.distribution_files(check_skill.ROOT)
+        extra = check_skill.ROOT / '.github/ISSUE_TEMPLATE/unlisted-book.yml'
+        with patch.object(check_skill, 'distribution_files', return_value=[*files, extra]):
+            with self.assertRaisesRegex(ValueError, 'unexpected packaged file: .github/ISSUE_TEMPLATE/unlisted-book.yml'):
+                check_skill.check()
+
 
 if __name__ == '__main__':
     unittest.main()

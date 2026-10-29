@@ -21,7 +21,10 @@ LICENSE_FILES = {
     Path("LICENSE"), Path("NOTICE"),
     Path("LICENSES/CC-BY-4.0.txt"), Path("LICENSES/MIT.txt"),
 }
-REPOSITORY_FILES = {Path(".github/workflows/check.yml")}
+REPOSITORY_FILES = {
+    Path(".github/workflows/check.yml"),
+    Path(".github/ISSUE_TEMPLATE/usage-feedback.yml"),
+}
 LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 CITATION = re.compile(
     r"\b(cijian|lz[124]|lz3[abc]|pm[1-6]|tz[12]):"

@@ -1,6 +1,6 @@
 # jiangnan-fiction-craft
 
-以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前版本 **0.19.4**：补充 Codex 项目内安装与验证说明、一个完整编辑示例和自动结构检查，保留已有分析和用法。
+以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前版本 **0.19.5**：局部补充D4动作与心理分析、收窄P3因果表述，加入使用反馈入口和单题测评记录；保留已有分析和目录，不宣称写作效果提升。
 
 已纳入《此间的少年》及后记、《龙族》六册、《九州·缥缈录》六册及《天之炽》两册，共189份章节分析、原89例细读、S1–S5五组句段分析、一条卷内关系线和[一段战役多线回读](references/techniques/multi-line-piaomiao-03.md)。逐卷范围、版本限制与来源见[书目索引](references/books/index.md)。
 
@@ -54,7 +54,7 @@ LICENSES/                 CC BY 4.0、MIT 完整条款
 
 ```sh
 mkdir -p .agents/skills
-git clone --branch v0.19.4 --depth 1 https://github.com/SleepyLGod/jiangnan-fiction-craft-skill.git .agents/skills/jiangnan-fiction-craft
+git clone --branch v0.19.5 --depth 1 https://github.com/SleepyLGod/jiangnan-fiction-craft-skill.git .agents/skills/jiangnan-fiction-craft
 ```
 
 这会安装完整仓库及配套材料，保留相对路径。固定版本的克隆会提示处于 detached HEAD，这是按标签安装的正常状态；不要只复制 `SKILL.md`。若目标目录已存在，先确认其版本及有无自己的改动，不覆盖它。
@@ -72,13 +72,23 @@ python3 .agents/skills/jiangnan-fiction-craft/scripts/check_skill.py
 python3 -B -m unittest discover -s .agents/skills/jiangnan-fiction-craft/scripts -p test_check_skill.py
 ```
 
-安装位置依据 [Codex 官方说明](https://learn.chatgpt.com/docs/build-skills)。实际验证范围见[安装验证记录](references/maintenance/installation.md)。本轮验证了公开仓库下载、文件完整性和 Codex 的 skill 发现；没有通过模型回答验证上述提问，也没有测评写作效果。其他宿主、全局安装和桌面选择器的手动操作尚未验证。
+安装位置依据 [Codex 官方说明](https://learn.chatgpt.com/docs/build-skills)。此前的[安装验证记录](references/maintenance/installation.md)覆盖当时的公开仓库下载、文件完整性和 Codex 的 skill 发现，没有通过模型回答验证上述安装自查提问。后续写作比较另见[单题测评记录](references/maintenance/evaluation-2026-10-29.md)，不能替代安装验证。其他宿主、全局安装和桌面选择器的手动操作尚未验证。
 
 ## 使用边界
 
 仓库包含分析、必要短引、来源指纹与覆盖记录，不包含小说全文、电子书、逐段reader或本机转换工作目录。原文锚点对应记录中的本地文字版本，不是纸书页码；版本未与指定纸本逐字校勘。
 
-方法属于编辑归纳，不是作者自述理论，也不认证作者独有风格。现有本地样稿与Luna小样本比较有局部帮助，也有交付遗漏和评阅分歧，尚不能证明稳定改善或独立因果效果；最新入口提醒尚未完成修订后的使用验证。跨章与多线研究目前有一条卷内关系线和一段战役，未补成整卷主次线篇幅安排、跨卷总伏笔表或完整人物生涯研究。漫画方法也尚未经过作品研究与验证。
+方法属于编辑归纳，不是作者自述理论，也不认证作者独有风格。本地样稿比较出现过局部差异、交付遗漏和评阅误判；广播站单题比较中，维护代理的编辑判断更倾向Terra不用库稿，尚未显示库的额外收益。具体材料、用量与限制见[单题测评记录](references/maintenance/evaluation-2026-10-29.md)；其中没有检验本版最后补充的D4操作提示，也不能据单题判断稳定改善或普遍无效。
+
+跨章与多线研究目前有一条卷内关系线和一段战役，未补成整卷主次线篇幅安排、跨卷总伏笔表或完整人物生涯研究。漫画方法也尚未经过作品研究与验证。
+
+## 使用反馈
+
+欢迎[填写一次真实使用反馈](https://github.com/SleepyLGod/jiangnan-fiction-craft-skill/issues/new?template=usage-feedback.yml)，也可先[查看模板字段](.github/ISSUE_TEMPLATE/usage-feedback.yml)。有帮助、没有帮助或出错的经历都可以，不需要评分或为了反馈重跑任务。
+
+先填版本与环境、原始任务、首次结果和具体得失；读取记录、可能归因及证据选填，不知道就保留未知。指出实际采用或拒绝的建议及原因，比“好用／不好用”更便于核对。后续重写另标轮次，不覆盖第一次结果。
+
+内容、组织、模型执行与运行环境分开核对，表达偏好也可单独记录；表单中的分类只是猜测，维护时依据记录判断，不凭一次结果认定稳定问题。Issue 会公开，只分享愿意公开的稿件片段和脱敏记录。
 
 ## 许可
 
