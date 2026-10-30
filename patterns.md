@@ -39,7 +39,7 @@
 | <a id="choice-character"></a>人物说得一样，还是看得一样 | 台词都像一个人时，C1先区分各人要办的事和请求、顾虑、换题等回应。需要同一瞬间表现不同关注时，TY7选取不同人物所见，不重播全套动作。前者改变话语在做什么，后者改变叙述让谁注意什么；关注差异不能单独解决措辞和句法的全部声线问题。跨人物呈现还须符合既定视角。 | [人物C1](references/techniques/close-reading-character.md)、[TY7](references/books/tianzhichi-02-close-reading.md#ty7) |
 | <a id="choice-object"></a>物件改变行动，还是改变认识与去向 | 要让工具解决眼前问题，P2连同折刀链核对用途、交付与持有、能力和当前距离；要让人物迟到地理解关系，D4／P3靠处理物件发现原有记录，逐项增加信息；已有卖、留、送的处置任务时，旧书例用不同待遇显出在意。三种作用可以并存，但一项成立不保证另两项成立；不是所有旧物都要藏秘密或在高潮救场。 | [P2、P3](references/techniques/close-reading-plot.md)、[折刀链](references/techniques/long-arc-longzu-02.md#knife)、[D4](references/techniques/close-reading-description.md)、[旧书处置](chapters/ch10-cijian-departure.md#方法与原因) |
 | <a id="choice-repetition"></a>同样失败，哪些值得展开 | 确有成长却输赢不变时，CY3比较对手被迫改变的握位，让成效和差距同时可见；决定每轮写多少时，P4把篇幅留给办法、意外或认识的变化，ch112把强攻失败接到辨认威胁的准备。没有变化的经过可以略写；不是每次失败都证明成长，也不要求每轮同时增加经验和代价。 | [CY3](references/books/piaomiao-02-close-reading.md#cy3-十三次仍败进步落在对手握枪的位置)、[P4](references/techniques/close-reading-plot.md)、[ch112](chapters/ch112-lz4-recursive-dream.md#方法与原因) |
-| <a id="choice-connection"></a>跨章续接一件事，还是跨线传递影响 | 楚夏线沿邀约的接受、准备、改道与后续到访，继续处理同一件未完成事项；殇阳血则让命令、执行、对手应变和撤退经过，把一处行动变成另一处的条件。先后出现、前后照应与直接因果要分别确认。营地承受突围后果，不等于救友反过来决定全军胜负；切场不要求等长或所有线在同一点结束。 | [邀约链](references/techniques/long-arc-longzu-02.md#invitation)、[传令与应变](references/techniques/multi-line-piaomiao-03.md#transmission)、[路线后果](references/techniques/multi-line-piaomiao-03.md#camp)、[不同结果](references/techniques/multi-line-piaomiao-03.md#convergence) |
+| <a id="choice-connection"></a>跨章续接、跨线影响，还是整卷展开取舍 | 楚夏线沿邀约的接受、准备、改道与后续到访，继续处理同一件未完成事项；殇阳血则让命令、执行、对手应变和撤退经过，把一处行动变成另一处的条件。整卷个案再比较大任务推进与局部重心，追踪伤势怎样接到照护和留营，属于已有方法补证。先后出现、前后照应与直接因果要分别确认。营地承受突围后果，不等于救友反过来决定全军胜负；切场不要求等长或所有线在同一点结束。 | [邀约链](references/techniques/long-arc-longzu-02.md#invitation)、[传令与应变](references/techniques/multi-line-piaomiao-03.md#transmission)、[路线后果](references/techniques/multi-line-piaomiao-03.md#camp)、[不同结果](references/techniques/multi-line-piaomiao-03.md#convergence)、[整卷取舍](references/techniques/whole-volume-piaomiao-03.md#allocation)与[状态延续](references/techniques/whole-volume-piaomiao-03.md#continuity) |
 
 ## 办事带出人物
 
@@ -87,7 +87,7 @@
 
 **何时用：** 人物猜什么都对，或身份揭示清空前文。
 **怎么做：** 列观察、当前解释与反证，检查新信息重释了什么；对读者延迟揭示时，仍留下可辨认的布置。
-**区别：** 查证词是否同源是审稿检查；布置误读是呈现方法，两者不能互相替代。见[ch99](chapters/ch99-lz3c-clown.md)、[ch105](chapters/ch105-lz4-boy-funeral.md)、[情节P1](references/techniques/close-reading-plot.md)；局部痕迹怎样支持此前所见，另见[CZ4银簪血痕](references/books/piaomiao-04-close-reading.md#cz4-棋盘已经干净银簪上还有一痕血)。
+**区别：** 查证词是否同源是审稿检查；布置误读是呈现方法，两者不能互相替代。见[ch99](chapters/ch99-lz3c-clown.md)、[ch105](chapters/ch105-lz4-boy-funeral.md)、[情节P1](references/techniques/close-reading-plot.md)；局部痕迹怎样支持此前所见，另见[CZ4银簪血痕](references/books/piaomiao-04-close-reading.md#cz4-棋盘已经干净银簪上还有一痕血)；已写出的准备与人物后来解释的区别，见[整卷个案补证](references/techniques/whole-volume-piaomiao-03.md#preparation)。
 
 ## 帮助之后的人物选择
 

@@ -23,11 +23,12 @@
 | 早先的工具现在能否派上用场，或伏笔只是再次出现 | 是要解决眼前问题，还是让人重新理解关系、选择旧物去向？前一种的用途、持有和当前条件是什么？ | [物件三种用途的比较](patterns.md#choice-object)，接P2、D4／P3及旧书处置；[折刀完整交付链](references/techniques/long-arc-longzu-02.md#knife) |
 | 跨章选择断开，邀约之后的关系变化只靠总结 | 前场说定或做出的事，后场具体接着处理什么？ | [跨章与跨线的区别](patterns.md#choice-connection)；[邀约的接受、准备与后续到访](references/techniques/long-arc-longzu-02.md#invitation)，只覆盖一条卷内线 |
 | 几个角色各有目标却没有互相影响，多线只是轮流出现 | 一处的行动，在另一处变成了什么条件？影响是否只有单向，还是确有对方的应变？ | [跨章与跨线的区别](patterns.md#choice-connection)；[《殇阳血》多线回读](references/techniques/multi-line-piaomiao-03.md)，只覆盖一段战役 |
+| 长篇已有几条线，哪些场面展开、哪些略写，什么时候转移重心 | 大任务的推进与这一段主要跟随的人或处境是否相同？前事的限制是否仍在改变后场？ | [《天下名将》整卷分配](references/techniques/whole-volume-piaomiao-03.md#allocation)与[跨章状态补证](references/techniques/whole-volume-piaomiao-03.md#continuity)，不按比例分配篇幅 |
 | 重大事件后只剩感慨 | 是否仍有一项关系需要被人物重新认识？ | [情节P3](references/techniques/close-reading-plot.md) |
 | 人物一遍遍尝试，哪些写、哪些略过 | 变的是办法、对手的应付，还是人物对失败的理解？ | [重复的比较](patterns.md#choice-repetition)，接P4、CY3和[ch112](chapters/ch112-lz4-recursive-dream.md) |
 | 帮忙等于被爱，合作自动和解；揭示真相后又认定此前帮助全假 | 已发生的帮助、后来得知的目的、关系承诺，各有什么证据？ | [帮助方法](patterns.md#帮助之后的人物选择)；[新身份下保留原有关系证据](references/techniques/long-arc-longzu-02.md#揭示后怎样保留原有的关系证据)；ch39、ch77 |
 | 赢一项就宣布全局结束 | 目标、撤离、伤势与后续各到哪一步？ | [patterns](patterns.md)的任务方法；ch16、ch67、ch101、ch117；[TC6、TC7](references/books/tianzhichi-01-close-reading.md)的修门与指令变化 |
-| 自述或记录直接变成事实 | 来源是否独立，结尾有无后证？ | ch99、ch105；[BH4](references/books/piaomiao-06-close-reading.md)的半事实与真箭；[跨书取舍](references/techniques/cross-book-methods.md)；[《蛮荒》PM7](references/books/piaomiao-01-close-reading.md)对照记载遗漏 |
+| 自述或记录直接变成事实 | 来源是否独立，结尾有无后证？ | ch99、ch105；[BH4](references/books/piaomiao-06-close-reading.md)的半事实与真箭；[跨书取舍](references/techniques/cross-book-methods.md)；[《蛮荒》PM7](references/books/piaomiao-01-close-reading.md)对照记载遗漏；[已写出的准备与后来解释](references/techniques/whole-volume-piaomiao-03.md#preparation) |
 | 称呼不见关系、探索只有形容词 | 有无称呼基线？人物凭什么认路，发现后改了什么行动？ | [《蛮荒》PM1、PM3](references/books/piaomiao-01-close-reading.md) |
 
 ## 按章节进一步回查

@@ -5,7 +5,7 @@ description: "基于《此间的少年》《龙族》《九州·缥缈录》《�
 
 # jiangnan-fiction-craft
 
-版本0.19.7（2026-10-30）。构思与成文入口接入已有场景分析，将人物的回应和选择纳入行动与后果。既有细读正文保留。覆盖范围和逐卷定位见[书目索引](references/books/index.md)。
+版本0.19.8（2026-10-30）。补《天下名将》整卷结构个案，跨章状态延续与准备证据接回已有方法，收窄一处失箭归因。既有细读与使用流程保留。覆盖范围和逐卷定位见[书目索引](references/books/index.md)。
 
 ## 使用方式
 
@@ -37,6 +37,7 @@ description: "基于《此间的少年》《龙族》《九州·缥缈录》《�
 | 反转、物件兑现、揭示顺序、重复 | [情节细读](references/techniques/close-reading-plot.md) |
 | 跨章节的人物选择、关系与回收 | [《Ⅱ》楚夏线](references/techniques/long-arc-longzu-02.md)，只覆盖一条卷内线 |
 | 多线切换、互相影响与局部汇合 | [《殇阳血》战役段](references/techniques/multi-line-piaomiao-03.md)，只覆盖一段战役 |
+| 整卷哪些场面展开、哪些略写，跨章状态怎样延续 | [《天下名将》整卷个案](references/techniques/whole-volume-piaomiao-03.md)，只研究这一卷，不给篇幅配额 |
 | 按书回查章节、其他局部细读及来源 | [书目索引](references/books/index.md) |
 
 ## 核心判断
