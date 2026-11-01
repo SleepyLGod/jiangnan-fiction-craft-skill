@@ -1,6 +1,6 @@
 # jiangnan-fiction-craft
 
-以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前版本 **0.19.9**：补《天下名将》整卷个案中完整展开与略写的比较，保留略写中的关键处境和选择，区分原文证据与编辑取舍；保留已有分析，不宣称写作效果提升。
+以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前版本 **0.19.10**：补《龙族Ⅲ下》井底遗物场景的整场动作与人物互动、词句衔接及结尾决定的问答分析，保留D4疼痛描述的推测语气和原有因果限定；保留已有分析，不宣称写作效果提升。
 
 已纳入《此间的少年》及后记、《龙族》六册、《九州·缥缈录》六册及《天之炽》两册，共189份章节分析、原89例细读、S1–S5五组句段分析、一条卷内关系线、[一段战役多线回读](references/techniques/multi-line-piaomiao-03.md)及[一个整卷结构个案](references/techniques/whole-volume-piaomiao-03.md)。逐卷范围、版本限制与来源见[书目索引](references/books/index.md)。
 
@@ -54,7 +54,7 @@ LICENSES/                 CC BY 4.0、MIT 完整条款
 
 ```sh
 mkdir -p .agents/skills
-git clone --branch v0.19.9 --depth 1 https://github.com/SleepyLGod/jiangnan-fiction-craft-skill.git .agents/skills/jiangnan-fiction-craft
+git clone --branch v0.19.10 --depth 1 https://github.com/SleepyLGod/jiangnan-fiction-craft-skill.git .agents/skills/jiangnan-fiction-craft
 ```
 
 这会安装完整仓库及配套材料，保留相对路径。固定版本的克隆会提示处于 detached HEAD，这是按标签安装的正常状态；不要只复制 `SKILL.md`。若目标目录已存在，先确认其版本及有无自己的改动，不覆盖它。
