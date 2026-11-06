@@ -27,7 +27,7 @@ REPOSITORY_FILES = {
 }
 LINK = re.compile(r"\[[^\]]*\]\(([^)]+)\)")
 CITATION = re.compile(
-    r"\b(cijian|lz[124]|lz3[abc]|pm[1-6]|tz[12]):"
+    r"\b(cijian|lz[124]|lz3[abc]|pm[1-6]|tz[12]|shb|sbl1):"
     r"(ch\d+|part\d{4}):P(\d{4})(?:[–-]P(\d{4}))?"
 )
 

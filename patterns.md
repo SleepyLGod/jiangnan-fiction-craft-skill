@@ -24,7 +24,7 @@
 | 技术步骤、条件与分阶段结果 | [TC6门合紧却已解除自锁，再用钥匙验证](references/books/tianzhichi-01-close-reading.md#tc6-门合得更紧为什么这一小步反而修好了)：旁观误判依赖已交代的中间状态，区别于临时宣布假失败；[YM7射击条件](references/books/piaomiao-05-close-reading.md#ym7)；[YM9救援后果](references/books/piaomiao-05-close-reading.md#ym9) |
 | 同样失败，怎样看出进步而仍有差距 | [CY3对手被迫前移握位，最强防守仍未用](references/books/piaomiao-02-close-reading.md#cy3-十三次仍败进步落在对手握枪的位置)：须能前后比较且确有因果，区别于只用胜负表示成长；[与篇幅分配比较](#choice-repetition) |
 | 比喻怎样改变交涉的前提 | [TC8从农夫与蛇换成被拔爪的狮子](references/books/tianzhichi-01-close-reading.md#tc8-对方讲蛇回答却换成被拔爪的狮子)：已有利益争议时重新安排交易角色，区别于装饰性类比；对方并未因此被说服结束 |
-| 探索与记载 | [PM3路线](references/books/piaomiao-01-close-reading.md#pm3)；[PM7遗漏](references/books/piaomiao-01-close-reading.md#pm7) |
+| 探索与记载 | [PM3路线](references/books/piaomiao-01-close-reading.md#pm3)；[PM7遗漏](references/books/piaomiao-01-close-reading.md#pm7)；[暴雨中咆哮、触地与敲刀鞘传声](references/books/shangboliang-01.md#rain)，补环境改变沟通和行进的具体条件 |
 
 <a id="comparisons"></a>
 
@@ -37,7 +37,7 @@
 | <a id="choice-explanation"></a>原因和旧事何时说明 | 要让读者先带着原因理解动作，可提前交代；要先呈现感受或回应，再补理解它的背景，可延后。S1先说淋雨造成的冷，伤痛后补伤因；S3紧跟起身澄清紧张，却在吃东西的回应之后补共同夜班。移动说明会改变读者先知道什么，不自动改变人物所知。先核对叙述者有无权限，后置不天然更含蓄。 | [句段S1](references/techniques/close-reading-sentence-flow.md#s1)、[S3](references/techniques/close-reading-sentence-flow.md#s3) |
 | <a id="choice-description"></a>描写让人停留，还是帮助辨认 | 已有离校时间与回望情境时，D1用风经过地面、灌木与叶声让日常变得可感；要随接近过程展开空间与尺度，选D2；连续动作后辨不清姿态，选D3的一次停顿。它们分别改变停留感、空间展开和动作辨认；删去不改变事件，不代表阅读感受不变。急迫行动能容纳多长停留，要回到当前节奏判断。 | [描写D1–D3](references/techniques/close-reading-description.md) |
 | <a id="choice-character"></a>人物说得一样，还是看得一样 | 台词都像一个人时，C1先区分各人要办的事和请求、顾虑、换题等回应。需要同一瞬间表现不同关注时，TY7选取不同人物所见，不重播全套动作。前者改变话语在做什么，后者改变叙述让谁注意什么；关注差异不能单独解决措辞和句法的全部声线问题。跨人物呈现还须符合既定视角。 | [人物C1](references/techniques/close-reading-character.md)、[TY7](references/books/tianzhichi-02-close-reading.md#ty7) |
-| <a id="choice-object"></a>物件改变行动，还是改变认识与去向 | 要让工具解决眼前问题，P2连同折刀链核对用途、交付与持有、能力和当前距离；要让人物迟到地理解关系，D4／P3靠处理物件发现原有记录，逐项增加信息；已有卖、留、送的处置任务时，旧书例用不同待遇显出在意。三种作用可以并存，但一项成立不保证另两项成立；不是所有旧物都要藏秘密或在高潮救场。 | [P2、P3](references/techniques/close-reading-plot.md)、[折刀链](references/techniques/long-arc-longzu-02.md#knife)、[D4](references/techniques/close-reading-description.md)、[旧书处置](chapters/ch10-cijian-departure.md#方法与原因) |
+| <a id="choice-object"></a>物件改变行动，还是改变认识与去向 | 要让工具解决眼前问题，P2连同折刀链核对用途、交付与持有、能力和当前距离；要让人物迟到地理解关系，D4／P3靠处理物件发现原有记录，逐项增加信息；已有卖、留、送的处置任务时，旧书例用不同待遇显出在意。三种作用可以并存，但一项成立不保证另两项成立；不是所有旧物都要藏秘密或在高潮救场。工具可用却因割绳预案不敢求救的对照，见[水下绳索](references/books/shangboliang-01.md#rope)。 | [P2、P3](references/techniques/close-reading-plot.md)、[折刀链](references/techniques/long-arc-longzu-02.md#knife)、[D4](references/techniques/close-reading-description.md)、[旧书处置](chapters/ch10-cijian-departure.md#方法与原因) |
 | <a id="choice-repetition"></a>同样失败，哪些值得展开 | 确有成长却输赢不变时，CY3比较对手被迫改变的握位，让成效和差距同时可见；决定每轮写多少时，P4把篇幅留给办法、意外或认识的变化，ch112把强攻失败接到辨认威胁的准备。没有变化的经过可以略写；不是每次失败都证明成长，也不要求每轮同时增加经验和代价。 | [CY3](references/books/piaomiao-02-close-reading.md#cy3-十三次仍败进步落在对手握枪的位置)、[P4](references/techniques/close-reading-plot.md)、[ch112](chapters/ch112-lz4-recursive-dream.md#方法与原因) |
 | <a id="choice-connection"></a>跨章续接、跨线影响，还是整卷展开取舍 | 楚夏线沿邀约的接受、准备、改道与后续到访，继续处理同一件未完成事项；殇阳血则让命令、执行、对手应变和撤退经过，把一处行动变成另一处的条件。整卷个案再比较大任务推进与局部重心，追踪伤势怎样接到照护和留营，属于已有方法补证。先后出现、前后照应与直接因果要分别确认。营地承受突围后果，不等于救友反过来决定全军胜负；切场不要求等长或所有线在同一点结束。 | [邀约链](references/techniques/long-arc-longzu-02.md#invitation)、[传令与应变](references/techniques/multi-line-piaomiao-03.md#transmission)、[路线后果](references/techniques/multi-line-piaomiao-03.md#camp)、[不同结果](references/techniques/multi-line-piaomiao-03.md#convergence)、[整卷取舍](references/techniques/whole-volume-piaomiao-03.md#allocation)与[状态延续](references/techniques/whole-volume-piaomiao-03.md#continuity) |
 
@@ -47,11 +47,15 @@
 **怎么做：** 确定眼前任务；让介入者提供帮助或障碍；以处理方式暴露关注，让结果决定下次接触。
 **区别：** 《此间》迎新靠搬运和指令；《Ⅰ》入学邀请逐步改变手续与权限。不是所有相遇都需超常邀请。见[ch01](chapters/ch01-cijian-encounters.md)、[ch12](chapters/ch12-lz1-gate.md)。
 
+多人协作中本事、接话与分工怎样连续相接，另见[黑泽过路整场](references/books/shangboliang-01.md#crossing)。
+
 ## 同一话语，不同需要与表达
 
 **何时用：** 对白没有人物差别，或两人不断错开。
 **怎么做：** 分别写当前需要、知道什么、实际回应什么；检查追问、转移和替代办法。人物想得出但说不出时，再考虑内心与口头的差异。
 **区别：** 期待错开见[ch03](chapters/ch03-cijian-retrospection.md)、[ch09](chapters/ch09-cijian-withdrawal.md)；群像声线见[人物C1](references/techniques/close-reading-character.md)，表达受阻见[语言L3](references/techniques/close-reading-language.md)。不靠无理由隐瞒维持所有误会。
+
+[五分钟谈话](references/books/shanghai-fortress.md#speech)与L3比较内心已有完整表达、临近出口时仍在动摇两种情况；按要呈现的内容选用。
 
 ## 关系变化：习惯停止与物件处置
 
@@ -59,11 +63,15 @@
 **怎么做：** 已积累日常往来时，写停止后的具体不便；面临离别时，写买卖、交接或保留的区别；有尚未被理解的记录时，再写发现顺序。
 **区别：** 三者不能互换。没有前文积累，不能临时加习惯立刻怀念；普通旧物也不必藏秘密。见[ch02](chapters/ch02-cijian-routines.md)、[ch09](chapters/ch09-cijian-withdrawal.md)、[ch10](chapters/ch10-cijian-departure.md)、[描写D4](references/techniques/close-reading-description.md)。
 
+[三缺一补证](references/books/shanghai-fortress.md#absence)用已展开过的游戏写缺席，补充日常无法照旧的具体安排，不另立方法。
+
 ## 任务的推进、完成与重试
 
 **何时用：** 长场景重复争论、一次成功包办全局，或复访只是更难一关。
 **怎么做：** 推进时让办法改变下一问题；完成时分清操作、目标、撤离与伤势；重试时保留经验，并把篇幅留给变化。
 **区别：** 这是三个阶段，不是三种强迫失败的配方。暂时成功可以有效，准备也应有收益。见[ch05](chapters/ch05-cijian-party.md)、[ch16](chapters/ch16-lz1-shadow.md)、[ch20](chapters/ch20-lz1-tomb.md)、[情节P4](references/techniques/close-reading-plot.md)。
+
+[沙发避险整场](references/books/shanghai-fortress.md#rescue)可比较对方的回应怎样改变救法，以及外部脱险与关系判断怎样分别落地。
 
 ## 规则与权威改变谁的结果
 
@@ -89,11 +97,15 @@
 **怎么做：** 列观察、当前解释与反证，检查新信息重释了什么；对读者延迟揭示时，仍留下可辨认的布置。
 **区别：** 查证词是否同源是审稿检查；布置误读是呈现方法，两者不能互相替代。见[ch99](chapters/ch99-lz3c-clown.md)、[ch105](chapters/ch105-lz4-boy-funeral.md)、[情节P1](references/techniques/close-reading-plot.md)；局部痕迹怎样支持此前所见，另见[CZ4银簪血痕](references/books/piaomiao-04-close-reading.md#cz4-棋盘已经干净银簪上还有一痕血)；已写出的准备与人物后来解释的区别，见[整卷个案补证](references/techniques/whole-volume-piaomiao-03.md#preparation)。
 
+[祁烈两版故事](references/books/shangboliang-01.md#testimony)补充听者先受感动、再核对前后说法的过程，后来理解牵挂也不等于往事全部证实。
+
 ## 帮助之后的人物选择
 
 **何时用：** 帮忙就默认爱情，或配角只等安排。
 **怎么做：** 分别呈现帮助效果、同意范围和关系承诺，让对方有改变局面的选择；体贴、自利和误解可同时存在。
 **区别：** 合作可以只为当前目标，不自动完成和解。见[ch28](chapters/ch28-lz2-dandelion.md)、[ch39](chapters/ch39-lz2-beautiful-day.md)、[ch77](chapters/ch77-lz3b-justice.md)。
+
+另一种整场安排见[沙发避险](references/books/shanghai-fortress.md#rescue)；相救后仍有求生利益分歧，见[水下绳索](references/books/shangboliang-01.md#rope)。
 
 《蛮荒》不另增顶层方法：下跪捡刀补“观察与解释”，人质选择补“规则与代价”，铁链距离补“帮助后的选择”，护腕补“当前条件”。[对照表](references/books/piaomiao-01.md)标出重复与差别，旧方法不按出现次数累计。
 
