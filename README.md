@@ -1,6 +1,6 @@
 # jiangnan-fiction-craft
 
-以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前工作版本 **0.20.0（尚未发布标签）**：新增《上海堡垒》《九州·商博良Ⅰ》两个整场个案、两处写法比较及五处短补证。保留已有分析，不宣称写作效果提升。
+以江南小说精读证据为依据的中文小说写作参考库，支持查例、比较写法与适用条件，以及按需构思、续写和修改。当前版本 **0.20.0**：新增《上海堡垒》《九州·商博良Ⅰ》两个整场个案、两处写法比较及五处短补证。保留已有分析，不宣称写作效果提升。
 
 已纳入《此间的少年》及后记、《龙族》六册、《九州·缥缈录》六册及《天之炽》两册，共189份章节分析、原89例细读、S1–S5五组句段分析、一条卷内关系线、[一段战役多线回读](references/techniques/multi-line-piaomiao-03.md)及[一个整卷结构个案](references/techniques/whole-volume-piaomiao-03.md)。另新增《上海堡垒》《九州·商博良Ⅰ》全文文字阅读后的精选细读，未增加章节分析编号，也不把重复证据计为新方法。逐卷范围、版本限制与来源见[书目索引](references/books/index.md)。
 
@@ -26,7 +26,7 @@
 
 第一次使用可看[完整编辑示例](references/maintenance/usage-example.md)：从一段原创告别原稿出发，查两条材料，解释取舍，再给局部修改和未解决部分。这是AI 编写的演示，不是效果测评。
 
-也可直接阅读[《邮亭送信》三场阶段稿](references/maintenance/post-station-example.md)：这是AI 辅助创作的连续写作示例，故事尚未完结，不作为本库效果证明。本示例不包含在已有的v0.19.10固定标签中。
+也可直接阅读[《邮亭送信》三场阶段稿](references/maintenance/post-station-example.md)：这是AI 辅助创作的连续写作示例，故事尚未完结，不作为本库效果证明。v0.20.0包含本示例。
 
 ## 目录
 
@@ -52,11 +52,11 @@ LICENSES/                 CC BY 4.0、MIT 完整条款
 
 ## 安装与验证（Codex）
 
-先支持 Codex 的项目内安装。以下命令仍安装已有正式标签 **v0.19.10**，不包含本次0.20.0新增选例；0.20.0尚未创建标签。准备 Git，在你写作项目的根目录打开终端，运行：
+先支持 Codex 的项目内安装。以下命令安装固定版本 **v0.20.0**，包含本次新增选例。准备 Git，在你写作项目的根目录打开终端，运行：
 
 ```sh
 mkdir -p .agents/skills
-git clone --branch v0.19.10 --depth 1 https://github.com/SleepyLGod/jiangnan-fiction-craft-skill.git .agents/skills/jiangnan-fiction-craft
+git clone --branch v0.20.0 --depth 1 https://github.com/SleepyLGod/jiangnan-fiction-craft-skill.git .agents/skills/jiangnan-fiction-craft
 ```
 
 这会安装完整仓库及配套材料，保留相对路径。固定版本的克隆会提示处于 detached HEAD，这是按标签安装的正常状态；不要只复制 `SKILL.md`。若目标目录已存在，先确认其版本及有无自己的改动，不覆盖它。
